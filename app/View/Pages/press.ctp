@@ -28,7 +28,7 @@
 		</p>
 		<ul>
 			<li>
-				<a starget="_new" href="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/Design for Change - Media Partnership.pdf">Media Partnership Details</a>
+				<a starget="_new" href="/dfcusa/files/Design for Change - Media Partnership.pdf">Media Partnership Details</a>
 			</li>
 		</ul>
 		<p class="pagetitle nomargin">For Schools:</p>
@@ -37,10 +37,10 @@
 		</p>
 		<ul>
 			<li>
-				<a target="_new" href="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/Design for Change - Press Release Template.pdf">Press Release template</a>
+				<a target="_new" href="/dfcusa/files/Design for Change - Press Release Template.pdf">Press Release template</a>
 			</li>
 			<li>
-				<a target="_new" href="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/Design for Change - Press Release Quick Tips.pdf">Press Release&nbsp;quick tips</a>
+				<a target="_new" href="/dfcusa/files/Design for Change - Press Release Quick Tips.pdf">Press Release&nbsp;quick tips</a>
 			</li>
 		</ul>
 		<br class="clear">

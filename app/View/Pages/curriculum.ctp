@@ -39,7 +39,7 @@
             <div class="shortShadow"></div>
             <p class="pagetitle" style="padding-top: 50px">View the Curriculum here:</p>
             <div>
-                <iframe src="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/Design%20for%20Change%20Curriculum%20Document.pdf" style="width: 635px; height: 700px; margin-bottom: 35px; margin-left: 14px;" frameborder="0"></iframe>
+                <iframe src="/dfcusa/files/Design%20for%20Change%20Curriculum%20Document.pdf" style="width: 635px; height: 700px; margin-bottom: 35px; margin-left: 14px;" frameborder="0"></iframe>
             </div>
         </div>
     </div>
