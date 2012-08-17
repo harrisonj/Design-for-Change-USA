@@ -23,9 +23,13 @@
     <br class="clear" />    
     <div class="subscribe">
     	<p><strong>Subscribe to our</strong> Newsletter</p>
-        <form class="searchbar" method="post" action="#">
-            <input type="text" name="search" class="searchtab"/>
-            <input type="submit" name="subscribe" class="button" value="subscribe" />
+        <form class="searchbar" action="http://designforchange.us2.list-manage.com/subscribe/post?u=233ebb0aa3989a447582c85a1&amp;id=9d72463d1b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <input type="text" name="EMAIL" id="mce-EMAIL" class="searchtab"/>
+            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" />
         </form>
+    </div>
+</div>
+
+<!--End mc_embed_signup-->
     </div>
 </div>
