@@ -20,7 +20,7 @@
 		    <li class="question">
 		    	<a href="javascript:void(0)" onclick="$(this).parent().find('.answer').toggle()">What are the various ways in which students can participate in the Design for Change Contest?</a>
 		    	<div class="answer" style="display: none">
-				    Last year, children undertook projects ranging from raising awareness about medical conditions in children to creating a library for a local orphanage; from cleaning their neighborhoods to educating local communities about the harmful effects of pollution. As teachers, it's important to encourage children to think of solutions that will have a long lasting impact. Encourage them to think of out of the box solutions to challenges!
+				    Last year, children undertook projects ranging from raising awareness about medical conditions in children to creating a library for a local orphanage; from cleaning their neighborhoods to educating local communities about the harmful effects of pollution. As teachers, it's important to encourage children to think of solutions that will have a long lasting impact. The idea and project should come from them so that they see and feel the direct effects of their efforts. Encourage them to think of out of the box solutions to challenges!
 		    	</div>
 		    </li>
 		    <li class="question">

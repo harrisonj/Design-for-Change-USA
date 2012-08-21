@@ -18,10 +18,10 @@
 				<area shape="rect" coords="286,105,488,174" alt="" title="" href="../pages/submit">
 				<area shape="rect" coords="283,202,395,238" alt="" title="" target="_new" href="../pages/3in1">
 				<area shape="rect" coords="286,249,396,283" alt="" title="" target="_new" href="http://www.amarchitrakatha.com/amar-chitra-katha/i-can">
-				<area shape="rect" coords="282,293,392,327" alt="" title="" target="_new" href="http://www.tumblr.com/tagged/dfcusa">
-				<area shape="rect" coords="284,346,394,416" alt="" title="" target="_new" href="/dfcusa/files/Icebreakers%20and%20Team%20Activities.pdf">
+				<area shape="rect" coords="282,293,392,327" alt="" title="" target="_new" href="http://www.dfcworld.com/indiastory.html">
+				<area shape="rect" coords="284,346,394,416" alt="" title="" target="_new" href="/dfcusa/files/DailyFeats%20-%20Ice%20Breakers%20and%20Team%20Building.docx">
 				<area shape="rect" coords="285,457,395,491" alt="" title="" target="_new" href="/dfcusa/files/Design%20for%20Change%20Curriculum%20Document.pdf">
-				<area shape="rect" coords="285,508,395,542" alt="" title="" target="_new" href="/dfcusa/files/Design%20for%20Change%20Worksheets.pdf">
+				<area shape="rect" coords="285,508,395,542" alt="" title="" target="_new" href="/dfcusa/files/Design%20for%20Change%20Worksheets.docx">
 				<area shape="rect" coords="283,617,393,651" alt="" title="" target="_new" href="../pages/press">
 				<area shape="rect" coords="284,0,491,55" alt="" title="" href="../pages/volunteer"> 
 			</map>

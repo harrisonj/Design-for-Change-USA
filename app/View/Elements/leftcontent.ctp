@@ -1,4 +1,5 @@
 <div class="leftContent">
+    <br class="clear" /><br class="clear" />
 	<div class="ourMission">
     	<h2><strong>The</strong> Mission</h2>
         <div class="imgLink">
@@ -28,7 +29,12 @@
             <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" />
         </form>
     </div>
-</div>
+<!--     <br class="clear" />   
+    <br class="clear" />     
+    <div class="quicklinks">
+        <p><strong><a href="http://www.dfcworld.com" target="_new" style="font-size: 15pt; color: #fc8901">Visit the DFC World Website</a></strong></p>
+    </div>
+ --></div>
 
 <!--End mc_embed_signup-->
     </div>
