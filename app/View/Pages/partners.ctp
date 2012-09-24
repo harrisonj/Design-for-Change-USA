@@ -39,5 +39,7 @@
 			<br>
 			<p><span style="font-size: small; ">If you are interested in being a partner/sponsor, please fill out the form below and someone from the Design for Change USA team will be in touch with you.</span></p>
 		</div>
+		<br class="clear">
 	</div>
 </div>
+<div class="clear"></div>
