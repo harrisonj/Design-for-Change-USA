@@ -8,7 +8,7 @@
 			<a target="_new" href="http://www.thinkfun.com/"><img border="0" alt="" src="/dfcusa/app/webroot/images/external/thinkfun.png"></a> <br>
 			<br>
 			<br>
-			<a target="_new" href="http://www.core77.com/"><img border="0" alt="" src="/dfcusa/app/webroot/images/external/core77.png"></a> <br>
+			<a target="_new" href="http://www.teachforamerica.com/"><img border="0" alt="" src="/dfcusa/app/webroot/images/external/tfa.png"></a> <br>
 			<br>
 			<br>
 			<a target="_new" href="http://www.designobserver.com/"><img border="0" alt="" src="/dfcusa/app/webroot/images/external/designobserver.png"></a> <br>
