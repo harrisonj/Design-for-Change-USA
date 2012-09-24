@@ -5,22 +5,22 @@
 
     <div class="insidepage">
     	<div class="normaltext" style="padding-top: 80px">
-			<a target="_new" href="http://www.thinkfun.com/"><img border="0" alt="" src="http://www.thinkfun.com/sites/default/files/images/tfjr.png"></a> <br>
+			<a target="_new" href="http://www.thinkfun.com/"><img border="0" alt="" src="/dfcusa/app/webroot/images/external/thinkfun.png"></a> <br>
 			<br>
 			<br>
-			<a target="_new" href="http://www.core77.com/"><img border="0" alt="" src="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/sponsors/core77.png"></a> <br>
+			<a target="_new" href="http://www.core77.com/"><img border="0" alt="" src="/dfcusa/app/webroot/images/external/core77.png"></a> <br>
 			<br>
 			<br>
-			<a target="_new" href="http://www.designobserver.com/"><img border="0" alt="" src="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/sponsors/designobserver.png"></a> <br>
+			<a target="_new" href="http://www.designobserver.com/"><img border="0" alt="" src="/dfcusa/app/webroot/images/external/designobserver.png"></a> <br>
 			<br>
 			<br>
-			<a target="_new" href="http://www.ideo.com/"><img border="0" alt="" src="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/sponsors/ideo.png"></a> <br>
+			<a target="_new" href="http://www.ideo.com/"><img border="0" alt="" src="/dfcusa/app/webroot/images/external/ideo.png"></a> <br>
 			<br>
 			<br>
-			<a target="_new" href="http://www.inspiredteaching.org/"><img border="0" alt="" src="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/sponsors/inspiredteaching.png"></a> <br>
+			<a target="_new" href="http://www.inspiredteaching.org/"><img border="0" alt="" src="/dfcusa/app/webroot/images/external/inspiredteaching.png"></a> <br>
 			<br>
 			<br>
-			<a target="_new" href="http://dschool.stanford.edu/"><img border="0" alt="" src="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/sponsors/stanford.png"></a>
+			<a target="_new" href="http://dschool.stanford.edu/"><img border="0" alt="" src="/dfcusa/app/webroot/images/external/dschool.png"></a>
 		</div>
 
 		<p class="pagetitle nomargin">Become a sponsor</p>
