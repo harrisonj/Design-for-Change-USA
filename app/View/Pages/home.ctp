@@ -18,7 +18,7 @@
           </ul>
     </div>
     <br class="clear"/><br class="clear"/>
-    <a href="../pages/getstarted/"><div class="getStarted">Get Started</div></a>
+    <a href="../pages/getstarted/"><div class="button">Get Started</div></a>
     <br class="clear"/><br class="clear"/>
 	<div class="readmore">
 	    <a href="../pages/whatisdfc">or read more about Design for Change</a>
