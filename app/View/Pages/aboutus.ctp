@@ -5,7 +5,7 @@
     <br>
     <div class="insidepage container">
 		<div class="normaltext" style="float: left; width: 100px">
-			<img width="95" alt="" src="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/sanjli.png">
+			<img width="95" alt="" src="/dfcusa/images/sanjli.png">
 		</div>
 		<div class="normaltext">
 			<br><br>
@@ -15,7 +15,7 @@
 			<p>&nbsp;</p>
 		</div>
 		<div class="normaltext" style="float: left; width: 100px">
-			<img width="95" alt="" src="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/jim.png">
+			<img width="95" alt="" src="/dfcusa/images/jim.png">
 		</div>
 		<div class="normaltext">
 			<br><br>
@@ -25,7 +25,7 @@
             <p>&nbsp;</p>
 		</div>
 		<div class="normaltext" style="float: left; width: 100px">
-			<img width="95" alt="" src="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/swetha.png">
+			<img width="95" alt="" src="/dfcusa/images/swetha.png">
 		</div>
 		<div class="normaltext">
 			<br><br>
@@ -35,7 +35,7 @@
             <p>&nbsp;</p>
 		</div>
 		<div class="normaltext" style="float: left; width: 100px">
-			<img width="95" alt="" src="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/shannon.png">
+			<img width="95" alt="" src="/dfcusa/images/shannon.png">
 		</div>
 		<div class="normaltext">
 			<br><br>
@@ -45,7 +45,7 @@
             <p>&nbsp;</p>
         </div>
 		<div class="normaltext" style="float: left; width: 100px">
-			<img width="95" alt="" src="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/nithin.png">
+			<img width="95" alt="" src="/dfcusa/images/nithin.png">
 		</div>
 		<div class="normaltext">
 			<br><br>
@@ -62,6 +62,16 @@
 			<b>Anitha Pai - Project Manager</b><br>
             <a href="mailto:anitha@designforchange.us">anitha@designforchange.us</a><br>
             Anitha is one of the newest members of DFC and joins the team with experience in the  international development and non-profit sectors. Anitha recently earned her Master’s in education from the Harvard Graduate School of Education (HGSE), where she focused her studies on youth development, community engagement, and experiential learning. Prior to joining HGSE, Anitha spent two years in the social entrepreneurship space in India where she witnessed the power of young people to create social change. She’s excited to bring her enthusiasm for service learning and skills in program management to empower students to say 'I can!'. Anitha will focus her time on developing partnerships and managing grants for DFC?
+            <p>&nbsp;</p>
+		</div>
+		<div class="normaltext" style="float: left; width: 100px">
+			<img width="95" alt="" src="/dfcusa/images/shree.png">
+		</div>
+		<div class="normaltext">
+			<br><br>
+			<b>Shree Lakshmi Rao - User Experience Design</b><br>
+            <a href="mailto:shree@designforchange.us">shree@designforchange.us</a><br>
+            Shree Lakshmi (SL) Rao is a second year master's student at the Interaction Design program at Carnegie Mellon University. She is interested in human centered design, design strategy and grassroot level innovation. She is excited about volunteering with Design for Change because it uses the design process to empower students to make the change they want to see in the world. She hopes to help shape the DFC brand through global partnerships and website. 
             <p>&nbsp;</p>
 		</div>
 	</div>
