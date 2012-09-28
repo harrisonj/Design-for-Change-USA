@@ -34,7 +34,7 @@
                 </tr>
                 <tr>
                     <td >
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20Curriculum%20Document.pdf">- The Design for Change Curriculum</a></p>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20Curriculum%20Document.pdf">- The Design for Change Curriculum <br><i>(new version coming Nov 1, 2012)</i></a></p>
                     </td>
                     <td>
                        <p class="dfc-link"><a target="_new" href="http://www.dfcworld.com/FILE/FIDS_Global_Windows.zip">- Feel, Imagine, Do, Share Presentation</a></p>
@@ -52,6 +52,9 @@
                     <td>
                        <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Letter%20to%20Parents.docx">- Sample Letter To Parents</a></p>
                     </td>
+                     <td>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%Decision%20to%Tree.docx">- Decision Tree for Projects</a></p>
+                    </td>
                 </tr>
                  <tr>
                    
@@ -63,7 +66,8 @@
                 <p><span>FOR EXISTING DFC COUNTRY USERS:</span> Select your country from the DFC world home page for relevant information/resources to participate.</p>
             </div>
             ---->
-            <p class="pagetitle" style="padding-top: 50px">View the Curriculum here:</p>
+            <p class="pagetitle" style="padding-top: 50px; margin-bottom: -14px">View the Curriculum here:</p>
+            <p style="width: 600px">A new version of the Design for Change Curriculum is coming soon on November 1, 2012. Please see last year's curriculum here:</p>
             <div>
                 <iframe src="/dfcusa/files/Design%20for%20Change%20Curriculum%20Document.pdf" style="width: 635px; height: 700px; margin-bottom: 35px; margin-left: 14px;" frameborder="0"></iframe>
             </div>
