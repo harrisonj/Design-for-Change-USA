@@ -34,7 +34,7 @@
                 </tr>
                 <tr>
                     <td >
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20Curriculum%20Document.pdf">- The Design for Change Curriculum <br><i>(new version coming Nov 1, 2012)</i></a></p>
+                       <p class="dfc-link"><a target="_new" href="javascript:alert('The new DFC Curriculum is coming on Nov 1, 2012. Sign up to our newsletter to be reminded when it is released.');">- The Design for Change Curriculum <br><i>(new version coming Nov 1, 2012)</i></a></p>
                     </td>
                     <td>
                        <p class="dfc-link"><a target="_new" href="http://www.dfcworld.com/FILE/FIDS_Global_Windows.zip">- Feel, Imagine, Do, Share Presentation</a></p>
@@ -65,12 +65,14 @@
                 <p><span>FOR NEW PARTNERS:</span> All resources will need to be customized for your country/need. Contact us at <a href="#">india@dfcworld.com</a> for open files to alter/change/edit to your requirements. </p>
                 <p><span>FOR EXISTING DFC COUNTRY USERS:</span> Select your country from the DFC world home page for relevant information/resources to participate.</p>
             </div>
-            ---->
+            
             <p class="pagetitle" style="padding-top: 50px; margin-bottom: -14px">View the Curriculum here:</p>
             <p style="width: 600px">A new version of the Design for Change Curriculum is coming soon on November 1, 2012. Please see last year's curriculum here:</p>
             <div>
                 <iframe src="/dfcusa/files/Design%20for%20Change%20Curriculum%20Document.pdf" style="width: 635px; height: 700px; margin-bottom: 35px; margin-left: 14px;" frameborder="0"></iframe>
             </div>
+
+            ---->
         </div>
     </div>
 </div>
