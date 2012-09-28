@@ -34,6 +34,14 @@
                 </tr>
                 <tr>
                     <td >
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20Curriculum%20Document.pdf">- The Design for Change Curriculum</a></p>
+                    </td>
+                    <td>
+                       <p class="dfc-link"><a target="_new" href="http://www.dfcworld.com/FILE/FIDS_Global_Windows.zip">- Feel, Imagine, Do, Share Presentation</a></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td >
                        <p class="dfc-link"><a target="_new" href="/dfcusa/files/Getting%20Started/Design for Change - CCSSi Audit Form.docx">- CCSSi Audit Form</a></p>
                     </td>
                     <td>
@@ -41,25 +49,12 @@
                     </td>
                 </tr>
                 <tr>
-                    <td >
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Academic%20Standards%20Audit%20Form.pdf">- Academic Standards Audit Form</a></p>
-                    </td>
                     <td>
                        <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Letter%20to%20Parents.docx">- Sample Letter To Parents</a></p>
                     </td>
                 </tr>
-                <tr>
-                    <td >
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Youth%20Development%20Impact.pdf">- Youth Development Impact</a></p>
-                    </td>
-                    <td>
-                       <p class="dfc-link"><a target="_new" href="http://www.dfcworld.com/FILE/FIDS_Global_Windows.zip">- Feel, Imagine, Do, Share Presentation</a></p>
-                    </td>
-                </tr>
                  <tr>
-                    <td >
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20Curriculum%20Document.pdf">- The Design for Change Curriculum</a></p>
-                    </td>
+                   
                 </tr>
             </table>
             <br>
