@@ -3,7 +3,15 @@
     	<h1><strong>Submit Your Project</strong></h1>
     </div>
     <div class="insidepage" style="padding-top: 80px; padding-right: 20px">
-    	<p class="pagetitle">Process</p>
+    	<p class="pagetitle">Register Your School</p>
+		<ul>
+			<br class="clear"/>
+			<a href="http://submission.dfcworld.com" target="_new"><div class="button">Register Your School Now</div></a>
+			<br class="clear"/>
+			<div style="padding-left: 20px; padding-right: 30px; font-style: italic; font-size: 10pt">You will be forwarded to the Design for Change World website. Be sure to select The United States as your country when you submit your project.</div>
+		</ul>
+		<br>
+    	<p class="pagetitle">Submit Your Project</p>
 		<ul>
 			<li>
 				As the mentor/teacher for your class project, you will be required to submit your project using the Design for Change online platform which can be found on the website. 
