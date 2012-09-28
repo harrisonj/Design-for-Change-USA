@@ -544,6 +544,10 @@ padding:0;
 			margin: 5px 0 15px 27px;
 			width: 355px;
 		}
+
+		.schoolCurriculum .dfc-link{
+			width: 285px;
+		}
 		
 	.schoolCurriculum span.title{
 		font-size:28px;

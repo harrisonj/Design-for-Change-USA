@@ -26,16 +26,8 @@
 				<area shape="rect" coords="440,548,442,550" href="http://www.image-maps.com/index.php?aff=mapped_users_7201209232041523" alt="Image Map" title="Image Map" />
 				</map>
 		</p>
-		<p class="normaltext">
-			<img width="500" id="Image-Maps_2201111142154452" usemap="#Image-Maps_2201111142154452" border="0" alt="" src="/dfcusa/images/teacherscorner.png">  
-			<map id="_Image-Maps_2201111142154452" name="Image-Maps_2201111142154452">
-				<area shape="rect" coords="11,64,227,135" alt="" target="_new" title="" href="/dfcusa/files/Design%20for%20Change%20-%20Academic%20Standards%20Audit%20Form.pdf">
-				<area shape="rect" coords="271,64,487,135" alt="" target="_new" title="" href="/dfcusa/files/Design%20for%20Change%20-%20Letter%20to%20Parents.docx">
-				<area shape="rect" coords="12,148,228,219" alt="" target="_new" title="" href="/dfcusa/files/Design%20for%20Change%20-%20Top%2010%20Tips%20for%20Teachers%20and%20Mentors.pdf">
-				<area shape="rect" coords="267,149,483,220" alt="" target="_new" title="" href="/dfcusa/files/Design%20for%20Change%20-%20Youth%20Development%20Impact.pdf">
-				<area shape="rect" coords="498,248,500,250" alt="Image Map" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_2201111142154451">
-			</map>
-		</p>
+		<p class="pagetitle"><a href="/dfcusa/pages/documents">Click here to download important documents</a></p>
+		<br><br><br><br><br><br>
     </div>
 </div>
 <div class="clear"></div>

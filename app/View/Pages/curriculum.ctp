@@ -36,6 +36,9 @@
                     <td width="30%">
                        <p class="dfc"><a target="_new" href="/dfcusa/files/Getting%20Started/Design for Change - CCSSi Audit Form.docx">- CCSSi Audit Form</a></p>
                     </td>
+                    <td width="50%">
+                       <p class="dfc"><a target="_new" href="/dfcusa/files/Design for Change - Top 10 Tips for Teachers and Mentors.pdf">- Top 10 Tips for Teachers and Mentors</a></p>
+                    </td>
                 </tr>
             </table>
             <br>

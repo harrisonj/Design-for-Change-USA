@@ -40,7 +40,7 @@
 				Be sure to document your project at every stage, this footage/documentation will be vital when  constructing your final presentation the curriculum e.g., highlight key events and struggles. If you have any difficulty with the submission platform, please notify us at info@designforchange.us
 			</li>
 		</ul>
-		<p class="pagetitle">How Your Project Is Judged</p>
+		<p class="pagetitle">Judging Rubric</p>
 		<div>
             <iframe src="/dfcusa/files/Design%20for%20Change%20USA%20-%20Judging%20and%20Submission.pdf" style="width: 635px; height: 500px; margin-bottom: 35px; margin-left: 14px;" frameborder="0"></iframe>
         </div>
