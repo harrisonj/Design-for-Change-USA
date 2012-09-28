@@ -68,7 +68,7 @@ padding:0;
 		font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
 		margin-top: 20px;
 		margin-left: 45px;
-		list-style-type: circle;
+		list-style-type: none;
 	}
 	.insidepage a {
 		color: #FC8901;
