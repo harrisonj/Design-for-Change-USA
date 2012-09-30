@@ -57,7 +57,10 @@
                     </td>
                 </tr>
                  <tr>
-                   
+                    <td>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Icebreakers and Team Activities.docx">- Icebreakers and Worksheets</a></p>
+                    </td>
+                                     
                 </tr>
             </table>
             <br>
