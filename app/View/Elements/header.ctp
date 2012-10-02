@@ -1,5 +1,5 @@
 <div class="header">
-    	<a href="/dfcusa/pages/home" class="logo"></a>
+    	<a href="/" class="logo"></a>
     	<div class="navBarHome">
         	<ul>
                 <li><a <? if ($page == 'whatisdfc') { ?>class="active"<? } ?> href="/whatisdfc">What is DFC?</a></li>
