@@ -17,53 +17,65 @@
             </span>
             <table style="padding-top: 20px">
                 <tr>
-                    <td width="30%">
-                       <p class="dfc"><a target="_new" href="/dfcusa/files/Getting%20Started/Design for Change - Welcome Letter for Teachers.docx">- Welcome Letter for Teachers</a></p>
+                    <td>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Welcome Letter for Teachers.pdf">- Welcome Letter for Teachers</a></p>
                     </td>
-                    <td width="50%">
-                       <p class="dfc"><a target="_new" href="/dfcusa/files/Getting%20Started/Design for Change - Essential Questions.docx">- Essential Questions</a></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="30%">
-                       <p class="dfc"><a target="_new" href="/dfcusa/files/Getting%20Started/Design for Change - Working Backwards Timeline.docx">- Working Backwards Timeline</a></p>
-                    </td>
-                    <td width="50%">
-                       <p class="dfc"><a target="_new" href="/dfcusa/files/Getting%20Started/Design for Change - Judging and Submission.docx">- Judging and Submission</a></p>
+                    <td>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Essential Questions.pdf">- Essential Questions</a></p>
                     </td>
                 </tr>
                 <tr>
-                    <td width="30%">
-                       <p class="dfc"><a target="_new" href="/dfcusa/files/Getting%20Started/Design for Change - CCSSi Audit Form.docx">- CCSSi Audit Form</a></p>
+                    <td >
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Working Backwards Timeline.pdf">- Working Backwards Timeline</a></p>
                     </td>
-                    <td width="50%">
-                       <p class="dfc"><a target="_new" href="/dfcusa/files/Design for Change - Top 10 Tips for Teachers and Mentors.pdf">- Top 10 Tips for Teachers and Mentors</a></p>
+                    <td>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Judging and Submission.pdf">- Judging and Submission</a></p>
                     </td>
+                </tr>
+                <tr>
+                    <td >
+                       <p class="dfc-link"><a target="_new" href="javascript:alert('The new DFC Curriculum is coming on Nov 1, 2012. Sign up to our newsletter to be reminded when it is released.');">- The Design for Change Curriculum <br><i>(new version coming Nov 1, 2012)</i></a></p>
+                    </td>
+                    <td>
+                       <p class="dfc-link"><a target="_new" href="http://www.dfcworld.com/FILE/FIDS_Global_Windows.zip">- Feel, Imagine, Do, Share Presentation</a></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td >
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - CCSSi Audit Form.pdf">- CCSSi Audit Form</a></p>
+                    </td>
+                    <td>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Top 10 Tips for Teachers and Mentors.pdf">- Top 10 Tips for Teachers and Mentors</a></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Letter%20to%20Parents.pdf">- Sample Letter To Parents</a></p>
+                    </td>
+                     <td>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Decision Tree.pdf">- Decision Tree for Projects</a></p>
+                    </td>
+                </tr>
+                 <tr>
+                    <td>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Icebreakers%20and%20Team Activities.pdf">- Icebreakers and Worksheets</a></p>
+                    </td>
+                                     
                 </tr>
             </table>
             <br>
-            <h3>Other documents</h3>
             <!--- <div class="note">
                 <p><span>FOR NEW PARTNERS:</span> All resources will need to be customized for your country/need. Contact us at <a href="#">india@dfcworld.com</a> for open files to alter/change/edit to your requirements. </p>
                 <p><span>FOR EXISTING DFC COUNTRY USERS:</span> Select your country from the DFC world home page for relevant information/resources to participate.</p>
             </div>
-            ---->
-            <div class="fids">
-                <h4>Feel, Image, Do, Share (FIDS) Presentation</h4>
-                <p class="dfc">A presentation to help teachers unfold the Feel, Imagine, Do, Share framework with their students.</p>
-                <span class="download"><a href="http://www.dfcworld.com/FILE/FIDS_Global_Windows.zip">Download</a></span>
-            </div>
-            <div class="shortShadow"></div>
-            <div class="dfcCurriculum">
-                <h4>DFC Curriculum</h4>
-                <p class="dfc">The curriculum is designed as a guide / workbook for students and teachers. It is based upon a simple 4 step design process: FEEL, IMAGINE, DO, SHARE. Teachers around the world find a very effective method of getting children to become proactive, empathetic, responsible and concerned citizens.</p>
-                 <span class="download"><a href="/dfcusa/files/Design%20for%20Change%20Curriculum%20Document.pdf" target="_new">Download</a></span>
-            </div>
-            <div class="shortShadow"></div>
-            <p class="pagetitle" style="padding-top: 50px">View the Curriculum here:</p>
+            
+            <p class="pagetitle" style="padding-top: 50px; margin-bottom: -14px">View the Curriculum here:</p>
+            <p style="width: 600px">A new version of the Design for Change Curriculum is coming soon on November 1, 2012. Please see last year's curriculum here:</p>
             <div>
                 <iframe src="/dfcusa/files/Design%20for%20Change%20Curriculum%20Document.pdf" style="width: 635px; height: 700px; margin-bottom: 35px; margin-left: 14px;" frameborder="0"></iframe>
             </div>
+
+            ---->
         </div>
     </div>
 </div>
