@@ -18,18 +18,18 @@
             <table style="padding-top: 20px">
                 <tr>
                     <td>
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Getting%20Started/Design for Change - Welcome Letter for Teachers.docx">- Welcome Letter for Teachers</a></p>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Welcome Letter for Teachers.pdf">- Welcome Letter for Teachers</a></p>
                     </td>
                     <td>
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Getting%20Started/Design for Change - Essential Questions.docx">- Essential Questions</a></p>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Essential Questions.pdf">- Essential Questions</a></p>
                     </td>
                 </tr>
                 <tr>
                     <td >
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Getting%20Started/Design for Change - Working Backwards Timeline.docx">- Working Backwards Timeline</a></p>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Working Backwards Timeline.pdf">- Working Backwards Timeline</a></p>
                     </td>
                     <td>
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Getting%20Started/Design for Change - Judging and Submission.docx">- Judging and Submission</a></p>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Judging and Submission.pdf">- Judging and Submission</a></p>
                     </td>
                 </tr>
                 <tr>
@@ -42,7 +42,7 @@
                 </tr>
                 <tr>
                     <td >
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Getting%20Started/Design for Change - CCSSi Audit Form.docx">- CCSSi Audit Form</a></p>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - CCSSi Audit Form.pdf">- CCSSi Audit Form</a></p>
                     </td>
                     <td>
                        <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Top 10 Tips for Teachers and Mentors.pdf">- Top 10 Tips for Teachers and Mentors</a></p>
@@ -50,15 +50,15 @@
                 </tr>
                 <tr>
                     <td>
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Letter%20to%20Parents.docx">- Sample Letter To Parents</a></p>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Letter%20to%20Parents.pdf">- Sample Letter To Parents</a></p>
                     </td>
                      <td>
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%Decision%20to%Tree.docx">- Decision Tree for Projects</a></p>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%Decision%20to%Tree.pdf">- Decision Tree for Projects</a></p>
                     </td>
                 </tr>
                  <tr>
                     <td>
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Icebreakers and Team Activities.docx">- Icebreakers and Worksheets</a></p>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Icebreakers%20and%20Team Activities.pdf">- Icebreakers and Worksheets</a></p>
                     </td>
                                      
                 </tr>

@@ -23,17 +23,17 @@
 <div class="footer">
 	<div class="topFooter">
     	<ul class="topFooterList">
-			<li><a href="/dfcusa/pages/submit">Submit Your Project</a></li>
+			<li><a href="/submit">Submit Your Project</a></li>
 			<li><span>|</span></li>
-        	<li><a href="/dfcusa/pages/aboutus">About Us</a></li>
+        	<li><a href="/aboutus">About Us</a></li>
             <li><span>|</span></li>
-            <li><a href="/dfcusa/pages/volunteer">Volunteer</a></li>
+            <li><a href="/volunteer">Volunteer</a></li>
             <li><span>|</span></li>
-            <li><a href="/dfcusa/pages/press">Press</a></li>
+            <li><a href="/press">Press</a></li>
             <li><span>|</span></li>
-            <li><a href="/dfcusa/pages/partners">Partners &amp; Sponsors</a></li>
+            <li><a href="/partners">Partners &amp; Sponsors</a></li>
             <li><span>|</span></li>
-            <li><a href="/dfcusa/pages/contactus">Contact Us</a></li>
+            <li><a href="/contactus">Contact Us</a></li>
             <li><span>|</span></li>
             <li><a href="http://www.dfcworld.com" target="_new">DFC World</a></li>
         </ul>

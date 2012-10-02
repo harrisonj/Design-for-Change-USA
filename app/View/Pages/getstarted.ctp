@@ -19,12 +19,12 @@
 			<area shape="rect" coords="216,57,323,106" href="http://www.designforchange.us/dfcusa/pages/3in1" alt="" title=""    />
 			<area shape="rect" coords="217,103,324,152" href="http://www.amarchitrakatha.com/amar-chitra-katha/i-can" alt="" title=""    />
 			<area shape="rect" coords="217,154,324,203" href="http://www.dfcworld.com/indiastory.html" alt="" title=""    />
-			<area shape="rect" coords="218,215,410,274" href="http://www.designforchange.us/dfcusa/files/Design for Change - Icebreakers and Team Activities.docx" alt="" title=""    />
+			<area shape="rect" coords="218,215,410,274" href="http://www.designforchange.us/dfcusa/files/Design for Change - Icebreakers and Team Activities.pdf" alt="" title=""    />
 			<area shape="rect" coords="219,360,351,406" href="javascript:alert('The new DFC Curriculum is coming on Nov 1, 2012. Sign up to our newsletter to be reminded when it is released.');" alt="" title=""    />
-			<area shape="rect" coords="216,433,506,621" href="/dfcusa/pages/submit" alt="" title=""    />
+			<area shape="rect" coords="216,433,506,621" href="/submit" alt="" title=""    />
 			</map>
 		</p>
-		<p class="pagetitle"><a href="/dfcusa/pages/documents">Click here to download important documents</a></p>
+		<p class="pagetitle"><a href="/documents">Click here to download important documents</a></p>
 		<br><br><br><br><br><br>
     </div>
 </div>
