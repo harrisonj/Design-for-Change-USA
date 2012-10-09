@@ -60,7 +60,9 @@
                     <td>
                        <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Icebreakers%20and%20Team Activities.pdf">- Icebreakers and Worksheets</a></p>
                     </td>
-                                     
+                    <td>
+                       <p class="dfc-link"><a target="_new" href="http://www.udemy.com/reinventing-school-design-thinking-challange/">- Reinventing School - A Design Thinking Challenge (A Free Course)</a></p>
+                    </td>                
                 </tr>
             </table>
             <br>
