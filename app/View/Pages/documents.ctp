@@ -18,7 +18,7 @@
             <table style="padding-top: 20px">
                  <tr>
                     <td>
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Source/Design for Change - Overview.pptx">- Design for Change Overview Presentation</a></p>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Source/Design for Change USA - Overview.pptx">- Design for Change Overview Presentation</a></p>
                     </td>
                     <td>
                        
