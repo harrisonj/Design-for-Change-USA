@@ -16,6 +16,14 @@
                 &nbsp;&nbsp;
             </span>
             <table style="padding-top: 20px">
+                 <tr>
+                    <td>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Overview.pdf">- Design for Change Overview Presentation</a></p>
+                    </td>
+                    <td>
+                       
+                    </td>
+                </tr>
                 <tr>
                     <td>
                        <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Welcome Letter for Teachers.pdf">- Welcome Letter for Teachers</a></p>
