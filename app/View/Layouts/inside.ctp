@@ -9,6 +9,10 @@
     <link rel="stylesheet" href="/dfcusa/css/style.css" type="text/css" media="screen" />
     <link href="css/carousel/style.css" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" type="text/css" href="/dfcusa/css/skin.css" />
+    <script type="text/javascript" src="/dfcusa/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="/dfcusa/js/jquery.expander.js"></script>
+    <script type="text/javascript" src="/dfcusa/js/jquery.nivo.slider.js"></script>
+    <script type="text/javascript" src="/dfcusa/js/carousel/jquery.jcarousel.min.js"></script>    
 </head>
 
 <body>
@@ -58,9 +62,6 @@
         </ul>
     </div>
 </div>
-	<script type="text/javascript" src="/dfcusa/js/jquery-1.7.1.min.js"></script>
-    <script type="text/javascript" src="/dfcusa/js/jquery.nivo.slider.js"></script>
-    <script type="text/javascript" src="/dfcusa/js/carousel/jquery.jcarousel.min.js"></script>
     <script type="text/javascript">
 
 	jQuery(document).ready(function() {
@@ -68,6 +69,9 @@
 		jQuery('#mycarousel').jcarousel({
 			animation: 1000
 		});
+        $(".expander").expander({
+            slicePoint: 180,
+        });
 	});
 
 </script>

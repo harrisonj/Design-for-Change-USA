@@ -30,11 +30,11 @@
 			</div>			
 		</div>
     </div>
-    <div class="insidepage">
+    <!-- <div class="insidepage">
     	<p class="pagetitle nomargin">More Videos of Change</p>
     	<div style="padding: 20px">
     		<iframe src="http://ec2-75-101-252-228.compute-1.amazonaws.com/images/photo-rotator/index.html" width="550" height="480" frameborder="0"></iframe>
     	</div>
-    </div>
+    </div> -->
 </div>
 <div class="clear"></div>
