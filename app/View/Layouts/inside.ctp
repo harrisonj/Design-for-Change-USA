@@ -27,11 +27,13 @@
 			<li><span>|</span></li>
         	<li><a href="/aboutus">About Us</a></li>
             <li><span>|</span></li>
+            <li><a href="/judging">Judging</a></li>
+            <li><span>|</span></li>
             <li><a href="/volunteer">Volunteer</a></li>
             <li><span>|</span></li>
             <li><a href="/press">Press</a></li>
             <li><span>|</span></li>
-            <li><a href="/partners">Partners &amp; Sponsors</a></li>
+            <li><a href="/partners">Partners</a></li>
             <li><span>|</span></li>
             <li><a href="/contactus">Contact Us</a></li>
             <li><span>|</span></li>
