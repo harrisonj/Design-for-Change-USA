@@ -42,12 +42,20 @@
                 </tr>
                 <tr>
                     <td >
-                       <p class="dfc-link"><a target="_new" href="javascript:alert('The new DFC Curriculum is coming on Nov 1, 2012. Sign up to our newsletter to be reminded when it is released.');">- The Design for Change Curriculum <br><i>(new version coming Nov 1, 2012)</i></a></p>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change USA - Curriculum.pdf">- The Design for Change Curriculum</a></p>
                     </td>
                     <td>
                        <p class="dfc-link"><a target="_new" href="http://www.dfcworld.com/FILE/FIDS_Global_Windows.zip">- Feel, Imagine, Do, Share Presentation</a></p>
                     </td>
                 </tr>
+                <tr>
+                    <td >
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change USA - Student Introduction.pptx">- Student Introduction (long form)</a></p>
+                    </td>
+                    <td >
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change USA - Student Introduction (Short).pptx">- Student Introduction (short form)</a></p>
+                    </td>
+                </tr>                
                 <tr>
                     <td >
                        <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - CCSSi Audit Form.pdf">- CCSSi Audit Form</a></p>
@@ -70,6 +78,14 @@
                     </td>
                     <td>
                        <p class="dfc-link"><a target="_new" href="http://www.udemy.com/reinventing-school-design-thinking-challange/">- Reinventing School - A Design Thinking Challenge (A Free Course)</a></p>
+                    </td>                
+                </tr>
+                <tr>
+                    <td>
+                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change USA - Poster.jpg">- Design for Change USA Poster</a></p>
+                    </td>
+                    <td>
+                       
                     </td>                
                 </tr>
             </table>
