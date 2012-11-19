@@ -10,6 +10,7 @@
     <p class="ourVideos"><span>Learn More</span> Watch these videos about DFC:</p>
     <div id="wrap" style="padding-left: 30px; height: 175px;">
           <ul id="mycarousel" class="jcarousel-skin-tango" style="height: 175px">
+            <li><a href="http://www.youtube.com/watch?v=k_x1tUeUp64&feature=youtu.be" target="_new"><img src="/dfcusa/images/photos/btc2012_snapshot.png" width="190" height="175" alt="" /></a></li>
             <li><a href="http://www.youtube.com/watch?v=vpz9EncLy6w&feature=youtu.be" target="_new"><img src="/dfcusa/images/photos/storyofdfc_snapshot.png" width="190" height="175" alt="" /></a></li>
             <li><a href="http://www.youtube.com/watch?v=ZWSAIr942YE" target="_new"><img src="/dfcusa/images/photos/gardner_snapshot.png" width="190" height="175" alt="" /></a></li>
             <li><a href="http://www.youtube.com/watch?v=BFbh6FitNq8" target="_new"><img src="/dfcusa/images/photos/rockefeller_snapshot.png" width="190" height="175" alt="" /></a></li>
