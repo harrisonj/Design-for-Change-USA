@@ -27,11 +27,13 @@
 	<p class="ourVideos"><span>Awards & Partners</span> DFC is recognized by:</p>
 	<div id="wrap" class="awards">
 		<ul>
-			<li><img src="/dfcusa/images/sponsors/rockefeller.png" width="100" /></li>
-			<li><img src="/dfcusa/images/sponsors/indexaward.png" /></li>
-			<li><img src="/dfcusa/images/sponsors/thinkfun.png" /></li>
-			<li><img src="/dfcusa/images/sponsors/dschool.png" width="100" /></li>
-			<li><img src="/dfcusa/images/sponsors/ideo.png" width="100" /></li>
+			<li><a href="http://www.rockefellerfoundation.org/" target="_new"><img src="/dfcusa/images/sponsors/rockefeller.png" width="100" /></a></li>
+			<li><a href="http://www.designtoimprovelife.dk/" target="_new"><img src="/dfcusa/images/sponsors/indexaward.png" /></a></li>
+			<li><a href="http://www.thinkfun.com/" target="_new"><img src="/dfcusa/images/sponsors/thinkfun.png" /></a></li>
+			<li><a href="http://dschool.stanford.edu/" target="_new"><img src="/dfcusa/images/sponsors/dschool.png" width="100" /></a></li>
+			<li style="height: 100px"><a href="http://www.ideo.com/" target="_new"><img src="/dfcusa/images/sponsors/ideo.png" width="100" /></a></li>
+            <li><a href="http://www.goodworkproject.org/" target="_new"><img src="/dfcusa/images/sponsors/projectzero.gif" width="150" /></a></li>
+            <li><a href="http://www.colabsagency.com/" target="_new"><img src="/dfcusa/images/sponsors/colabs.png" width="55" /></a></li>
 		</ul>
 		<br class="clear"/><br class="clear"/>
 	</div>
