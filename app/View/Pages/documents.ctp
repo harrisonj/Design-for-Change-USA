@@ -40,7 +40,7 @@
             <table style="padding-top: 20px; padding-bottom: 20px; margin-left: 28px">
                 <tr valign="top">
                     <td style="width: 100px">
-                        <img src="/dfcusa/images/header_feel.png">
+                        <img src="/dfcusa/images/header_fids.png" style="width: 140px">
                     </td>
                     <td style="vertical-align: top; padding-top: 10px">
                         <p><a target="_new" href="/dfcusa/files/Design for Change USA - Curriculum.pdf">- The Design for Change Curriculum</a></p>
@@ -48,29 +48,8 @@
                        <p><a target="_new" href="http://www.dfcworld.com/FILE/FIDS_Global_Windows.zip">- Feel, Imagine, Do, Share Presentation</a></p>
                         <br>
                        <p><a target="_new" href="/dfcusa/files/Design for Change USA - Student Introduction.pptx">- Student Introduction (long form)</a> <a href="/dfcusa/files/Design for Change USA - Student Introduction (Short).pptx">(short form)</a></p>
-                    </td>
-                </tr>
-            </table>
-            <hr>
-            <table style="padding-top: 20px; padding-bottom: 20px; margin-left: 28px">
-                <tr valign="top">
-                    <td style="width: 100px">
-                        <img src="/dfcusa/images/header_imagine.png">
-                    </td>
-                    <td style="vertical-align: top; padding-top: 10px">
                         <p><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Icebreakers%20and%20Team Activities.pdf">- Icebreakers and Worksheets</a></p>
                         <br>
-                        
-                    </td>
-                </tr>
-            </table>
-            <hr>
-            <table style="padding-top: 20px; padding-bottom: 20px; margin-left: 28px">
-                <tr valign="top">
-                    <td style="width: 100px">
-                        <img src="/dfcusa/images/header_share.png">
-                    </td>
-                    <td style="vertical-align: top; padding-top: 10px">
                         <p><a target="_new" href="/dfcusa/files/Design for Change - Judging and Submission.pdf">- Judging and Submission</a></p>
                         <br>
                     </td>
