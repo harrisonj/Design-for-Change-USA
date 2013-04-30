@@ -3,7 +3,7 @@
         <div style="display: inline-block; background-color: #eecc63; width: 100%; padding-bottom: 2.5em; background-image: url('/images/slider/crazyhorse_background.png')">
             <p class="ourVideos" style="text-align: center; margin-bottom: 0px; margin-left: -10px; color: #fff"><span style="font-size: 1.6em;">Design for Change 2013 Winner!</span></p>
             <p class="ourVideos" style="text-align: center; margin-top: 10px; margin-left: -10px; color: #fff">Crazy Horse School</br>in Wanblee, South Dakota!</p>
-            <a href="http://stories.dfcworld.com/storydoc.aspx?id=USA-ENG-36894315-2013" target="_new"><p class="ourVideos" style="font-size: 15pt; margin-top: 12px; text-align: center; margin-left: -10px; color: #fff; text-decoration: underline">Combating High Drop Out Rates In Their Community</p></a>
+            <a href="http://stories.dfcworld.com/storydoc.aspx?id=USA-ENG-36894315-2013" target="_new"><p class="ourVideos" style="font-size: 15pt; margin-top: 12px; text-align: center; margin-left: -10px; color: #fff; text-decoration: underline">Combating High Drop Out Rates In Their Community. Read more...</p></a>
         </div>
 	</div>
     <div class="shadowHome"></div>
