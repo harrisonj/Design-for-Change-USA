@@ -15,6 +15,15 @@
             <p>&nbsp;</p>
 		</div>
 		<div class="normaltext" style="float: left; width: 100px">
+			<img width="95" alt="" src="/dfcusa/images/matt-bw.png">
+		</div>
+		<div class="normaltext">
+			<br><br>
+			<b>Matt Besonen - Partnerships</b><br>
+            Matt is the founder of Co.Labs Agency, a cooperative business forum which bridges the gap between business and academia. Through a partnership with Southern New Hampshire University, Matt has been focused on fine-tuning the academic elements of Co.Labs since 2010. Prior to that, Matt spent five years working with Octagon, a global sports marketing agency where he pursued corporate endorsements and community partnerships for professional athletes. As alum of UMass Amherst, Matt graduated with a degree in Sport Management. In addition to business and education, Matt has always had a passion for restaurants and has over 10 years of experience in the industry.
+            <p>&nbsp;</p>
+		</div>
+		<div class="normaltext" style="float: left; width: 100px">
 			<img width="95" alt="" src="/dfcusa/images/arhan.png">
 		</div>
 		<div class="normaltext">
