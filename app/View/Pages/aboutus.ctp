@@ -3,11 +3,7 @@
     	<h1><strong>About Us</strong></h1>
     </div>
     <br>
-    <div class="insidepage container">
-		<div class="normaltext" style="float: left; width: 100px">
-			<img width="95" alt="" src="/dfcusa/images/anitha.png">
-		</div>
-		
+    <div class="insidepage container">		
 		<div class="normaltext" style="float: left; width: 100px">
 			<img width="95" alt="" src="/dfcusa/images/matt-bw.png">
 		</div>
@@ -45,6 +41,9 @@
 			Sanjli Gidwaney is a curriculum consultant who develops, disseminates and conducts hands on creativity workshops for children around the world including: India, Kenya and Dominican Republic. She began an initiative called the Kando Project with the goal of helping a new generation of children further develop innate life skills such as confidence, creativity and critical thinking. Sanjli has partnered with Massachusetts Institute of Technology Media Lab, IDEO, and several NGO’s and is excited to pursue her Masters in Education at Harvard School of Education in 2012.
 			<p>&nbsp;</p>
 		</div>	
+		<div class="normaltext" style="float: left; width: 100px">
+			<img width="95" alt="" src="/dfcusa/images/anitha.png">
+		</div>
 		<div class="normaltext">
 			<br><br>
 			<b>Anitha Pai - Project Management</b><br>
