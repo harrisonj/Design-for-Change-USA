@@ -2363,3 +2363,8 @@
 #6 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
 #7 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #8 {main}
+2013-07-08 04:10:57 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
