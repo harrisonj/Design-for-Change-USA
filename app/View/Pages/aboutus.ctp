@@ -57,6 +57,7 @@
 		<div class="normaltext">
 			<br><br>
 			<b>Claire Mongeau - Fundraising and Event Management</b><br>
+			<a href="mailto:claire@designforchange.us">claire@designforchange.us</a><br>
 			Claire Mongeau joins the DFC team with experience in fundraising, social entrepreneurship, and international development. Prior to moving to Boston, she spent a year working with affordable private schools and educational social enterprises in Hyderabad, India. Her main focus was in exploring different ways to provide leadership and creative-learning opportunities to students despite limited resources, which sparked her interest in Design for Change around the world. Claire is very excited to use her experiences to encourage social action in youth across the US!
 			<p>&nbsp;</p>
 		</div>	
