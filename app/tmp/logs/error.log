@@ -2368,3 +2368,54 @@
 #1 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
 #2 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2013-07-08 05:54:58 Error: [MissingControllerException] Controller class ApiController could not be found.
+#0 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-08 05:55:02 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-08 05:55:02 Error: [MissingControllerException] Controller class VendorController could not be found.
+#0 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-08 05:55:02 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-16 06:07:43 Error: [MissingControllerException] Controller class AboutusController could not be found.
+#0 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-16 06:07:47 Error: [MissingControllerException] Controller class AboutusController could not be found.
+#0 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-16 06:07:51 Error: [MissingViewException] View file "/Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/View/Pages/css/carousel/style.css.ctp" is missing.
+#0 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/View/View.php(472): View->_getViewFileName('css/carousel/st...')
+#1 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Controller/Controller.php(957): View->render('css/carousel/st...', NULL)
+#2 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/app/Controller/PagesController.php(75): Controller->render('css/carousel/st...')
+#3 [internal function]: PagesController->display('css', 'carousel', 'style.css')
+#4 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-07-16 06:14:26 Error: [MissingViewException] View file "/Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/View/Pages/css/carousel/style.css.ctp" is missing.
+#0 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/View/View.php(472): View->_getViewFileName('css/carousel/st...')
+#1 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Controller/Controller.php(957): View->render('css/carousel/st...', NULL)
+#2 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/app/Controller/PagesController.php(75): Controller->render('css/carousel/st...')
+#3 [internal function]: PagesController->display('css', 'carousel', 'style.css')
+#4 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-07-16 06:14:26 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-07-16 06:14:46 Error: [MissingViewException] View file "/Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/View/Pages/css/carousel/style.css.ctp" is missing.
+#0 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/View/View.php(472): View->_getViewFileName('css/carousel/st...')
+#1 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Controller/Controller.php(957): View->render('css/carousel/st...', NULL)
+#2 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/app/Controller/PagesController.php(75): Controller->render('css/carousel/st...')
+#3 [internal function]: PagesController->display('css', 'carousel', 'style.css')
+#4 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}

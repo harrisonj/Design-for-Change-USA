@@ -3,7 +3,17 @@
     	<h1><strong>About Us</strong></h1>
     </div>
     <br>
-    <div class="insidepage container">		
+    <div class="insidepage container">	
+    <div class="normaltext" style="float: left; width: 100px">
+			<img width="95" alt="" src="/dfcusa/images/sahar.png">
+		</div>
+		<div class="normaltext">
+			<br><br>
+			<b>Sahar Ashraf - Co-Director</b><br>
+			<a href="mailto:sahar@designforchange.us">sahar@designforchange.us</a><br>
+      Sahar Ashraf is a policy designer who attended Harvard University, in Boston, MA. She received her undergraduate degree from Toronto, Ontario. In the past five years, Sahar has gained experience working in schools in countries around the world and designing policies for various departments in the field of education. In addition this, Sahar is a huge advocate of ant-bullying and has been working on creating new and innovative ways to prevent bullying. She recently started as co-director of Design for Change, as she believes that students can be the change to create a more substantial and successful future. She currently resides in Toronto.
+      <p>&nbsp;</p>
+		</div>	
 		<div class="normaltext" style="float: left; width: 100px">
 			<img width="95" alt="" src="/dfcusa/images/matt-bw.png">
 		</div>
@@ -36,9 +46,18 @@
 		</div>
 		<div class="normaltext">
 			<br><br>
-			<b>Sanjli Gidwaney - Director</b><br>
+			<b>Sanjli Gidwaney - Co-Director</b><br>
 			<a href="mailto:sanjli@designforchange.us">sanjli@designforchange.us</a><br>
 			Sanjli Gidwaney is a curriculum consultant who develops, disseminates and conducts hands on creativity workshops for children around the world including: India, Kenya and Dominican Republic. She began an initiative called the Kando Project with the goal of helping a new generation of children further develop innate life skills such as confidence, creativity and critical thinking. Sanjli has partnered with Massachusetts Institute of Technology Media Lab, IDEO, and several NGO’s and is excited to pursue her Masters in Education at Harvard School of Education in 2012.
+			<p>&nbsp;</p>
+		</div>
+		<div class="normaltext" style="float: left; width: 100px">
+			<img width="95" alt="" src="/dfcusa/images/claire.png">
+		</div>
+		<div class="normaltext">
+			<br><br>
+			<b>Claire Mongeau - Fundraising and Event Management</b><br>
+			Claire Mongeau joins the DFC team with experience in fundraising, social entrepreneurship, and international development. Prior to moving to Boston, she spent a year working with affordable private schools and educational social enterprises in Hyderabad, India. Her main focus was in exploring different ways to provide leadership and creative-learning opportunities to students despite limited resources, which sparked her interest in Design for Change around the world. Claire is very excited to use her experiences to encourage social action in youth across the US!
 			<p>&nbsp;</p>
 		</div>	
 		<div class="normaltext" style="float: left; width: 100px">
