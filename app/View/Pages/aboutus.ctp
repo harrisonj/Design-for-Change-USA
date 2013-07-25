@@ -48,7 +48,9 @@
 			<br><br>
 			<b>Sanjli Gidwaney - Co-Director</b><br>
 			<a href="mailto:sanjli@designforchange.us">sanjli@designforchange.us</a><br>
-			Sanjli Gidwaney is a curriculum consultant who develops, disseminates and conducts hands on creativity workshops for children around the world including: India, Kenya and Dominican Republic. She began an initiative called the Kando Project with the goal of helping a new generation of children further develop innate life skills such as confidence, creativity and critical thinking. Sanjli has partnered with Massachusetts Institute of Technology Media Lab, IDEO, and several NGO’s and is excited to pursue her Masters in Education at Harvard School of Education in 2012.
+			Sanjli recently graduated from the Harvard Graduate School of Education, with a focus on curriculum design and non-profit management. 
+			<br/>
+			She is the Director of Design for Change USA (www.desigforchange.us), a chapter of Design for Change World (DFC), a global initiative empowering students to create positive change in their communities using design-thinking principles. Sanjli manages a national team of designers, educators and technologists and has forged partnerships with notable organizations such as Teach for America and Strong Women Strong Girls and Ashoka, Harvard’s Good Work Team and Stanford Design School. She has also collaborated with research groups at MIT’s Media Lab, industrial design firms and various NGOs to develop and conduct several hands on creativity workshops for children around the world including India, Kenya and the Dominican Republic. She believes in a pedagogy embedded in experiential learning and cross-curricular approaches. 
 			<p>&nbsp;</p>
 		</div>
 		<div class="normaltext" style="float: left; width: 100px">
