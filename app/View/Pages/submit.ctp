@@ -6,7 +6,7 @@
     	<p class="pagetitle">Register Your School</p>
 		<ul>
 			<br class="clear"/>
-			<a href="http://submission.dfcworld.com" target="_new"><div class="button">Register Your School Now</div></a>
+			<a href="http://challenge.dfcworld.com/" target="_new"><div class="button">Register Your School Now</div></a>
 			<br class="clear"/>
 			<div style="padding-left: 20px; padding-right: 30px; font-style: italic; font-size: 10pt">You will be forwarded to the Design for Change World website. Be sure to select The United States as your country when you submit your project.</div>
 		</ul>
@@ -17,7 +17,7 @@
 				As the mentor/teacher for your class project, you will be required to submit your project using the Design for Change online platform which can be found on the website. 
 			</li>
 			<br class="clear"/>
-			<a href="http://submission.dfcworld.com" target="_new"><div class="button">Submit Your Project Now</div></a>
+			<a href="http://challenge.dfcworld.com/" target="_new"><div class="button">Submit Your Project Now</div></a>
 			<br class="clear"/>
 			<div style="padding-left: 20px; padding-right: 30px; font-style: italic; font-size: 10pt">You will be forwarded to the Design for Change World website. Be sure to select The United States as your country when you submit your project.</div>
 		</ul>

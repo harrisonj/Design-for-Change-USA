@@ -50,7 +50,7 @@
 			<a href="mailto:sanjli@designforchange.us">sanjli@designforchange.us</a><br>
 			Sanjli recently graduated from the Harvard Graduate School of Education, with a focus on curriculum design and non-profit management. 
 			<br/>
-			She is the Director of Design for Change USA (www.desigforchange.us), a chapter of Design for Change World (DFC), a global initiative empowering students to create positive change in their communities using design-thinking principles. Sanjli manages a national team of designers, educators and technologists and has forged partnerships with notable organizations such as Teach for America and Strong Women Strong Girls and Ashoka, Harvard’s Good Work Team and Stanford Design School. She has also collaborated with research groups at MIT’s Media Lab, industrial design firms and various NGOs to develop and conduct several hands on creativity workshops for children around the world including India, Kenya and the Dominican Republic. She believes in a pedagogy embedded in experiential learning and cross-curricular approaches. 
+			Sanjli manages a national team of designers, educators and technologists and has forged partnerships with notable organizations such as Teach for America and Strong Women Strong Girls and Ashoka, Harvard’s Good Work Team and Stanford Design School. She has also collaborated with research groups at MIT’s Media Lab, industrial design firms and various NGOs to develop and conduct several hands on creativity workshops for children around the world including India, Kenya and the Dominican Republic. She believes in a pedagogy embedded in experiential learning and cross-curricular approaches. 
 			<p>&nbsp;</p>
 		</div>
 		<div class="normaltext" style="float: left; width: 100px">
@@ -93,6 +93,16 @@
 	        Mukta is an IT professional, currently working as software developer and consultant. She finds her balance in life through working in the corporate world and volunteering in social awareness projects in her free time. Her keen interest in the area of community service with special focus on children attracted her to this project, and the belief that every individual can make a difference.
 	        <p>&nbsp;</p>
 		</div>
+		<p class="pagetitle">Our Advisor</p>
+			<div class="normaltext" style="float: left; width: 100px">
+				<img width="95" alt="" src="/dfcusa/images/christianlong.png">
+			</div>
+			<div class="normaltext">
+				<br><br>
+				<b>Christian Long</b><br><br>
+		        Christian spent 15 years as a HS teacher and coach before he founded Be Playful, a collaborative global design agency focused on the intersection between school planning/design, emerging technology, professional development, and future trending. Additionally, he founded <a href="http://www.fastcodesign.com/1663416/teaching-kids-design-thinking-so-they-can-solve-the-worlds-biggest-problems" target="_new">Prototype</a>, a national design program empowering young people to solve real problems in real communities, and co-founded <a href="http://reimagine-ed.org/" target="_new">Reimagine:Ed</a>, a national series of initiatives exploring the future of learning.
+		        <p>&nbsp;</p>
+			</div>
 	</div>
 </div>
 

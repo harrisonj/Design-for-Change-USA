@@ -33,15 +33,16 @@
 		    	<a href="javascript:void(0)" onclick="$(this).parent().find('.answer').toggle()">How do I run the competition with my class?</a>
 		    	<div class="answer" style="display: none">
 					The competition is designed to be flexible, allowing you to and your students to design your own project, in your own way. Please refer the Implementation Toolkit for ideas on how to get started. Remember to inspire your group and help them see that changing lives can be meaningful &amp; fun. 
-					<br><br>Encourage your students to engage with people and issues that effect them directly - no matter how simple they may seem! Let them decide the project and think beyond the 'first answer' (the most obvious solution). Guide them to include as many of their friends in the act of creating change. Help your students to think of change beyond 'raising money,'ensure they document the process, and finally record the number of people affected by the change. 
-					</p><p>The contest is about making our children believe that CHANGE is POSSIBLE and that they can BE THE CHANGE.</p>
-					<p>Inspire the students and make them see that a lives can be meaningful &amp; fun and that through this process they can 'be the change'.</p>
-					<p>Ask your children to engage with people and real issues that effect them directly - no matter how simple they may seem!</p>
-					<p>Let your children decide the project - elicit it from them rather than feed it to them! ('Give someone a fish and you feed them for a day. Teach someone to fish and you feed them for a lifetime!')</p>
-					<p>Help your children think beyond the 'first answer' (the most obvious solution) and guide them to include as many of their friends in the act of creating change.</p>
-					<p>Help your children to think of change beyond 'raising money'.</p>
-					<p>Help your children to document the process and record the number of people affected by the change. Children love making videos and most have easy access to simple video editing. Seeing their project on YouTube will be inspirational and rewarding.</p>
-					<p>If you have any questions, please check out our <a href="/faq.html">FAQ</a> page or email us at <a href="mailto:info@designforchange.us">info@designforchange.us</a></p>
+					<br>Encourage your students to engage with people and issues that effect them directly - no matter how simple they may seem! Let them decide the project and think beyond the 'first answer' (the most obvious solution). Guide them to include as many of their friends in the act of creating change. Help your students to think of change beyond 'raising money,'ensure they document the process, and finally record the number of people affected by the change. 
+					</p>
+					<br><p>The contest is about making our children believe that CHANGE is POSSIBLE and that they can BE THE CHANGE.</p>
+					<br><p>Inspire the students and make them see that a lives can be meaningful &amp; fun and that through this process they can 'be the change'.</p>
+					<br><p>Ask your children to engage with people and real issues that effect them directly - no matter how simple they may seem!</p>
+					<br><p>Let your children decide the project - elicit it from them rather than feed it to them! ('Give someone a fish and you feed them for a day. Teach someone to fish and you feed them for a lifetime!')</p>
+					<br><p>Help your children think beyond the 'first answer' (the most obvious solution) and guide them to include as many of their friends in the act of creating change.</p>
+					<br><p>Help your children to think of change beyond 'raising money'.</p>
+					<br><p>Help your children to document the process and record the number of people affected by the change. Children love making videos and most have easy access to simple video editing. Seeing their project on YouTube will be inspirational and rewarding.</p>
+					<br><p>If you have any questions, please check out our <a href="/faq.html">FAQ</a> page or email us at <a href="mailto:info@designforchange.us">info@designforchange.us</a></p>
 		    	</div>
 		    </li>
 		    <li class="question">
