@@ -2576,3 +2576,9 @@
 #6 /Users/vinaygidwaney/Dropbox/Design for Change/Website/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
 #7 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #8 {main}
+2013-08-08 14:59:54 Error: [MissingControllerException] Controller class AppsrcController could not be found.
+#0 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-08 14:59:54 Error: [MissingControllerException] Controller class AppsrcController could not be found.
+#0 /Users/vinaygidwaney/Dropbox/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

@@ -16,7 +16,7 @@
 	</div>
     <div class="quicklinks">
     	<p><strong>Quick Info</strong></p>
-    	<div class="callout callout-left"><div class="main">REGISTRATION<div class="submain"><a href="/submit">Register here...</a></div></div><div class="highlight highlight-right">Dec 1st, 2013</div></div>
+    	<div class="callout callout-left"><div class="main">REGISTRATION<div class="submain"><a href="/submit">Register here...</a></div></div><div class="highlight highlight-right">Sept 1st, 2013</div></div>
     	<div class="callout callout-left"><div class="main">JUDGING<div class="submain"><a href="/judging">Review the criteria...</a></div></div><div class="highlight highlight-left">5 Judges</div></div>
     	<div class="callout callout-left"><div class="main">SUBMISSION<div class="submain"><a href="/submit">Submit your project here...</a></div></div><div class="highlight highlight-right">May 15th, 2014</div></div>
     	<div class="callout callout-left"><div class="main">PRIZES<div class="submain"><a href="/projects">See past winners here...</a></div></div><div class="highlight highlight-left">June 30th, 2014</div></div>
