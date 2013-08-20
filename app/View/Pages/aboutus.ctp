@@ -4,6 +4,15 @@
     </div>
     <br>
     <div class="insidepage container">	
+		<div class="normaltext" style="float: left; width: 100px">
+			<img width="95" alt="" src="/dfcusa/images/solange.png">
+		</div>
+		<div class="normaltext">
+			<br><br>
+			<b>Solange Abreu - Intern</b><br>
+            Solange Abreu has been apart of Design For Change since 2012 from her first initial visit to India, she is a student at Southern New Hampshire University where she specializes in event management and is to earn her degree in the arts and integrated studies.  Along with planning events and traveling the world, Solange is passionate about making a difference in whatever way that she can.  Her skills and expertise in the event industry have driven her to become an active USA team member. Solange is currently developing partnerships within schools and programs around the U.S as well as creating marketing tools like DFC USA Indiegogo campaign 2013.  
+            <p>&nbsp;</p>
+		</div>
     <div class="normaltext" style="float: left; width: 100px">
 			<img width="95" alt="" src="/dfcusa/images/sahar.png">
 		</div>
@@ -24,21 +33,31 @@
             <p>&nbsp;</p>
 		</div>
 		<div class="normaltext" style="float: left; width: 100px">
-			<img width="95" alt="" src="/dfcusa/images/solange.png">
-		</div>
-		<div class="normaltext">
-			<br><br>
-			<b>Solange Abreu - Intern</b><br>
-            Solange Abreu has been apart of Design For Change since 2012 from her first initial visit to India, she is a student at Southern New Hampshire University where she specializes in event management and is to earn her degree in the arts and integrated studies.  Along with planning events and traveling the world, Solange is passionate about making a difference in whatever way that she can.  Her skills and expertise in the event industry have driven her to become an active USA team member. Solange is currently developing partnerships within schools and programs around the U.S as well as creating marketing tools like DFC USA Indiegogo campaign 2013.  
-            <p>&nbsp;</p>
-		</div>
-		<div class="normaltext" style="float: left; width: 100px">
 			<img width="95" alt="" src="/dfcusa/images/arhan.png">
 		</div>
 		<div class="normaltext">
 			<br><br>
 			<b>Arhan Bezbora - Research and Impact</b><br>
             Arhan Bezbora is a Masters student in the International Education Policy program at the Harvard Graduate School of Education. Before moving to Cambridge, he was a 2010 Fellow with Teach For India, serving as a 4th grade class teacher in a low income school in Pune, India. While teaching, he and his students were infected with the "I Can" bug when Just For Kicks, their football project, won the Special Prize at the Design for Change Challenge 2011. Arhan is a strong believer in the use of design thinking as a pedagogic process with children and hopes to spend the coming year understanding its value as well as the impact DFC is having on children and teachers all over the world. Arhan holds a Bachelors in Physics from McGill University in Montreal, Canada. 
+            <p>&nbsp;</p>
+		</div>
+		<div class="normaltext" style="float: left; width: 100px">
+			<img width="95" alt="" src="/dfcusa/images/bindi.png">
+		</div>
+		<div class="normaltext">
+			<br><br>
+			<b>Bindi Dharia - Business Development</b><br>
+            Bindi recently graduated from Harvard Business School, with a focus in social enterprise and education. She works with a non-profit in India called Kaivalya Education Foundation and assists Design for Change USA with business development initiatives. Her prior experience is in the space of engineering and operations. She has an engineering masters from the University of Michigan prior to which she spent most of her life in India. She has interacted with founder of Design for Change, Kiran Sethi in India, and is very excited for this project and the potential it has in the US!
+            <p>&nbsp;</p>
+		</div>
+		<div class="normaltext" style="float: left; width: 100px">
+			<img width="95" alt="" src="/dfcusa/images/valeria.png">
+		</div>
+		<div class="normaltext">
+			<br><br>
+			<b>Valeria Fontanals - Curriculum Designer & Training</b><br>
+			<a href="mailto:valeria@designforchange.us">valeria@designforchange.us</a><br>
+            Valeria is the founder of Values & Strengths Educational Services, which focuses on promoting optimal development to children, through innovative tools for families and schools. She holds a Master of Education from Harvard Graduate School of Education and she is a licensed school psychologist in Florida. She brings more than ten years of international experience as therapist, teacher, director, trainer and speaker. Specialist in talent development and bicultural education. Author of children’s books, teachers, and parents resources.
             <p>&nbsp;</p>
 		</div>
 		<div class="normaltext" style="float: left; width: 100px">
