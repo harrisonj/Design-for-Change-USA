@@ -56,7 +56,7 @@
     	<p>All Submitted Stories will be Property of Design For Change School Challenge Contest</p>
         <ul class="bottomFooterList">
         	<li><p class="list">Connect with us on</p></li>
-            <li><a class="facebook" href="http://www.facebook.com/dfcworld" target="_new"></a></li>
+            <li><a class="facebook" href="http://www.facebook.com/icandfc" target="_new"></a></li>
             <li><a class="twitter" href="http://www.twitter.com/dfcusa" target="_new"></a></li>
             <li><a class="youtube" href="http://www.youtube.com/dfcworld2011" target="_new"></a></li>
         </ul>
