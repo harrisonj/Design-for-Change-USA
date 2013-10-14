@@ -18,7 +18,7 @@
 			<map id="_Image-Maps_1201209281939307" name="Image-Maps_1201209281939307">
 			<area shape="rect" coords="250,70,360,115" href="http://www.designforchange.us/dfcusa/pages/3in1" alt="" title=""    />
 			<area shape="rect" coords="250,123,360,165" href="http://www.dfcworld.com/publication.html" target="_new" alt="" title=""    />
-			<area shape="rect" coords="250,184,360,225" href="http://www.dfcworld.com/indiastory.html" target="_new" alt="" title=""    />
+			<area shape="rect" coords="250,184,360,225" href="http://stories.dfcworld.com/" target="_new" alt="" title=""    />
 			<area shape="rect" coords="250,245,455,304" href="http://www.designforchange.us/dfcusa/files/Design for Change - Icebreakers and Team Activities.pdf" alt="" title=""    />
 			<area shape="rect" coords="250,360,401,406" href="http://www.designforchange.us/dfcusa/files/Design%20for%20Change%20USA%20-%20Curriculum.pdf" alt="" title=""    />
 			<area shape="rect" coords="250,433,506,621" href="/submit" alt="" title=""    />
