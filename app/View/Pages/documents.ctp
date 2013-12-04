@@ -24,15 +24,16 @@
                     </td>
                     <td style="vertical-align: top; padding-top: 10px">
                         <p><a target="_new" href="/dfcusa/files/Source/Design for Change USA - Overview.pptx">- Design for Change Overview Presentation</a></p>
-                        <br>
-                       <p><a target="_new" href="/dfcusa/files/Design for Change - Welcome Letter for Teachers.pdf">- Welcome Letter for Teachers</a></p>
-                        <br>
-                       <p><a target="_new" href="/dfcusa/files/Design for Change - Essential Questions.pdf">- Essential Questions</a></p>
-                       <br>
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Decision Tree.pdf">- Decision Tree for Projects</a></p>
-                       <br>
-                       <p class="dfc-link"><a target="_new" href="/dfcusa/files/Design for Change - Working Backwards Timeline.pdf">- Working Backwards Timeline</a></p>
-                       <br>
+                        <p><a target="_new" href="/dfcusa/files/Design for Change USA - Welcome Packet.pdf">- Design for Change Welcome Packet, includes:</a>
+                       </p>
+                        <br/><br/><br/><ul style="list-style-type: circle">
+                            <li>Welcome Letter for Teachers and Mentors</li>
+                            <li>Getting Started Guide</li>
+                            <li>Essential Questions</li>
+                            <li>Submission and Judging Criteria</li>
+                            <li>Core Standards Audit Form</li>
+                            <li>Letter to Parents</li>
+                        </ul>
                     </td>
                 </tr>
             </table>
@@ -43,6 +44,8 @@
                         <img src="/dfcusa/images/header_fids.png" style="width: 140px">
                     </td>
                     <td style="vertical-align: top; padding-top: 10px">
+                        <p><a target="_new" href="/dfcusa/files/Design for Change USA - Toolkit.pdf">- The Design for Change Toolkit</a></p>
+                        <br>
                         <p><a target="_new" href="/dfcusa/files/Design for Change USA - Curriculum.pdf">- The Design for Change Curriculum</a></p>
                         <br>
                        <p><a target="_new" href="http://www.dfcworld.com/FILE/FIDS_Global_Windows.zip">- Feel, Imagine, Do, Share Presentation</a></p>
@@ -62,13 +65,9 @@
                         <img src="/dfcusa/images/header_resources.png">
                     </td>
                     <td style="vertical-align: top; padding-top: 10px">
-                        <p><a target="_new" href="/dfcusa/files/Design for Change - CCSSi Audit Form.pdf">- CCSSi Audit Form</a></p>
-                        <br>
                         <p><a target="_new" href="/dfcusa/files/Design for Change - Top 10 Tips for Teachers and Mentors.pdf">- Top 10 Tips for Teachers and Mentors</a></p>
                         <br>
-                        <p><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Letter%20to%20Parents.pdf">- Sample Letter To Parents</a></p>
-                        <br>
-                        <p><a target="_new" href="http://www.udemy.com/reinventing-school-design-thinking-challange/">- Reinventing School - A Design Thinking Challenge (A Free Course)</a></p>
+                         <p><a target="_new" href="/dfcusa/files/Design for Change USA - Poster.jpg">- Design for Change USA Poster</a></p>
                         <br>
                          <p><a target="_new" href="/dfcusa/files/Design for Change USA - Poster.jpg">- Design for Change USA Poster</a></p>
                     </td>
