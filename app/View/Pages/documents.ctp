@@ -69,7 +69,7 @@
                         <br>
                          <p><a target="_new" href="/dfcusa/files/Design for Change USA - Poster.jpg">- Design for Change USA Poster</a></p>
                         <br>
-                         <p><a target="_new" href="/dfcusa/files/Design for Change USA - Poster.jpg">- Design for Change USA Poster</a></p>
+                         <p><a target="_new" href="/dfcusa/files/Design for Change - Impact.jpg">- Design for Change World Impact Poster</a></p>
                     </td>
                 </tr>
             </table>
