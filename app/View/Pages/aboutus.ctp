@@ -45,6 +45,16 @@
 			<p>&nbsp;</p>
 		</div>
 		<div class="normaltext" style="float: left; width: 100px">
+			<img width="95" alt="" src="/dfcusa/images/megan.png">
+		</div>
+		<div class="normaltext">
+			<br><br>
+			<b>Megan Gildin - Curriculum Designer</b><br>
+			<a href="mailto:megan@designforchange.us">megan@designforchange.us</a><br>
+			Megan is an education consultant with a focus on cultivating innovative programming that promotes personal development by integrating experiential education principles with research based pedagogy. She currently works with clients across the globe that are all devoted to positive youth development. Her work includes curriculum development, program evaluation, workshop implementation, and teambuilding facilitation.  Megan earned her Master's in Education from the Harvard Graduate School of Education where she focused on youth social emotional development and the urban context. Previously, she worked directly with youth as a National Teaching Fellow at Citizen Schools in Charlotte, NC as well as through volunteer work with Latino Family Services in Detroit, MI as a University of Michigan undergraduate student. Megan is a passionate individual who is committed to creating contexts in which all youth can succeed. 
+			<p>&nbsp;</p>
+		</div>
+		<div class="normaltext" style="float: left; width: 100px">
 			<img width="95" alt="" src="/dfcusa/images/claire.png">
 		</div>
 		<div class="normaltext">
