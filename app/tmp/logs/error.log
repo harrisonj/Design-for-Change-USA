@@ -3288,3 +3288,48 @@
 #6 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
 #7 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #8 {main}
+2014-01-13 01:51:50 Error: [MissingViewException] View file "/Users/vinaygidwaney/Documents/htdocs/dfcusa/app/View/Pages/css/carousel/style.css.ctp" is missing.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/View/View.php(472): View->_getViewFileName('css/carousel/st...')
+#1 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(957): View->render('css/carousel/st...', NULL)
+#2 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/Controller/PagesController.php(75): Controller->render('css/carousel/st...')
+#3 [internal function]: PagesController->display('css', 'carousel', 'style.css')
+#4 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-01-13 01:51:51 Error: [MissingControllerException] Controller class WhatisdfcController could not be found.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-13 01:51:54 Error: [MissingControllerException] Controller class WhatisdfcController could not be found.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-13 01:55:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-13 01:56:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-13 01:56:06 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-13 02:06:57 Error: [MissingViewException] View file "/Users/vinaygidwaney/Documents/htdocs/dfcusa/app/View/Pages/css/carousel/style.css.ctp" is missing.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/View/View.php(472): View->_getViewFileName('css/carousel/st...')
+#1 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(957): View->render('css/carousel/st...', NULL)
+#2 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/Controller/PagesController.php(75): Controller->render('css/carousel/st...')
+#3 [internal function]: PagesController->display('css', 'carousel', 'style.css')
+#4 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-01-13 02:07:07 Error: [MissingViewException] View file "/Users/vinaygidwaney/Documents/htdocs/dfcusa/app/View/Pages/css/carousel/style.css.ctp" is missing.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/View/View.php(472): View->_getViewFileName('css/carousel/st...')
+#1 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(957): View->render('css/carousel/st...', NULL)
+#2 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/Controller/PagesController.php(75): Controller->render('css/carousel/st...')
+#3 [internal function]: PagesController->display('css', 'carousel', 'style.css')
+#4 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}

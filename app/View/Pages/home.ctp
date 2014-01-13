@@ -6,6 +6,7 @@
           <ul id="mycarousel" class="jcarousel-skin-tango" style="height: 175px">
             <li><a href="http://www.youtube.com/watch?v=k_x1tUeUp64&feature=youtu.be" target="_new"><img src="/dfcusa/images/photos/btc2012_snapshot.png" width="190" height="175" alt="" /></a></li>
             <li><a href="http://www.youtube.com/watch?v=vpz9EncLy6w&feature=youtu.be" target="_new"><img src="/dfcusa/images/photos/storyofdfc_snapshot.png" width="190" height="175" alt="" /></a></li>
+            <li><a href="http://www.youtube.com/watch?v=8b-gRi1oFb0&noredirect=1" target="_new"><img src="/dfcusa/images/photos/globalmeet_snapshot.png" width="190" height="175" alt="" /></a></li>
             <li><a href="http://www.youtube.com/watch?v=ZWSAIr942YE" target="_new"><img src="/dfcusa/images/photos/gardner_snapshot.png" width="190" height="175" alt="" /></a></li>
             <li><a href="http://www.youtube.com/watch?v=BFbh6FitNq8" target="_new"><img src="/dfcusa/images/photos/rockefeller_snapshot.png" width="190" height="175" alt="" /></a></li>
             <li><a href="http://www.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html" target="_new"><img src="/dfcusa/images/photos/ted_snapshot.png" width="190" height="175" alt="" /></a></li>
@@ -30,13 +31,15 @@
     	<p class="ourVideos"><span>Awards & Partners</span> DFC is recognized by:</p>
     	<div id="wrap" class="awards">
     		<ul>
+                <li><a href="http://www.teachforamerica.org/" target="_new"><img src="/dfcusa/images/sponsors/tfalogo.jpg" width="100" /></a></li>
+                <li><a href="https://www.youthventure.org/" target="_new"><img src="/dfcusa/images/sponsors/youthventure1.jpg" width="100" /></a></li>
     			<li><a href="http://www.rockefellerfoundation.org/" target="_new"><img src="/dfcusa/images/sponsors/rockefeller.png" width="100" /></a></li>
     			<li><a href="http://www.designtoimprovelife.dk/" target="_new"><img src="/dfcusa/images/sponsors/indexaward.png" /></a></li>
+                <li><a href="http://www.colabsagency.com/" target="_new"><img src="/dfcusa/images/sponsors/colabs.png" width="55" /></a></li>
     			<li><a href="http://www.thinkfun.com/" target="_new"><img src="/dfcusa/images/sponsors/thinkfun.png" /></a></li>
     			<li><a href="http://dschool.stanford.edu/" target="_new"><img src="/dfcusa/images/sponsors/dschool.png" width="100" /></a></li>
     			<li style="height: 100px"><a href="http://www.ideo.com/" target="_new"><img src="/dfcusa/images/sponsors/ideo.png" width="100" /></a></li>
                 <li><a href="http://www.goodworkproject.org/" target="_new"><img src="/dfcusa/images/sponsors/projectzero.gif" width="150" /></a></li>
-                <li><a href="http://www.colabsagency.com/" target="_new"><img src="/dfcusa/images/sponsors/colabs.png" width="55" /></a></li>
     		</ul>
     		<br class="clear"/><br class="clear"/>
     	</div>
