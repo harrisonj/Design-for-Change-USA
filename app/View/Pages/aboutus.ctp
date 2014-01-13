@@ -75,7 +75,7 @@
             <p>&nbsp;</p>
 		</div>	
 		<div class="normaltext" style="float: left; width: 100px">
-			<img width="95" alt="" src="/dfcusa/images/juanita.png">
+			<img width="95" alt="" src="/dfcusa/images/rachel.png">
 		</div>
 		<div class="normaltext">
 			<br><br>
