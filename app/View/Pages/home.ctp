@@ -21,10 +21,14 @@
 	</div>
     <br class="clear"/>
     <div class="slider-wrapper theme-default">
-        <div style="display: inline-block; background-color: #eecc63; width: 100%; padding-bottom: 2.5em; background-image: url('/images/slider/crazyhorse_background.png')">
+        <div style="display: inline-block; background-color: #eecc63; width: 100%; padding-bottom: 2.5em; background-image: url('/dfcusa/images/slider/crazyhorse_background.png'); height: 30em">
             <p class="ourVideos" style="text-align: center; margin-bottom: 0px; margin-left: -10px; color: #fff"><span style="font-size: 1.6em;">Design for Change 2013 Winner!</span></p>
             <p class="ourVideos" style="text-align: center; margin-top: 10px; margin-left: -10px; color: #fff">Crazy Horse School</br>in Wanblee, South Dakota!</p>
-            <p class="ourVideos" style="font-size: 15pt; margin-top: 12px; text-align: center; margin-left: -10px; color: #fff;">Combating High Drop Out Rates In Their Community.<br/><a href="http://www.designforchange.us/donate" target="_new" style="color: #fff; font-weight: 700; text-decoration: underline">Learn about our fundraising campaign to send the team to India!</p></a>
+            <p class="ourVideos" style="font-size: 15pt; margin-top: 12px; text-align: center; margin-left: -10px; color: #fff;">Combating High Drop Out Rates In Their Community.
+            <ul style="margin-top: 20px">
+                <li style="float: left; margin-left: 120px"><a href="http://www.youtube.com/watch?v=x5a6OtnohmU&feature=youtu.be" target="_new"><img src="/dfcusa/images/photos/winningteam_snapshot.png" width="190" height="175" alt="" /></a></li>
+                <li style="float: left; margin-left: 30px"><a href="http://www.youtube.com/watch?v=rcqjQz-9DvQ&feature=youtu.be" target="_new"><img src="/dfcusa/images/photos/reflections_snapshot.png" width="190" height="175" alt="" /></a></li>
+            </ul>                      
         </div>
     </div>
     <div style="float: top; margin-top: 30px">
