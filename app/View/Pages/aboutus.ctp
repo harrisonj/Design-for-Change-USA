@@ -96,6 +96,15 @@
 		</div>
 		<p class="pagetitle">Our Advisor</p>
 			<div class="normaltext" style="float: left; width: 100px">
+				<img width="95" alt="" src="/dfcusa/images/jimcollins.png">
+			</div>
+			<div class="normaltext">
+				<br><br>
+				<b>Jim Collins</b><br><br>
+		        John Collins served for many years as the Faculty Director of the Masters Program in Special Studies at the Harvard Graduate School of Education. He is the former Librarian of the Harvard Graduate School of Education and a member of the Faculty of Education and directed the Monroe C.Gutman Library. Collins is a specialist in information technology, serves on national boards and task forces, and is a regular reviewer for several prestigious library journals. He played a key role in designing the National Library of Education and consulted with the U.S. Department of Education on many projects, including designing and implementing the National Education Network. He served on the Steering Committee for the Harvard/Google project and has received many awards, including being recognized as the Association of College and Research Library's Distinguished Education and Behavioral Sciences Librarian.
+		        <p>&nbsp;</p>
+			</div>
+			<div class="normaltext" style="float: left; width: 100px">
 				<img width="95" alt="" src="/dfcusa/images/christianlong.png">
 			</div>
 			<div class="normaltext">
