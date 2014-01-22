@@ -4,6 +4,16 @@
     </div>
     <br>
     <div class="insidepage container">	
+    <div class="normaltext" style="float: left; width: 100px">
+			<img width="95" alt="" src="/dfcusa/images/natalia.png">
+		</div>
+		<div class="normaltext">
+			<br><br>
+			<b>Natalia Allende – Collaborator</b><br>
+			<a href="mailto:nallende@ingoodcompany.cl">nallende@ingoodcompany.cl</a><br>
+            Natalia is the founder and director of In Good Company, a South America-based social innovation company that pursues greater social development through education and culture. She is an educator and holds an M.A. in Aesthetics and an M.A. in Literature. Natalia has solid international experience in education, both in the classroom and outside. She has experience in writing textbooks, in cultural management and business development.
+            <p>&nbsp;</p>
+		</div>
 		<div class="normaltext" style="float: left; width: 100px">
 			<img width="95" alt="" src="/dfcusa/images/matt-bw.png">
 		</div>
