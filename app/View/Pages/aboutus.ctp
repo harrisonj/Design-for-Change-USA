@@ -15,6 +15,15 @@
             <p>&nbsp;</p>
 		</div>
 		<div class="normaltext" style="float: left; width: 100px">
+			<img width="95" alt="" src="/dfcusa/images/nupur.png">
+		</div>
+		<div class="normaltext">
+			<br><br>
+			<b>Nupur Amin - Social Media Intern</b><br>
+            Nupur Amin is a high school senior at the Riverside School and Design For Change USA's social media intern. Hoping to pursue a degree in Communication Studies at University, she spends much of her time immersed in books and Ted Talks striving to understand the commandments of good communication which she then implements through various leadership and public speaking activities. She is currently using her passion for language and literature as a medium to spread DFC's remarkable stories of change from across the globe through social media sites. Nupur hopes to one day be a motivational speaker herself and share with the world the power of empowerment. Apart from this, she is an avid member of 'Heal', a social service project dedicated to spending time with children diagnosed with cancer in India's government hospitals. 
+            <p>&nbsp;</p>
+		</div>
+		<div class="normaltext" style="float: left; width: 100px">
 			<img width="95" alt="" src="/dfcusa/images/matt-bw.png">
 		</div>
 		<div class="normaltext">
