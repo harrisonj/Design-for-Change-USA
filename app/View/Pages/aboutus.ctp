@@ -33,14 +33,14 @@
             <p>&nbsp;</p>
 		</div>
 		<div class="normaltext" style="float: left; width: 100px">
-			<img width="95" alt="" src="/dfcusa/images/bindi.png">
+			<img width="95" alt="" src="/dfcusa/images/mette.png">
 		</div>
 		<div class="normaltext">
 			<br><br>
-			<b>Bindi Dharia - Business Development</b><br>
-            Bindi recently graduated from Harvard Business School, with a focus in social enterprise and education. She works with a non-profit in India called Kaivalya Education Foundation and assists Design for Change USA with business development initiatives. Her prior experience is in the space of engineering and operations. She has an engineering masters from the University of Michigan prior to which she spent most of her life in India. She has interacted with founder of Design for Change, Kiran Sethi in India, and is very excited for this project and the potential it has in the US!
+			<b>Mette Bohnstedt - Instructional Design & Business Development</b><br>
+            An educator and social entrepreneur, Mette is passionate about empowering next generations to discover their creative potential for building brighter, more sustainable futures. She recently graduated from the Technology, Innovation, and Education program at Harvard University, where she specialized in instructional design and education technology. Mette is the co-founder of Apportunidades, an after school program in Colombia, and she is a founding board member and education coordinator at the international non-profit organisation, Amstream. Mette has worked with youth on three different continents, and she has several years experience in volunteer and project management in the non-profit sector in her home country, Denmark.
             <p>&nbsp;</p>
-		</div>
+		</div>		
 		<div class="normaltext" style="float: left; width: 100px">
 			<img width="95" alt="" src="/dfcusa/images/valeria.png">
 		</div>
@@ -68,7 +68,7 @@
 		</div>
 		<div class="normaltext">
 			<br><br>
-			<b>Megan Gildin - Curriculum Designer</b><br>
+			<b>Megan Gildin - Curriculum Advisor</b><br>
 			<a href="mailto:megan@designforchange.us">megan@designforchange.us</a><br>
 			Megan is an education consultant with a focus on cultivating innovative programming that promotes personal development by integrating experiential education principles with research based pedagogy. She currently works with clients across the globe that are all devoted to positive youth development. Her work includes curriculum development, program evaluation, workshop implementation, and teambuilding facilitation.  Megan earned her Master's in Education from the Harvard Graduate School of Education where she focused on youth social emotional development and the urban context. Previously, she worked directly with youth as a National Teaching Fellow at Citizen Schools in Charlotte, NC as well as through volunteer work with Latino Family Services in Detroit, MI as a University of Michigan undergraduate student. Megan is a passionate individual who is committed to creating contexts in which all youth can succeed. 
 			<p>&nbsp;</p>
@@ -78,7 +78,7 @@
 		</div>
 		<div class="normaltext">
 			<br><br>
-			<b>Claire Mongeau - Fundraising and Event Management</b><br>
+			<b>Claire Mongeau - Associate Director</b><br>
 			<a href="mailto:claire@designforchange.us">claire@designforchange.us</a><br>
 			Claire Mongeau joins the DFC team with experience in fundraising, social entrepreneurship, and international development. Prior to moving to Boston, she spent a year working with affordable private schools and educational social enterprises in Hyderabad, India. Her main focus was in exploring different ways to provide leadership and creative-learning opportunities to students despite limited resources, which sparked her interest in Design for Change around the world. Claire is very excited to use her experiences to encourage social action in youth across the US!
 			<p>&nbsp;</p>
