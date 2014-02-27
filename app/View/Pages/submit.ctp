@@ -45,7 +45,7 @@
 		<p class="pagetitle">Important Information</p>
 		<ul>
 			<li>
-				Be sure to document your project at every stage, this footage/documentation will be vital when constructing your final presentation e.g., highlight key events and struggles. If you have any difficulty with the submission platform, please notify us at info@designforchange.us.
+				Be sure to document your project at every stage, this footage/documentation will be vital when constructing your final presentation e.g., highlight key events and struggles. If you have any difficulty with the submission platform, please notify us at <a href="info@designforchange.us">info@designforchange.us</a>.
 			</li>
 		</ul>
 		<p class="pagetitle">Judging</p>
