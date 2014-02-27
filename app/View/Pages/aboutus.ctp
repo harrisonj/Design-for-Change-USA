@@ -37,7 +37,7 @@
 		</div>
 		<div class="normaltext">
 			<br><br>
-			<b>Mette Bohnstedt - Instructional Design & Business Development</b><br>
+			<b>Mette Bohnstedt - UX Research and Design</b><br>
             An educator and social entrepreneur, Mette is passionate about empowering next generations to discover their creative potential for building brighter, more sustainable futures. She recently graduated from the Technology, Innovation, and Education program at Harvard University, where she specialized in instructional design and education technology. Mette is the co-founder of Apportunidades, an after school program in Colombia, and she is a founding board member and education coordinator at the international non-profit organisation, Amstream. Mette has worked with youth on three different continents, and she has several years experience in volunteer and project management in the non-profit sector in her home country, Denmark.
             <p>&nbsp;</p>
 		</div>		
