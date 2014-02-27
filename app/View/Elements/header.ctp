@@ -2,7 +2,7 @@
     <div style="font-size: 2em; color: #444; position: absolute; top: 0px; right: 10px; cursor: pointer" onclick="javascript:$(this).parent().slideUp()">x</div>
     <div style="padding: 15px 20px 20px 20px">
         <font style="font-size: 2em">Welcome to Design For Change USA</font>
-        <p style="font-size: 1.1em">We're working on a new online experience to help you learn more about Design for Change. We welcome your feedback.<br>
+        <p style="font-size: 1.1em">We're working on a new website to help you learn more about Design for Change. We welcome your feedback.<br>
         Questions or comments? Let us know - <a href="mailto: info@designforchange.us">info@designforchange.us</a>
         </p>
     </div>
