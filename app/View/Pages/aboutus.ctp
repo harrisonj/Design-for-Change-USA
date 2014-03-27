@@ -64,16 +64,6 @@
 			<p>&nbsp;</p>
 		</div>
 		<div class="normaltext" style="float: left; width: 100px">
-			<img width="95" alt="" src="/dfcusa/images/megan.png">
-		</div>
-		<div class="normaltext">
-			<br><br>
-			<b>Megan Gildin - Curriculum Advisor</b><br>
-			<a href="mailto:megan@designforchange.us">megan@designforchange.us</a><br>
-			Megan is an education consultant with a focus on cultivating innovative programming that promotes personal development by integrating experiential education principles with research based pedagogy. She currently works with clients across the globe that are all devoted to positive youth development. Her work includes curriculum development, program evaluation, workshop implementation, and teambuilding facilitation.  Megan earned her Master's in Education from the Harvard Graduate School of Education where she focused on youth social emotional development and the urban context. Previously, she worked directly with youth as a National Teaching Fellow at Citizen Schools in Charlotte, NC as well as through volunteer work with Latino Family Services in Detroit, MI as a University of Michigan undergraduate student. Megan is a passionate individual who is committed to creating contexts in which all youth can succeed. 
-			<p>&nbsp;</p>
-		</div>
-		<div class="normaltext" style="float: left; width: 100px">
 			<img width="95" alt="" src="/dfcusa/images/claire.png">
 		</div>
 		<div class="normaltext">
@@ -103,16 +93,6 @@
 	        Rachel Rosenbaum is an undergraduate at Cornell University, studying Design and Environmental Analysis. She is passionate about the power of design to help create sustainable change, especially through local, community-focused solutions.  She is dedicated to instilling this passion in young students around the world, hoping to help create a more positive future for all. Rachel is currently working on developing new partnerships with schools that hope to bring Design For Change's model into the curriculum. In addition, she is using her background in design to help develop DFCs curriculum graphics.
 	        <p>&nbsp;</p>
 		</div>	
-		<div class="normaltext" style="float: left; width: 100px">
-			<img width="95" alt="" src="/dfcusa/images/juanita.png">
-		</div>
-		<div class="normaltext">
-			<br><br>
-			<b>Juanita Uribe - Fundraising</b><br>
-			<a href="mailto:juanita@designforchange.us">juanita@designforchange.us</a><br>
-	        Juanita Uribe has spent most of her professional life communicating with and for children. She has worked for children’s magazines, TV and radio outlets and, more recently, with NGOs, governments and International organizations, developing and running initiatives that advocate for Children’s Rights. Juanita is a communications specialist with experience in project management and strategic and educative communications programs. She has designed and implemented public-private partnerships in citizen education, childhood, youth and sustainable development in Latin America.
-	        <p>&nbsp;</p>
-		</div>
 		<p class="pagetitle">Our Advisor</p>
 			<div class="normaltext" style="float: left; width: 100px">
 				<img width="95" alt="" src="/dfcusa/images/jimcollins.png">
