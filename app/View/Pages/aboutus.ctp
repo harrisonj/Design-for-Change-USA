@@ -74,16 +74,6 @@
 			<p>&nbsp;</p>
 		</div>	
 		<div class="normaltext" style="float: left; width: 100px">
-			<img width="95" alt="" src="/dfcusa/images/anitha.png">
-		</div>
-		<div class="normaltext">
-			<br><br>
-			<b>Anitha Pai - Project Management</b><br>
-			<a href="mailto:anitha@designforchange.us">anitha@designforchange.us</a><br>
-            Anitha is one of the newest members of DFC and joins the team with experience in the  international development and non-profit sectors. Anitha recently earned her Master’s in education from the Harvard Graduate School of Education (HGSE), where she focused her studies on youth development, community engagement, and experiential learning. Prior to joining HGSE, Anitha spent two years in the social entrepreneurship space in India where she witnessed the power of young people to create social change. She’s excited to bring her enthusiasm for service learning and skills in program management to empower students to say 'I can!'. Anitha will focus her time on developing partnerships and managing grants for DFC?
-            <p>&nbsp;</p>
-		</div>	
-		<div class="normaltext" style="float: left; width: 100px">
 			<img width="95" alt="" src="/dfcusa/images/rachel.jpg">
 		</div>
 		<div class="normaltext">
