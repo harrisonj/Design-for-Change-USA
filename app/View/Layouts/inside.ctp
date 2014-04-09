@@ -11,6 +11,7 @@
 	<link rel="stylesheet" type="text/css" href="/dfcusa/css/skin.css" />
     <script type="text/javascript" src="/dfcusa/js/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="/dfcusa/js/jquery.expander.js"></script>
+    <script type="text/javascript" src="/dfcusa/js/jquery.cookie.js"></script>
     <script type="text/javascript" src="/dfcusa/js/jquery.nivo.slider.js"></script>
     <script type="text/javascript" src="/dfcusa/js/carousel/jquery.jcarousel.min.js"></script>    
 </head>
