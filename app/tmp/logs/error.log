@@ -3416,3 +3416,12 @@
 #6 /Users/vinaygidwaney/Documents/htdocs/dfcusa/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
 #7 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #8 {main}
+2014-04-22 08:15:46 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 08:19:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 08:19:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+#0 /Users/vinaygidwaney/Documents/htdocs/dfcusa/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
