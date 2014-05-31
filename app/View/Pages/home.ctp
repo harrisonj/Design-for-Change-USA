@@ -21,14 +21,24 @@
 	</div>
     <br class="clear"/>
     <div class="slider-wrapper theme-default">
-        <div style="display: inline-block; background-color: #eecc63; width: 100%; padding-bottom: 2.5em; background-image: url('/dfcusa/images/slider/crazyhorse_background.png'); height: 30em">
-            <p class="ourVideos" style="text-align: center; margin-bottom: 0px; margin-left: -10px; color: #fff"><span style="font-size: 1.6em;">Design for Change 2013 Winner!</span></p>
-            <p class="ourVideos" style="text-align: center; margin-top: 10px; margin-left: -10px; color: #fff">Crazy Horse School</br>in Wanblee, South Dakota!</p>
-            <p class="ourVideos" style="font-size: 15pt; margin-top: 12px; text-align: center; margin-left: -10px; color: #fff;">Combating High Drop Out Rates In Their Community.
-            <ul style="margin-top: 20px">
-                <li style="float: left; margin-left: 120px"><a href="http://www.youtube.com/watch?v=x5a6OtnohmU&feature=youtu.be" target="_new"><img src="/dfcusa/images/photos/winningteam_snapshot.png" width="190" height="175" alt="" /></a></li>
-                <li style="float: left; margin-left: 30px"><a href="http://www.youtube.com/watch?v=rcqjQz-9DvQ&feature=youtu.be" target="_new"><img src="/dfcusa/images/photos/reflections_snapshot.png" width="190" height="175" alt="" /></a></li>
-            </ul>                      
+        <div style="display: inline-block; background-color: #eecc63; width: 100%; padding-bottom: 2.5em; background-image: url('/dfcusa/images/slider/traphouse_background.jpg'); height: 33em">
+            <p class="ourVideos" style="text-align: center; margin-bottom: 0px; margin-left: -10px; color: #fff"><span style="font-size: 1.6em;">Design for Change 2014 Winners!</span></p>
+            <p class="ourVideos" style="text-align: center; margin-top: 10px; margin-left: 20px; margin-right: 20px; color: #fff; font-size: 15pt">Design for Change USA is thrilled to announce the 2014 DFC USA Ambassadors to the Be The Change Conference in India!</p>
+            <br/>
+            <table width="100%" style="background-color: none; border: none; font-family: 'AbelRegular'; margin-left: -15px">
+                <tr>
+                  <td align="center" width="50%" style="text-align: center; color: #fff; background-color: transparent">
+                      <font style="font-size: 15pt; font-weight: bold">Trap Houses</font><br/>
+                      <a href="http://www.youtube.com/watch?v=jyEuqLSVMH0" target="_new"><img src="/dfcusa/images/photos/winningteam_traphouse.png" width="190" height="175" alt="" /></a>
+                      <br/><font style="font-size: 12pt">Charles Rice Learning Center<br/>Dallas, TX</font>
+                  </td>
+                  <td align="center" width="50%" style="text-align: center; color: #fff; background-color: transparent; font-family: 'AbelRegular'">
+                      <font style="font-size: 15pt; font-weight: bold">Young Environmental Leaders of Lynn</font><br/>
+                      <a href="http://www.youtube.com/watch?v=UsXgNBgq_4o" target="_new"><img src="/dfcusa/images/photos/winningteam_yell.png" width="190" height="175" alt="" /></a>
+                      <br/><font style="font-size: 12pt">Family and Children's Service of Greater Lynn<br/>Lynn, MA</font>
+                  </td>
+                </tr>
+            </table>                      
         </div>
     </div>
     <div style="float: top; margin-top: 30px">
