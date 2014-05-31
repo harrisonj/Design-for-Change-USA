@@ -21,7 +21,7 @@
 	</div>
     <br class="clear"/>
     <div class="slider-wrapper theme-default">
-        <div style="display: inline-block; background-color: #eecc63; width: 100%; padding-bottom: 2.5em; background-image: url('/dfcusa/images/slider/traphouse_background.jpg'); height: 33em">
+        <div style="display: inline-block; background-color: #eecc63; width: 100%; padding-bottom: 2.5em; background-image: url('/dfcusa/images/slider/traphouse_background.jpg'); height: 38em">
             <p class="ourVideos" style="text-align: center; margin-bottom: 0px; margin-left: -10px; color: #fff"><span style="font-size: 1.6em;">Design for Change 2014 Winners!</span></p>
             <p class="ourVideos" style="text-align: center; margin-top: 10px; margin-left: 20px; margin-right: 20px; color: #fff; font-size: 15pt">Design for Change USA is thrilled to announce the 2014 DFC USA Ambassadors to the Be The Change Conference in India!</p>
             <br/>
@@ -38,7 +38,8 @@
                       <br/><font style="font-size: 12pt">Family and Children's Service of Greater Lynn<br/>Lynn, MA</font>
                   </td>
                 </tr>
-            </table>                      
+            </table> 
+            <p class="ourVideos" style="text-align: center; margin-top: 10px; margin-left: 20px; margin-right: 20px; color: #fff; font-size: 15pt">We want to congratulate all teams on their hard work, their inspiring submissions, and the completion of their Design for Change USA project.</span></p>
         </div>
     </div>
     <div style="float: top; margin-top: 30px">
