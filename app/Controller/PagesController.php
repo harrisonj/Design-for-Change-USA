@@ -71,7 +71,7 @@ class PagesController extends AppController {
 		}
 		$this->set(compact('page', 'subpage', 'title_for_layout'));
 		
-		$this->layout = 'inside';
+		$this->layout = 'default';
 		$this->render(implode('/', $path));
 	}
 }

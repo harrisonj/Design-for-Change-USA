@@ -1,63 +1,188 @@
-<div class="rightContent">
-    <br class="clear"/>
-    <a href="../pages/getstarted/"><div class="button">Get Started</div></a>
-    <p class="ourVideos"><span>Learn More</span> Watch these videos about DFC:</p>
-    <div id="wrap" style="padding-left: 0px; height: 175px;">
-          <ul id="mycarousel" class="jcarousel-skin-tango" style="height: 175px">
-            <li><a href="http://www.youtube.com/watch?v=k_x1tUeUp64&feature=youtu.be" target="_new"><img src="/dfcusa/images/photos/btc2012_snapshot.png" width="190" height="175" alt="" /></a></li>
-            <li><a href="http://www.youtube.com/watch?v=vpz9EncLy6w&feature=youtu.be" target="_new"><img src="/dfcusa/images/photos/storyofdfc_snapshot.png" width="190" height="175" alt="" /></a></li>
-            <li><a href="http://www.youtube.com/watch?v=8b-gRi1oFb0&noredirect=1" target="_new"><img src="/dfcusa/images/photos/globalmeet_snapshot.png" width="190" height="175" alt="" /></a></li>
-            <li><a href="http://www.youtube.com/watch?v=ZWSAIr942YE" target="_new"><img src="/dfcusa/images/photos/gardner_snapshot.png" width="190" height="175" alt="" /></a></li>
-            <li><a href="http://www.youtube.com/watch?v=BFbh6FitNq8" target="_new"><img src="/dfcusa/images/photos/rockefeller_snapshot.png" width="190" height="175" alt="" /></a></li>
-            <li><a href="http://www.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html" target="_new"><img src="/dfcusa/images/photos/ted_snapshot.png" width="190" height="175" alt="" /></a></li>
-            <li><a href="#"><img src="/dfcusa/images/vidSecond.png" width="210" height="140" alt="" /></a></li>
-          </ul>
-    </div>
-    <br class="clear"/>
-    <a href="../pages/getstarted/"><div class="button">Get Started</div></a>
-    <br class="clear"/><br class="clear"/>
-	<div class="readmore">
-	    <a href="../pages/whatisdfc">or read more about Design for Change</a>
-	</div>
-    <br class="clear"/>
-    <div class="slider-wrapper theme-default">
-        <div style="display: inline-block; background-color: #eecc63; width: 100%; padding-bottom: 2.5em; background-image: url('/dfcusa/images/slider/traphouse_background.jpg'); height: 38em">
-            <p class="ourVideos" style="text-align: center; margin-bottom: 0px; margin-left: -10px; color: #fff"><span style="font-size: 1.6em;">Design for Change 2014 Winners!</span></p>
-            <p class="ourVideos" style="text-align: center; margin-top: 10px; margin-left: 20px; margin-right: 20px; color: #fff; font-size: 15pt">Design for Change USA is thrilled to announce the 2014 DFC USA Ambassadors to the Be The Change Conference in India!</p>
-            <br/>
-            <table width="100%" style="background-color: none; border: none; font-family: 'AbelRegular'; margin-left: -15px">
-                <tr>
-                  <td align="center" width="50%" style="text-align: center; color: #fff; background-color: transparent">
-                      <font style="font-size: 15pt; font-weight: bold">Trap Houses</font><br/>
-                      <a href="http://www.youtube.com/watch?v=jyEuqLSVMH0" target="_new"><img src="/dfcusa/images/photos/winningteam_traphouse.png" width="190" height="175" alt="" /></a>
-                      <br/><font style="font-size: 12pt">Charles Rice Learning Center<br/>Dallas, TX</font>
-                  </td>
-                  <td align="center" width="50%" style="text-align: center; color: #fff; background-color: transparent; font-family: 'AbelRegular'">
-                      <font style="font-size: 15pt; font-weight: bold">Young Environmental Leaders of Lynn</font><br/>
-                      <a href="http://www.youtube.com/watch?v=UsXgNBgq_4o" target="_new"><img src="/dfcusa/images/photos/winningteam_yell.png" width="190" height="175" alt="" /></a>
-                      <br/><font style="font-size: 12pt">Family and Children's Service of Greater Lynn<br/>Lynn, MA</font>
-                  </td>
-                </tr>
-            </table> 
-            <p class="ourVideos" style="text-align: center; margin-top: 10px; margin-left: 20px; margin-right: 20px; color: #fff; font-size: 15pt">We want to congratulate all teams on their hard work, their inspiring submissions, and the completion of their Design for Change USA project.</span></p>
-        </div>
-    </div>
-    <div style="float: top; margin-top: 30px">
-    	<p class="ourVideos"><span>Awards & Partners</span> DFC is recognized by:</p>
-    	<div id="wrap" class="awards">
-    		<ul>
-                <li><a href="http://www.teachforamerica.org/" target="_new"><img src="/dfcusa/images/sponsors/tfalogo.jpg" width="100" /></a></li>
-                <li><a href="https://www.youthventure.org/" target="_new"><img src="/dfcusa/images/sponsors/youthventure1.jpg" width="100" /></a></li>
-    			<li><a href="http://www.rockefellerfoundation.org/" target="_new"><img src="/dfcusa/images/sponsors/rockefeller.png" width="100" /></a></li>
-    			<li><a href="http://www.designtoimprovelife.dk/" target="_new"><img src="/dfcusa/images/sponsors/indexaward.png" /></a></li>
-                <li><a href="http://www.colabsagency.com/" target="_new"><img src="/dfcusa/images/sponsors/colabs.png" width="55" /></a></li>
-    			<li><a href="http://www.thinkfun.com/" target="_new"><img src="/dfcusa/images/sponsors/thinkfun.png" /></a></li>
-    			<li><a href="http://dschool.stanford.edu/" target="_new"><img src="/dfcusa/images/sponsors/dschool.png" width="100" /></a></li>
-    			<li style="height: 100px"><a href="http://www.ideo.com/" target="_new"><img src="/dfcusa/images/sponsors/ideo.png" width="100" /></a></li>
-                <li><a href="http://www.goodworkproject.org/" target="_new"><img src="/dfcusa/images/sponsors/projectzero.gif" width="150" /></a></li>
-    		</ul>
-    		<br class="clear"/><br class="clear"/>
-    	</div>
-    </div>
+<section class="inner_banner">
+  <div class="container">
+      <div class="inner_young">
+          <h2>YOUNG PEOPLE <span>CAN SOLVE</span> BIG PROBLEMS<span>.</span></h2>
+          <h2><span>THEY HAVE THE</span> POTENTIAL<span>.</span></h2>
+          <h2>HELP THEM <span>SHOW IT.</span></h2>
+          <p>This year’s challenge ends on May X, 2014 and then under that Ages 5 and up</p>
+          <div class="clear"></div>
+          <a href="#">GET STARTED NOW</a>
+          <div class="clear"></div>
+      </div>
+  </div>
+</section>
+<!-- Banner ends -->
+
+<!-- maincontent Starts -->
+<div class="main_content">
+  <div class="block1">
+      <div class="container">
+          <div class="inner1_design">
+              <img src="images/whoarewe.png" width="477" height="292" alt="img">
+              <div class="we_are">
+                  <h2>Who we are</h2>
+                  <p>Design for Change is a challenge to young people to apply their character, capacity, and confidence and change their world while they're at it. Join the challenge and become a DFC Change Mentor to young people...</p>
+              </div>
+              <div class="clear"></div>
+          </div>
+      </div>
+  </div>
+
+  <section class="block2">
+      <div class="container">
+          <div class="inner_empower">
+              <h2>We empower</h2>
+              <img src="images/group_img-1.png" width="495" height="126" alt="tx_img">
+              <h2>to be Change Mentors through</h2>
+              <div class="inner_tools">
+                  <ul>
+                      <li>
+                          <h3>curriculum</h3>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat augue ac purus cursus varius. Nam ac faucibus odio, ut viverra est. Integer consequat dictum sem, vel volutpat enim vestibulum in. Quisque vel sem sit amet mauris mattis sodales at eget neque. Nam rhoncus turpis sagittis dolor feugiat</p>
+                      </li>
+                      <li>
+                          <h3>tools</h3>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat augue ac purus cursus varius. Nam ac faucibus odio, ut viverra est. Integer consequat dictum sem, vel volutpat enim vestibulum in. Quisque vel sem sit amet mauris mattis sodales at eget neque. Nam rhoncus turpis sagittis dolor feugiat</p>
+                      </li>
+                      <li class="last">
+                          <h3>training</h3>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat augue ac purus cursus varius. Nam ac faucibus odio, ut viverra est. Integer consequat dictum sem, vel volutpat enim vestibulum in. Quisque vel sem sit amet mauris mattis sodales at eget neque. Nam rhoncus turpis sagittis dolor feugiat</p>
+                      </li>
+                  </ul>
+                  <div class="clear"></div>
+              </div>
+          </div>
+      </div>  
+  </section>
+
+  <section class="block3">
+      <div class="container">
+          <h2 class="inner_change">How does Design for Change connect them?<br>Through a simple framework: </h2>
+      </div>
+      <div class="block3_bot">
+          <div class="container">
+              <div class="feel">
+                  <ul>
+                      <li>
+                          <h3>FEEL</h3>
+                          <img src="images/pic_feel.png" width="176" height="176" alt="img">
+                          <p>A team of young people engages their community and chooses a problem that's meaningful to them. </p>
+                      </li>
+                      <li>
+                          <h3>imagine</h3>
+                          <img src="images/pic_imagine.png" width="176" height="176" alt="img">
+                          <p>Together, young people imagine a solution that just might work.</p>
+                      </li>
+                      <li>
+                          <h3>do</h3>
+                          <img src="images/pic_do.png" width="175" height="176" alt="img">
+                          <p>Working together, young people bring that solution to life.</p>
+                      </li>
+                      <li>
+                          <h3>Share</h3>
+                          <img src="images/pic_share.png" width="176" height="176" alt="img">
+                          <p>You share your project, inspiring others to be the change.</p>
+                      </li>
+                  </ul>
+                  <div class="clear"></div>
+              </div>
+          </div>
+      </div>
+  </section>
+
+  <div class="block4">
+      <div class="container">
+          <div class="inner_design_change">
+              <h2>Why Design for Change?</h2>
+              <p>Because our young people need relevant, meaningful, real-life experiences to grow and apply their strengths.
+              Because our communities need the unique insight and creative confidence of young people to help solve our biggest challenges.</p>
+          </div>
+          <div class="clear"></div>
+          <div class="inner_q_tag"><img src="images/whydfc.png" width="346" height="431" alt="img"></div>
+      </div>
+  </div>
+
+  <section class="block5">
+      <div class="container">
+          <div class="inner_settings"><img src="images/howdoesitwork.png" width="271" height="302" alt="img"></div>
+          <div class="inner_work">
+              <h2>How does it Work?</h2>
+              <p>In dozens of countries around the world, Design for Change has helped thousands of young people make positive change. They've built their skills, boosted their creativity, and discovered what they're truly capable of. And their ideas have impacted thousands of communities.</p>
+          </div>
+          <div class="clear"></div>
+      </div>
+  </section>
+
+  <section class="block6">
+      <div class="container">
+          <div class="inner_how_do">
+              <h2>How do we do it??</h2>
+              <p>We help mentors working with any group of young people, from after-school clubs and extracurricular groups to classrooms and home-schoolers, provide the guidance for youth to develop and apply their<br> strengths. </p>
+              <p>It's easy to start, and the possibilities are limitles</p>
+              <a href="#">GET STARTED</a>
+          </div>
+          <div class="clear"></div>
+          <div class="inner_blk6_img"><img src="images/howdowedoit.png" width="577" height="475" alt="img"></div>
+      </div>
+  </section>
+
+  <section class="block7">
+      <div class="container">
+          <div class="inner_impact">
+              <h2>What’s the impact?</h2>
+              <p>When young people take ownership of their own ideas,<br> and help bring them to life, the results can be<br> astounding. Participants have reported feeling<br> motivated, proud of themselves, closer to to their<br> communities, and energized to do more. </p>
+              <p>Meanwhile, secretly, they're learning design thinking:<br> the process of empathizing and engaging with real<br> people to discover community problems and develop<br> meaningful solutions. It is a “human-centered” problem<br> solving approach using compassion, critical thought, and<br> trial and error!</p>
+              <p>So yes, it's a challenge--but it doesn't feel like school or<br> work. Design for Change lives outside those institutions,<br> aiming instead to create a more personal and relevant<br> experience for young people. By encouraging youth to<br> solve the problems that mean the most to them, Design<br> for Change challenges youth to apply their strengths<br> and see the impact they can have on the world. </p>
+          </div>
+          <div class="clear"></div>
+          <div class="woman"><img src="images/impact.png" width="381" height="630" alt="img"></div>
+      </div>
+  </section>
+
+  <section class="block10">
+      <div class="container">
+          <div class="who_are_you">
+              <h2>So who are you?</h2>
+              <p>We're an organization based in Cambridge, Mass. - the U.S. partner of the worldwide Design for Change network. Our mission is to provide opportunities for youth by empowering their mentors through curriculum resources, training, and guidance. Most of our materials are free; some services have a small cost to help us sustain our operations.</p>
+              <ul>
+                  <li>
+                      <img src="images/img-6.png" width="220" height="217" alt="img">
+                      <h3>Vinay Gidwaney</h3>
+                  </li>
+                  <li>
+                      <img src="images/img-7.png" width="218" height="220" alt="img">
+                      <h3>Sanjli Gidwaney</h3>
+                  </li>
+                  <li class="last">
+                      <img src="images/img-8.png" width="219" height="218" alt="img">
+                      <h3>Jane Doe</h3>
+                  </li>
+              </ul>
+              <div class="clear"></div>
+          </div>
+      </div>
+  </section>
+
+  <section class="logos">
+      <div class="container">
+          <div class="partners">
+              <h2>Partners</h2>
+              <ul>
+                  <li><a href="http://www.tfa.org" target="_new"><img src="images/partners/tfa.png" width="178" height="95" alt="logo"></a></li>
+                  <li><a href="https://www.youthventure.org/" target="_new"><img src="images/partners/youthventures.png" width="181" height="95" alt="logo"></a></li>
+                  <li><a href="http://www.rockefellerfoundation.org/" target="_new"><img src="images/partners/rockefeller.png" width="204" height="95" alt="logo"></a></li>
+                  <li><a href="http://designtoimprovelife.dk/index-award/" target="_new"><img src="images/partners/index.png" width="113" height="95" alt="logo"></a></li>
+                  <li class="last"><img src="images/partners/colabs.png" width="80" height="95" alt="logo"></li>                                
+              </ul>
+              <div class="clear"></div>
+              <ul>
+                  <li><a href="http://dschool.stanford.edu/" target="_new"><img src="images/partners/dschool.png" width="167" height="76" alt="logo"></a></li>
+                  <li><a href="http://www.thinkfun.com" target="_new"><img src="images/partners/thinkfun.png" width="195" height="76" alt="logo"></a></li>
+                  <li><a href="http://www.ideo.com" target="_new"><img src="images/partners/ideo.png" width="204" height="76" alt="logo"></a></li>
+                  <li class="last"><a href="http://www.goodworkproject.org/" target="_new"><img src="images/partners/harvard.png" width="242" height="76" alt="logo"></a></li>
+              </ul>
+              <div class="clear"></div>
+          </div>
+      </div>
+  </section>
 </div>
-<div class="clear"></div>
