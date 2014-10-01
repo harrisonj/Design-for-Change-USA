@@ -15,7 +15,7 @@
 	</div>
 	<p class="pagetitle">Deadline</p>
 	<div class="normaltext">
-		The last day to submit your entry is <b>May 15, 2014</b>. 
+		The last day to submit your entry is <b>May 15, 2015</b>. 
 	</div>
 	<p class="pagetitle">Structure</p>
 	<div class="normaltext">
