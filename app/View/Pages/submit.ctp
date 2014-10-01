@@ -25,7 +25,7 @@
 		<p class="pagetitle">Deadline</p>
 		<ul>
 			<li>
-				The last day to submit your entry is <b>May 15, 2014</b>. 
+				The last day to submit your entry is <b>May 15, 2015</b>. 
 			</li>
 		</ul>
 		<br class="clear" />
