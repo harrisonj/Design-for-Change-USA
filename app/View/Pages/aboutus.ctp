@@ -1,7 +1,7 @@
 <div class="block1">
     <div class="container">
         <div class="inner1_design">
-            <img src="images/whoarewe.png" width="477" height="292" alt="img">
+            <img src="../images/whoarewe.png" width="477" height="292" alt="img">
             <div class="we_are">
                 <h2>Who we are</h2>
                 <p>Design for Change is the largest global movement designed to give children an opportunity to express their own ideas for a better world and put them into action.</p>
@@ -16,7 +16,7 @@
 	<p class="pagetitle">The Team</p>
 
 	<div class="profileSection">
-		<img width="95" alt="" src="images/team/natalia.png">
+		<img width="95" alt="" src="../images/team/natalia.png">
 		<div class="normaltext">
 			<b>Natalia Allende – Collaborator</b><br>
 			<a href="mailto:nallende@ingoodcompany.cl">nallende@ingoodcompany.cl</a><br><br>
@@ -25,7 +25,7 @@
 	</div>
 
 	<div class="profileSection">
-		<img width="95" alt="" src="images/team/nupur.png">
+		<img width="95" alt="" src="../images/team/nupur.png">
 		<div class="normaltext">
 			<b>Nupur Amin - Social Media Intern</b><br>
 			<a href="mailto:nupur@designforchange.us">nupur@designforchange.us</a><br><br>
@@ -34,7 +34,7 @@
 	</div>
 
 	<div class="profileSection">
-		<img width="95" alt="" src="images/team/matt.png">
+		<img width="95" alt="" src="../images/team/matt.png">
 		<div class="normaltext">
 			<b>Matt Besonen - Partnerships</b><br>
 			<a href="mailto:matt@designforchange.us">matt@designforchange.us</a><br><br>
@@ -43,7 +43,7 @@
 	</div>
 
 	<div class="profileSection">
-		<img width="95" alt="" src="images/team/valeria.png">
+		<img width="95" alt="" src="../images/team/valeria.png">
 		<div class="normaltext">
 			<b>Valeria Fontanals - Curriculum Designer & Training</b><br>
 			<a href="mailto:valeria@designforchange.us">valeria@designforchange.us</a><br><br>
@@ -52,7 +52,7 @@
 	</div>
 
 	<div class="profileSection">
-		<img width="95" alt="" src="images/team/sanjli.png">
+		<img width="95" alt="" src="../images/team/sanjli.png">
 		<div class="normaltext">
 			<b>Sanjli Gidwaney - Director</b><br>
 			<a href="mailto:sanjli@designforchange.us">sanjli@designforchange.us</a><br><br>
@@ -65,7 +65,7 @@
 	<p class="pagetitle">Our Advisors</p>
 
 	<div class="profileSection">
-		<img width="95" alt="" src="images/team/jimcollins.png">
+		<img width="95" alt="" src="../images/team/jimcollins.png">
 		<div class="normaltext">
 			<b>Jim Collins</b><br><br>
 			John Collins served for many years as the Faculty Director of the Masters Program in Special Studies at the Harvard Graduate School of Education. He is the former Librarian of the Harvard Graduate School of Education and a member of the Faculty of Education and directed the Monroe C.Gutman Library. Collins is a specialist in information technology, serves on national boards and task forces, and is a regular reviewer for several prestigious library journals. He played a key role in designing the National Library of Education and consulted with the U.S. Department of Education on many projects, including designing and implementing the National Education Network. He served on the Steering Committee for the Harvard/Google project and has received many awards, including being recognized as the Association of College and Research Library's Distinguished Education and Behavioral Sciences Librarian.
@@ -73,7 +73,7 @@
 	</div>
 
 	<div class="profileSection">
-		<img width="95" alt="" src="images/team/christianlong.png">
+		<img width="95" alt="" src="../images/team/christianlong.png">
 		<div class="normaltext">
 			<b>Christian Long</b><br><br>
 			Christian spent 15 years as a HS teacher and coach before he founded Be Playful, a collaborative global design agency focused on the intersection between school planning/design, emerging technology, professional development, and future trending. Additionally, he founded <a href="http://www.fastcodesign.com/1663416/teaching-kids-design-thinking-so-they-can-solve-the-worlds-biggest-problems" target="_new">Prototype</a>, a national design program empowering young people to solve real problems in real communities, and co-founded <a href="http://reimagine-ed.org/" target="_new">Reimagine:Ed</a>, a national series of initiatives exploring the future of learning.

@@ -1,7 +1,7 @@
 <div class="block1">
     <div class="container">
         <div class="inner1_design">
-            <img class="runner" src="images/runner.png">
+            <img class="runner" src="../images/runner.png">
             <div class="we_are">
                 <h2>A Message to Teachers/Mentors</h2>
                 <p class="small">We the Design for Change team, appreciate just how busy the life of a teacher/mentor can be. It is for that reason, that we have made it our mission to design a program which compliments your goals in and outside the classroom. As educators we all share the same mission, all children learning and learning well, that is all children learning in a way that is meaningful and creates positive impact.</p>
@@ -28,7 +28,7 @@
 			</tr>
 			<tr class="tall" valign="top">
 				<td>
-					<img src="images/feel_arrow.png">
+					<img src="../images/feel_arrow.png">
 				</td>
 				<td>
 					<div class="alert-box feel"><a href="http://www.designforchange.us/dfcusa/pages/3in1" target="_new">Videos</a></div>
@@ -38,7 +38,7 @@
 			</tr>
 			<tr class="tall" valign="top">
 				<td>
-					<img src="images/imagine_arrow.png">
+					<img src="../images/imagine_arrow.png">
 				</td>
 				<td>
 					<div class="alert-box imagine"><a href="http://www.designforchange.us/dfcusa/files/Design for Change - Icebreakers and Team Activities.pdf">Ice Breakers and Team ctivities</a></div>
@@ -46,7 +46,7 @@
 			</tr>
 			<tr class="tall" valign="top">
 				<td>
-					<img src="images/do_arrow.png">
+					<img src="../images/do_arrow.png">
 				</td>
 				<td>
 					<div class="alert-box do"><a href="http://www.designforchange.us/dfcusa/files/Design%20for%20Change%20USA%20-%20Curriculum.pdf">Curriculum</a></div>
@@ -55,7 +55,7 @@
 			</tr>
 			<tr class="tall" valign="top">
 				<td>
-					<img src="images/share_arrow.png">
+					<img src="../images/share_arrow.png">
 				</td>
 				<td>
 					<div class="alert-box share"><a href="/submit">Submit Your Project</a></div>

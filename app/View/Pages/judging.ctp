@@ -1,7 +1,7 @@
 <div class="block1">
     <div class="container">
         <div class="inner1_design">
-            <img src="images/whoarewe.png" width="477" height="292" alt="img">
+            <img src="../images/whoarewe.png" width="477" height="292" alt="img">
             <div class="we_are">
                 <h2>The Challenge</h2>
                 <p>Design for Change is the largest global movement designed to give children an opportunity to express their own ideas for a better world and put them into action.</p>

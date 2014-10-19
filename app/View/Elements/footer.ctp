@@ -4,9 +4,9 @@
           <div class="conect">
               <ul>
                   <li><p>Connect with us on</p></li>
-                  <li><a href="http://www.facebook.com/dfcusa" target="_new"><img src="images/facebook.png" width="37" height="37" alt="icon"></a></li>
-                  <li><a href="http://www.twitter.com/dfcusa" target="_new"><img src="images/twitter.png" width="37" height="37" alt="icon"></a></li>
-                  <li><a href="https://www.youtube.com/user/dfcworld2011" target="_new"><img src="images/youtube.png" width="36" height="37" alt="icon"></a></li>
+                  <li><a href="http://www.facebook.com/dfcusa" target="_new"><img src="../images/facebook.png" width="37" height="37" alt="icon"></a></li>
+                  <li><a href="http://www.twitter.com/dfcusa" target="_new"><img src="../images/twitter.png" width="37" height="37" alt="icon"></a></li>
+                  <li><a href="https://www.youtube.com/user/dfcworld2011" target="_new"><img src="../images/youtube.png" width="36" height="37" alt="icon"></a></li>
               </ul>
               <div class="clear"></div>
           </div>
@@ -23,16 +23,16 @@
   </div>
   <div class="footer_bot">
       <div class="container">
-          <div class="ft_logo"><a href="#"><img src="images/ft_logo.png" width="126" height="62" alt="logo"></a></div>
+          <div class="ft_logo"><a href="#"><img src="../images/ft_logo.png" width="126" height="62" alt="logo"></a></div>
           <div class="ft_nav">
               <ul>
-                  <li><a href="/submit">Submit Your Project</a></li>   
-                  <li><a href="/aboutus">About Us</a></li>
-                  <li><a href="/judging">Judging</a></li>
-                  <li><a href="/volunteer">Volunteer</a></li>
-                  <li><a href="/press">Press</a></li>
-                  <li><a href="/partners">Partners</a></li>
-                  <li><a href="/contactus">Contact Us</a></li>
+                  <li><a href="/pages/submit">Submit Your Project</a></li>   
+                  <li><a href="/pages/aboutus">About Us</a></li>
+                  <li><a href="/pages/judging">Judging</a></li>
+                  <li><a href="/pages/volunteer">Volunteer</a></li>
+                  <li><a href="/pages/press">Press</a></li>
+                  <li><a href="/pages/partners">Partners</a></li>
+                  <li><a href="/pages/contactus">Contact Us</a></li>
                   <li class="br"><a href="http://www.dfcworld.com" target="_new">DFC World</a></li>
               </ul>
               <div class="clear"></div>
