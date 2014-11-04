@@ -3,9 +3,9 @@
     	<h1><strong>Payment</strong></h1>
     </div>
 
-		<p class="pagetitle nomargin">Make a Payment</p>
-
 		<div class="insidepage">
+			<p class="pagetitle nomargin">Make a Payment</p>
+	
 			<div class="normaltext">
 				<p><span>Please press the button below to make a payment:<br>			
 				<br>
@@ -29,7 +29,7 @@
 				    handler.open({
 				      name: 'Design for Change USA',
 				      description: 'Vendor Payment',
-				      amount: $('#amount').val()
+				      amount: $('#amount').val() * 1000
 				    });
 				    e.preventDefault();
 				  });
