@@ -29,7 +29,7 @@
 				    handler.open({
 				      name: 'Design for Change USA',
 				      description: 'Vendor Payment',
-				      amount: $('#amount').val() * 100
+				      amount: $('#amount').val() * 10
 				    });
 				    e.preventDefault();
 				  });
