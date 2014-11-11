@@ -60,7 +60,7 @@
 		<div class="normaltext">
 			<br><br>
 			<b>Sharwari Tilloo - Curriculum Designer and Program Consultant</b><br>
-			<a href="mailto:sharwari@designforchange.us">sharwari.t@gmail.com</a><br>
+			<a href="mailto:sharwari_tilloo@post.harvard.edu">sharwari_tilloo@post.harvard.edu</a><br>
 			Sharwari is an installation artist and an education consultant based in Bangalore, India. She has studied art in India and Singapore and is a graduate of the Harvard Graduate School of Education. Her expertise in education lies in curriculum design and teaching. She has developed curriculum for iDiscoveri Education and Hippocampus Learning Centres, and taught in Akanksha, Mallya Aditi International School, Future School and Srishti College of Art and Design- all from very different social and economic sectors. Having studied under Eleanor Duckworth, she loves to include differential learning, art, and out of the box thinking in her curriculum design and teaching. Her goal is to make teaching and learning fun and exciting.
 			<p>&nbsp;</p>
 		</div>
