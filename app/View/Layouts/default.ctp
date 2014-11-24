@@ -15,7 +15,7 @@
 
     <!-- SET: SCRIPTS -->
     
-    <script type="text/javascript"></script>
+    <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery-1.7.1.min.js"></script>
 
     <!-- END: SCRIPTS -->
 
@@ -47,7 +47,7 @@
 <body>
 
 <!-- wrapper starts -->
-  <div class="wrapper">
+  <div class="wrapper <?php if (($_SERVER['REQUEST_URI'] != '/') && (strpos($_SERVER['REQUEST_URI'], '/pages/home') == false)) { ?>inside<?php } ?>">
 
     <?php echo $this->element('header') ?>
 

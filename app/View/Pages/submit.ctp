@@ -1,3 +1,14 @@
+<div class="block1">
+    <div class="container">
+        <div class="inner1_design">
+            <div class="simple_header">
+                <h2>Sign up</h2>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+
 <div class="insidepage">
 	<p class="pagetitle">Register Your School</p>
 	<div class="normaltext">
@@ -31,6 +42,6 @@
 	</div>
 	<p class="pagetitle">Judging</p>
 	<div class="normaltext">
-		<a href="/judging">To learn more about judging is conducted for Design for Change, click here.</a>
+		<a href="/pages/judging">To learn more about judging is conducted for Design for Change, click here.</a>
    </div>
 </div>

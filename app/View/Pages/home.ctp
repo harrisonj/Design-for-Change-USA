@@ -4,9 +4,9 @@
           <h2>YOUNG PEOPLE <span>CAN SOLVE</span> BIG PROBLEMS<span>.</span></h2>
           <h2><span>THEY HAVE THE</span> POTENTIAL<span>.</span></h2>
           <h2>HELP THEM <span>SHOW IT.</span></h2>
-          <p>This year’s challenge ends on May X, 2014 and then under that Ages 5 and up</p>
+          <p>This year’s challenge ends on May 15, 2015</p>
           <div class="clear"></div>
-          <a href="#">GET STARTED NOW</a>
+          <a href="/pages/getstarted">GET STARTED NOW</a>
           <div class="clear"></div>
       </div>
   </div>
@@ -38,15 +38,15 @@
                   <ul>
                       <li>
                           <h3>curriculum</h3>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat augue ac purus cursus varius. Nam ac faucibus odio, ut viverra est. Integer consequat dictum sem, vel volutpat enim vestibulum in. Quisque vel sem sit amet mauris mattis sodales at eget neque. Nam rhoncus turpis sagittis dolor feugiat</p>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat augue ac purus cursus varius.</p>
                       </li>
                       <li>
                           <h3>tools</h3>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat augue ac purus cursus varius. Nam ac faucibus odio, ut viverra est. Integer consequat dictum sem, vel volutpat enim vestibulum in. Quisque vel sem sit amet mauris mattis sodales at eget neque. Nam rhoncus turpis sagittis dolor feugiat</p>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat augue ac purus cursus varius.</p>
                       </li>
                       <li class="last">
                           <h3>training</h3>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat augue ac purus cursus varius. Nam ac faucibus odio, ut viverra est. Integer consequat dictum sem, vel volutpat enim vestibulum in. Quisque vel sem sit amet mauris mattis sodales at eget neque. Nam rhoncus turpis sagittis dolor feugiat</p>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat augue ac purus cursus varius.</p>
                       </li>
                   </ul>
                   <div class="clear"></div>
@@ -57,7 +57,7 @@
 
   <section class="block3">
       <div class="container">
-          <h2 class="inner_change">How does Design for Change connect them?<br>Through a simple framework: </h2>
+          <h2 class="inner_change">Design for Change is a simple framework: </h2>
       </div>
       <div class="block3_bot">
           <div class="container">
@@ -90,7 +90,7 @@
       </div>
   </section>
 
-  <div class="block4">
+  <div class="block4 hide">
       <div class="container">
           <div class="inner_design_change">
               <h2>Why Design for Change?</h2>
@@ -102,7 +102,7 @@
       </div>
   </div>
 
-  <section class="block5">
+  <section class="block5 hide">
       <div class="container">
           <div class="inner_settings"><img src="../images/howdoesitwork.png" width="271" height="302" alt="img"></div>
           <div class="inner_work">
@@ -113,7 +113,18 @@
       </div>
   </section>
 
-  <section class="block6">
+  <section class="block5">
+      <div class="container">
+          <div class="inner_settings"><img src="../images/howdoesitwork.png" width="271" height="302" alt="img"></div>
+          <div class="inner_work">
+              <h2>Impact</h2>
+              <p>In dozens of countries around the world, Design for Change has helped thousands of young people make positive change. They've built their skills, boosted their creativity, and discovered what they're truly capable of. And their ideas have impacted thousands of communities.</p>
+          </div>
+          <div class="clear"></div>
+      </div>
+  </section>
+
+  <section class="block6 hide">
       <div class="container">
           <div class="inner_how_do">
               <h2>How do we do it??</h2>
@@ -126,20 +137,20 @@
       </div>
   </section>
 
-  <section class="block7">
+  <section class="block7 hide">
       <div class="container">
           <div class="inner_impact">
               <h2>What’s the impact?</h2>
               <p>When young people take ownership of their own ideas,<br> and help bring them to life, the results can be<br> astounding. Participants have reported feeling<br> motivated, proud of themselves, closer to to their<br> communities, and energized to do more. </p>
-              <p>Meanwhile, secretly, they're learning design thinking:<br> the process of empathizing and engaging with real<br> people to discover community problems and develop<br> meaningful solutions. It is a “human-centered” problem<br> solving approach using compassion, critical thought, and<br> trial and error!</p>
+<!--               <p>Meanwhile, secretly, they're learning design thinking:<br> the process of empathizing and engaging with real<br> people to discover community problems and develop<br> meaningful solutions. It is a “human-centered” problem<br> solving approach using compassion, critical thought, and<br> trial and error!</p>
               <p>So yes, it's a challenge--but it doesn't feel like school or<br> work. Design for Change lives outside those institutions,<br> aiming instead to create a more personal and relevant<br> experience for young people. By encouraging youth to<br> solve the problems that mean the most to them, Design<br> for Change challenges youth to apply their strengths<br> and see the impact they can have on the world. </p>
-          </div>
+ -->          </div>
           <div class="clear"></div>
-          <div class="woman"><img src="../images/impact.png" width="381" height="630" alt="img"></div>
+          <div class="woman hide"><img src="../images/impact.png" width="381" height="630" alt="img"></div>
       </div>
   </section>
 
-  <section class="block10">
+  <section class="block10 hide">
       <div class="container">
           <div class="who_are_you">
               <h2>So who are you?</h2>
@@ -186,3 +197,10 @@
       </div>
   </section>
 </div>
+
+<script>
+  $(document).ready(function() {
+    $('.inner_navigation').find('li').find('a').removeClass('active');
+    $('[data-navigation="home"]').find('a').addClass('active');
+  });
+</script>

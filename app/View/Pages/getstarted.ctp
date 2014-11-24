@@ -1,8 +1,7 @@
 <div class="block1">
     <div class="container">
         <div class="inner1_design">
-            <img class="runner" src="../images/runner.png">
-            <div class="we_are">
+            <div class="simple_header">
                 <h2>A Message to Teachers/Mentors</h2>
                 <p class="small">We the Design for Change team, appreciate just how busy the life of a teacher/mentor can be. It is for that reason, that we have made it our mission to design a program which compliments your goals in and outside the classroom. As educators we all share the same mission, all children learning and learning well, that is all children learning in a way that is meaningful and creates positive impact.</p>
                 <br/>
@@ -41,7 +40,7 @@
 					<img src="../images/imagine_arrow.png">
 				</td>
 				<td>
-					<div class="alert-box imagine"><a href="http://www.designforchange.us/dfcusa/files/Design for Change - Icebreakers and Team Activities.pdf">Ice Breakers and Team ctivities</a></div>
+					<div class="alert-box imagine"><a href="http://www.designforchange.us/dfcusa/files/Design for Change - Icebreakers and Team Activities.pdf">Ice Breakers and Team Activities</a></div>
 				</td>
 			</tr>
 			<tr class="tall" valign="top">

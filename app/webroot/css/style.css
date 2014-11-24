@@ -1,7 +1,8 @@
 /*====================================== reset.css is here ========================================*/
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  font-family: 'proxima_novalight'; }
 
 table {
   border-collapse: collapse;
@@ -100,37 +101,37 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   src: url("../fonts/proximanova-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/proximanova-light-webfont.woff") format("woff"), url("../fonts/proximanova-light-webfont.ttf") format("truetype"), url("../fonts/proximanova-light-webfont.svg#proxima_novalight") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: 'proxima_novaregular';
   src: url("../fonts/proximanova-regular-webfont.eot");
   src: url("../fonts/proximanova-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/proximanova-regular-webfont.woff") format("woff"), url("../fonts/proximanova-regular-webfont.ttf") format("truetype"), url("../fonts/proximanova-regular-webfont.svg#proxima_novaregular") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: 'proxima_novasemibold';
   src: url("../fonts/proximanova-semibold-webfont.eot");
   src: url("../fonts/proximanova-semibold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/proximanova-semibold-webfont.woff") format("woff"), url("../fonts/proximanova-semibold-webfont.ttf") format("truetype"), url("../fonts/proximanova-semibold-webfont.svg#proxima_novasemibold") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: 'proxima_novabold';
   src: url("../fonts/proximanova-bold-webfont.eot");
   src: url("../fonts/proximanova-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/proximanova-bold-webfont.woff") format("woff"), url("../fonts/proximanova-bold-webfont.ttf") format("truetype"), url("../fonts/proximanova-bold-webfont.svg#proxima_novabold") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 /* ----------------------- layout ----------*/
 .wrapper {
   margin: 0 auto;
-  min-width: 1000px;
+  min-width: 1200px;
   overflow: hidden; }
+  .wrapper.inside {
+    background-color: #F1F1F1 !important; }
 
 .container {
-  width: 1000px;
+  padding-right: 100px;
+  padding-left: 100px;
   margin: 0 auto;
+  width: 1000px;
   position: relative; }
 
 header {
@@ -215,6 +216,50 @@ nav {
           background: #1a8eb0;
           border-bottom: 2px solid #16769c; }
 
+.leftnav {
+  display: block;
+  width: 25%;
+  float: left;
+  position: relative;
+  padding-top: 40px; }
+  .leftnav h1 {
+    margin-right: 35px;
+    text-align: right;
+    color: #45798e;
+    font-weight: bold; }
+  .leftnav ul {
+    margin-top: 20px; }
+    .leftnav ul li {
+      padding: 5px;
+      height: 35px;
+      line-height: 35px;
+      font-size: 14pt;
+      text-align: right;
+      margin-bottom: 10px;
+      cursor: pointer;
+      font-weight: bold; }
+      .leftnav ul li a {
+        color: #666; }
+      .leftnav ul li p {
+        margin-right: 30px; }
+      .leftnav ul li.active {
+        background-color: #45798e; }
+        .leftnav ul li.active a {
+          color: #fff; }
+
+.insidepage {
+  float: left;
+  display: block;
+  width: 75%;
+  background-color: #fff; }
+  .insidepage .contents {
+    margin: 25px 65px 25px 45px; }
+    .insidepage .contents h1 {
+      font-size: 25pt;
+      color: #45798e;
+      font-weight: bold;
+      margin-bottom: 25px; }
+
 /* ---------------------------------------------------------*/
 .banner {
   background: #4591b0;
@@ -271,7 +316,7 @@ nav {
     letter-spacing: -1px;
     word-spacing: 3px; }
 
-/* ------------------------ MIAN CONTENT HERE --------------*/
+/* ------------------------ MAIN CONTENT HERE --------------*/
 .main_content {
   width: 100%; }
 
@@ -381,7 +426,8 @@ nav {
 
 .block3 {
   width: 100%;
-  position: relative; }
+  position: relative;
+  padding-top: 25px; }
 
 .block3_top {
   width: 100%; }
@@ -829,8 +875,8 @@ footer {
 .inner_logo {
   position: absolute;
   z-index: 999;
-  top: 28px;
-  left: 60px; }
+  top: 20px;
+  left: 20px; }
 
 .inner_nav {
   width: 100%;
@@ -856,16 +902,18 @@ footer {
         text-align: center;
         position: relative;
         padding: 21px 0 17px 0; }
+        .inner_navigation ul li a.home {
+          width: 120px; }
         .inner_navigation ul li a.what {
           width: 147px; }
         .inner_navigation ul li a.get {
-          width: 164px; }
+          width: 204px; }
         .inner_navigation ul li a.documents {
           width: 152px; }
-        .inner_navigation ul li a.projects {
-          width: 169px; }
+        .inner_navigation ul li a.resources {
+          width: 150px; }
         .inner_navigation ul li a.faq {
-          width: 45px; }
+          width: 75px; }
         .inner_navigation ul li a:hover, .inner_navigation ul li a.active {
           background: #45798e; }
 
@@ -901,14 +949,14 @@ footer {
     float: right;
     margin: 10px 0 28px 0; }
   .inner_young a {
-    width: 355px;
+    width: 310px;
     margin: 0 6px 60px 0;
     font-family: 'proxima_novaregular';
     font-size: 32px;
     color: #ffffff;
     text-transform: uppercase;
     padding: 19px 0 11px 23px;
-    background: #ebc626 url(../images/inner_arrow.png) no-repeat 330px 18px;
+    background: #ebc626;
     border-bottom: 2px solid #e6b820;
     border-radius: 10px;
     position: relative;
@@ -929,10 +977,40 @@ footer {
     display: inline-block;
     margin: 0 -4px 0 0;
     padding: 83px 0 0 0; }
+  .inner1_design .runner {
+    float: right;
+    display: inline-block;
+    margin: 0 -4px 0 0;
+    padding: 83px 0 0 0; }
+  .inner1_design .whydfc {
+    float: right;
+    display: inline-block;
+    margin: 0 -4px 0 0;
+    padding: 52px 0 0 0;
+    width: 255px; }
   .inner1_design .bannerimage {
     position: absolute;
     right: 0px;
     top: 50px; }
+  .inner1_design .simple_header {
+    float: left;
+    display: inline-block;
+    padding: 23px 0 0 77px;
+    margin: 0 0 0 0; }
+    .inner1_design .simple_header h2 {
+      font-family: 'proxima_novaregular';
+      font-size: 42px;
+      color: #ffffff;
+      font-weight: normal;
+      padding: 0 0 22px 0; }
+    .inner1_design .simple_header p {
+      font-family: 'proxima_novalight';
+      font-size: 25px;
+      color: #ffffff;
+      font-weight: 400;
+      margin: 0 0 0 0;
+      letter-spacing: 0.5px;
+      line-height: 31px; }
   .inner1_design .we_are {
     float: left;
     display: inline-block;
@@ -953,9 +1031,6 @@ footer {
       margin: 0 0 0 0;
       letter-spacing: 0.5px;
       line-height: 31px; }
-      .inner1_design .we_are p.small {
-        font-size: 15px;
-        line-height: 20px; }
 
 .inner_block2 {
   width: 100%;
@@ -1188,28 +1263,27 @@ footer {
         text-align: center;
         padding: 19px 0 0 0; }
 
-.insidepage {
-  padding: 30px;
-  width: 70%;
-  margin: auto; }
-
 .normaltext {
   font-family: 'proxima_novalight';
-  font-size: 15px;
-  color: #000000; }
+  font-size: 12pt;
+  color: #000000;
+  line-height: 23pt; }
   .normaltext.padded {
     padding: 20px;
     border: 1px solid #f1f1f1; }
-  .normaltext ul {
+
+.normallist {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  list-style-type: circle;
+  margin-left: 20px; }
+  .normallist.padded {
+    margin-left: 50px;
+    margin-right: 50px; }
+  .normallist li {
+    font-size: 12pt;
     margin-top: 20px;
-    margin-bottom: 20px;
-    list-style-type: circle;
-    margin-left: 20px; }
-    .normaltext ul.padded {
-      margin-left: 50px;
-      margin-right: 50px; }
-    .normaltext ul li {
-      margin-top: 20px; }
+    color: #000000; }
 
 .pagetitle {
   font-family: 'proxima_novasemibold';
@@ -1238,10 +1312,10 @@ footer {
   color: blue; }
 
 .partnersList {
-  height: 230px; }
+  height: 250px; }
   .partnersList li {
     float: left;
-    margin: 10px; }
+    margin: 5px; }
 
 .button {
   display: block;
