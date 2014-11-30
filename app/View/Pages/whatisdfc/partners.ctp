@@ -15,18 +15,8 @@
 		  <li><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/harvard.png" width="242" height="76" alt="logo"></a></li>
 		</ul>
 		<h1>Become a Sponsor</h1>
-  	<p class="normaltext">
-  		Are you a company, organization, individual committed to improving your community, or empowering children to improve there's? Design for Change needs your help!&nbsp;<br>
-	  	<br>
-	  	Design for Change USA is requesting product and monetary donation to recognize and award the students, teachers and schools for their diligence and dedication to improving their communities.&nbsp;<br>
-	  	<br>
-	  	What we need:
-	  	<ul class="normallist">
-		    <li>To extend the efforts of the winning teams, we would like to offer them a spot in a notable publication (online/television/print). We are simply asking for a short article/interview or any type of coverage to share with the world, the motivations, dreams and solutions these children have designed to problems in their communities.</li>
-		    <li>Product donation that can be used in an educational environment such as e.g., math games, school supplies, computers, gym equipment.</li>
-		    <li>Monetary donations to support the winning entries of the competition, which will be used to purchase projectors, computers, and books.</li>
-	  	</ul>
-	  	<p class="normaltext">If you are interested in being a partner/sponsor, please fill out the form below and someone from the Design for Change USA team will be in touch with you.</p>
+	  	<p class="normaltext">Are you a company, organization, individual committed to improving your community, or empowering young people to improve there's? We want to hear from you!</p>
+	  	<p class="normaltext"><a href="/pages/whatisdfc/contactus">Contact us now.</a></p>
 	  </p>
 	</div>
 </div>

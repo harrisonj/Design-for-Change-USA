@@ -4,7 +4,7 @@
             <div class="inner_login">
                 <ul>
                     <li><a href="/pages/whatisdfc/contactus">Contact Us</a></li>
-                    <li class="last"><a href="/pages/submit" class="sign">Sign Up</a></li>
+                    <li class="last"><a href="/pages/getstarted/start" class="sign">Sign Up</a></li>
                 </ul>
                 <div class="clear"></div>   
             </div>

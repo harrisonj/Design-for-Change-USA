@@ -413,7 +413,7 @@ nav {
         font-size: 13px;
         color: #ffffff;
         font-weight: 400;
-        text-align: justify;
+        text-align: left;
         padding: 36px 5px 55px 3px;
         line-height: 16px; }
 
@@ -1086,7 +1086,7 @@ footer {
         font-family: 'proxima_novaregular';
         font-size: 17px;
         color: #000000;
-        text-align: justify;
+        text-align: left;
         padding: 14px 35px 0px 35px;
         line-height: 22px;
         height: 153px; }

@@ -219,7 +219,7 @@
 
     $('.slideshow').cycle({
       fx: 'turnDown',
-      timeout: 2000
+      timeout: 500
     });
   });
 </script>
