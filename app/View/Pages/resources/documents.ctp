@@ -41,7 +41,7 @@
                 <li><a target="_new" href="http://www.dfcworld.com/FILE/FIDS_Global_Windows.zip">Feel, Imagine, Do, Share Presentation</a></li>
                 <li><a target="_new" href="/dfcusa/files/Design for Change USA - Student Introduction.pptx">Student Introduction (long form)</a> <a href="/dfcusa/files/Design for Change USA - Student Introduction (Short).pptx">(short form)</a></li>
                 <li><a target="_new" href="/dfcusa/files/Design%20for%20Change%20-%20Icebreakers%20and%20Team Activities.pdf">Icebreakers and Worksheets</a></li>
-                <li><a target="_new" href="/dfcusa/files/Design for Change - Judging and Submission.pdf">Judging and Submission</a></li>
+                <li><a target="_new" href="/dfcusa/files/Design%20for%20Change%20USA%20-%20Judging%20and%20Submission.pdf">Judging and Submission</a></li>
             </td>
         </tr>
     </table>
