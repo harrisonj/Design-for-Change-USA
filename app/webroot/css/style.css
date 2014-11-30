@@ -3,6 +3,8 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, 
   margin: 0;
   padding: 0;
   font-family: 'proxima_novalight'; }
+  body b, div b, dl b, dt b, dd b, ul b, ol b, li b, h1 b, h2 b, h3 b, h4 b, h5 b, h6 b, pre b, form b, fieldset b, input b, textarea b, p b, blockquote b, th b, td b {
+    font-family: 'proxima_novabold'; }
 
 table {
   border-collapse: collapse;
@@ -208,10 +210,10 @@ nav {
           width: 120px; }
         .navigation ul li a.documents {
           width: 133px; }
-        .navigation ul li a.projects {
-          width: 123px; }
-        .navigation ul li a.faq {
-          width: 58px; }
+        .navigation ul li a.getstarted {
+          width: 150px; }
+        .navigation ul li a.resources {
+          width: 120px; }
         .navigation ul li a:hover, .navigation ul li a.active {
           background: #1a8eb0;
           border-bottom: 2px solid #16769c; }
@@ -238,13 +240,12 @@ nav {
       margin-bottom: 10px;
       cursor: pointer;
       font-weight: bold; }
-      .leftnav ul li a {
-        color: #666; }
       .leftnav ul li p {
-        margin-right: 30px; }
+        margin-right: 30px;
+        color: #666; }
       .leftnav ul li.active {
         background-color: #45798e; }
-        .leftnav ul li.active a {
+        .leftnav ul li.active p {
           color: #fff; }
 
 .insidepage {
@@ -908,12 +909,10 @@ footer {
           width: 147px; }
         .inner_navigation ul li a.get {
           width: 204px; }
-        .inner_navigation ul li a.documents {
-          width: 152px; }
         .inner_navigation ul li a.resources {
           width: 150px; }
-        .inner_navigation ul li a.faq {
-          width: 75px; }
+        .inner_navigation ul li a.getstarted {
+          width: 150px; }
         .inner_navigation ul li a:hover, .inner_navigation ul li a.active {
           background: #45798e; }
 
@@ -976,7 +975,7 @@ footer {
     float: right;
     display: inline-block;
     margin: 0 -4px 0 0;
-    padding: 83px 0 0 0; }
+    padding: 236px 0 0 0; }
   .inner1_design .runner {
     float: right;
     display: inline-block;
@@ -1088,8 +1087,9 @@ footer {
         font-size: 17px;
         color: #000000;
         text-align: justify;
-        padding: 14px 35px 76px 35px;
-        line-height: 22px; }
+        padding: 14px 35px 0px 35px;
+        line-height: 22px;
+        height: 153px; }
 
 .inner_change {
   font-family: 'proxima_novaregular';
@@ -1132,7 +1132,7 @@ footer {
   width: 575px;
   float: right;
   display: inline-block;
-  padding: 110px 0 142px 0; }
+  padding: 50px 0 50px 0; }
   .inner_work h2 {
     font-family: 'proxima_novaregular';
     font-size: 41px;
@@ -1284,6 +1284,18 @@ footer {
     font-size: 12pt;
     margin-top: 20px;
     color: #000000; }
+  .normallist ol {
+    font-size: 12pt;
+    margin-top: 20px;
+    color: #000000; }
+  .normallist a {
+    color: #3366cc; }
+  .normallist .sublist {
+    list-style-type: circle;
+    margin-left: 30px; }
+    .normallist .sublist li {
+      font-size: 10pt;
+      line-height: 4pt; }
 
 .pagetitle {
   font-family: 'proxima_novasemibold';
@@ -1306,10 +1318,10 @@ footer {
     .profileSection .normaltext a {
       margin-top: 5px;
       margin-bottom: 5px;
-      color: blue; }
+      color: #3366cc; }
 
 .normaltext a {
-  color: blue; }
+  color: #3366cc; }
 
 .partnersList {
   height: 250px; }
@@ -1363,3 +1375,24 @@ footer {
       background-color: #662d91; }
     .resources .alert-box a {
       color: #fff; }
+
+.imagegrid {
+  width: 100%; }
+  .imagegrid img {
+    width: 400px;
+    margin: 10px;
+    float: left; }
+
+.faq .question {
+  font-weight: bold; }
+  .faq .question .answer {
+    font-weight: normal;
+    margin-top: 20px;
+    margin-left: 20px; }
+
+.slideshow {
+  height: 120px;
+  width: 495px;
+  margin-left: auto;
+  margin-right: auto;
+  float: center; }

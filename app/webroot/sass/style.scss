@@ -4,6 +4,10 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, 
   margin: 0;
   padding: 0;
   font-family: 'proxima_novalight';
+
+  b {
+    font-family: 'proxima_novabold';
+  }
 }
 
 table {
@@ -274,11 +278,11 @@ nav {
         &.documents {
           width: 133px;
         }
-        &.projects {
-          width: 123px;
+        &.getstarted {
+          width: 150px;
         }
-        &.faq {
-          width: 58px;
+        &.resources {
+          width: 120px;
         }
         span! {}
         &:hover, &.active {
@@ -313,15 +317,13 @@ nav {
       margin-bottom: 10px;
       cursor: pointer;
       font-weight: bold;
-      a {
-        color: #666;
-      }
       p {
         margin-right: 30px;
+        color: #666;
       }
       &.active {
         background-color: #45798e;
-        a {
+        p {
           color: #fff;
         }
       }
@@ -1109,14 +1111,11 @@ footer {
         &.get {
           width: 204px;
         }
-        &.documents {
-          width: 152px;
-        }
         &.resources {
           width: 150px;
         }
-        &.faq {
-          width: 75px;
+        &.getstarted {
+          width: 150px;
         }
         span! {}
         &:hover, &.active {
@@ -1194,7 +1193,7 @@ footer {
     float: right;
     display: inline-block;
     margin: 0 -4px 0 0;
-    padding: 83px 0 0 0;
+    padding: 236px 0 0 0;
   }
   .runner {
     float: right;
@@ -1322,8 +1321,9 @@ footer {
         font-size: 17px;
         color: #000000;
         text-align: justify;
-        padding: 14px 35px 76px 35px;
+        padding: 14px 35px 0px 35px;
         line-height: 22px;
+        height: 153px;
       }
     }
   }
@@ -1375,7 +1375,7 @@ footer {
   width: 575px;
   float: right;
   display: inline-block;
-  padding: 110px 0 142px 0;
+  padding: 50px 0 50px 0;
   h2 {
     font-family: 'proxima_novaregular';
     font-size: 41px;
@@ -1553,6 +1553,22 @@ footer {
     margin-top: 20px;
     color: #000000;
   }
+  ol {
+    font-size: 12pt;
+    margin-top: 20px;
+    color: #000000;
+  }
+  a {
+    color: #3366cc;
+  }
+  .sublist {
+    list-style-type: circle;
+    margin-left: 30px;
+    li {
+      font-size: 10pt;
+      line-height: 4pt;
+    }
+  }
 }
 
 .pagetitle {
@@ -1579,14 +1595,14 @@ footer {
     a {
       margin-top: 5px;
       margin-bottom: 5px;
-      color: blue;
+      color: #3366cc;
     }
   }
 }
 
 .normaltext {
   a {
-    color: blue;
+    color: #3366cc;
   }
 }
 
@@ -1655,4 +1671,32 @@ footer {
       color: #fff;
     }
   }
+}
+
+.imagegrid {
+  width: 100%;
+  img {
+    width: 400px;
+    margin: 10px;
+    float: left;
+  }
+}
+
+.faq {
+  .question {
+    font-weight: bold;
+    .answer {
+      font-weight: normal;
+      margin-top: 20px;
+      margin-left: 20px;
+    }
+  }
+}
+
+.slideshow {
+  height: 120px;
+  width: 495px;
+  margin-left: auto;
+  margin-right: auto;
+  float: center;
 }
