@@ -47,7 +47,7 @@
                   <ul>
                       <li>
                           <h3>curriculum</h3>
-                          <p>Our 30 hour design thinking curriculum was built in conjuncton with the <a href="/pages/partners">nation's foremost thinkers in eduction, such as Harvard, Stanford and IDEO.</a></p>
+                          <p>Our 30 hour design thinking curriculum was built in conjuncton with the <a href="/pages/partners">nation's foremost thinkers in education, such as Harvard, Stanford and IDEO.</a></p>
                       </li>
                       <li>
                           <h3>tools</h3>
