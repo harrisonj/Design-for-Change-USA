@@ -192,7 +192,7 @@
           <div class="partners">
               <h2>Partners</h2>
               <ul>
-                  <li><a href="http://www.tfa.org" target="_new"><img src="/images/partners/tfa.png" width="178" height="95" alt="logo"></a></li>
+                  <li><a href="https://www.teachforamerica.org" target="_new"><img src="/images/partners/tfa.png" width="178" height="95" alt="logo"></a></li>
                   <li><a href="https://www.youthventure.org/" target="_new"><img src="/images/partners/youthventures.png" width="181" height="95" alt="logo"></a></li>
                   <li><a href="http://www.rockefellerfoundation.org/" target="_new"><img src="/images/partners/rockefeller.png" width="204" height="95" alt="logo"></a></li>
                   <li><a href="http://designtoimprovelife.dk/index-award/" target="_new"><img src="/images/partners/index.png" width="113" height="95" alt="logo"></a></li>
