@@ -190,12 +190,12 @@
   <section class="logos">
       <div class="container">
           <div class="partners">
-              <h2>Partners</h2>
+              <h2>Our Partners</h2>
               <ul>
                   <li><a href="https://www.teachforamerica.org" target="_new"><img src="/images/partners/tfa.png" width="178" height="95" alt="logo"></a></li>
                   <li><a href="https://www.youthventure.org/" target="_new"><img src="/images/partners/youthventures.png" width="181" height="95" alt="logo"></a></li>
                   <li><a href="http://www.rockefellerfoundation.org/" target="_new"><img src="/images/partners/rockefeller.png" width="204" height="95" alt="logo"></a></li>
-                  <li><a href="http://designtoimprovelife.dk/index-award/" target="_new"><img src="/images/partners/index.png" width="113" height="95" alt="logo"></a></li>
+                  <li><a href="http://www.cityyear.org/" target="_new"><img src="/images/partners/cityyear.png" width="90" alt="logo"></a></li>
                   <li class="last"><img src="/images/partners/colabs.png" width="80" height="95" alt="logo"></li>                                
               </ul>
               <div class="clear"></div>
@@ -205,6 +205,9 @@
                   <li><a href="http://www.ideo.com" target="_new"><img src="/images/partners/ideo.png" width="204" height="76" alt="logo"></a></li>
                   <li class="last"><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/harvard.png" width="242" height="76" alt="logo"></a></li>
               </ul>
+              <h3 class="inner_change" style="padding-bottom: 10px">
+                Are you interested in partner with Design for Change USA or starting your own DFC Chapter in your commmunity? <a href="/dfcusa/pages/whatisdfc/partners">Learn How.</a>
+              </h3>
               <div class="clear"></div>
           </div>
       </div>
