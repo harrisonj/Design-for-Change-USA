@@ -6,7 +6,7 @@
           <h2>HELP THEM <span>SHOW IT.</span></h2>
           <p>This year’s challenge ends on May 15, 2015</p>
           <div class="clear"></div>
-          <a href="/pages/whatisdfc/whatwedo">LEARN MORE</a>
+          <a href="/pages/whatisdfc/whatwedo">LEARN MORE NOW</a>
           <div class="clear"></div>
       </div>
   </div>
