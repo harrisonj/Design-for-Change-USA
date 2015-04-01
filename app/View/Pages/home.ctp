@@ -206,7 +206,7 @@
                   <li class="last"><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/harvard.png" width="242" height="76" alt="logo"></a></li>
               </ul>
               <h3 class="inner_change" style="padding-bottom: 10px">
-                Are you interested in partner with Design for Change USA or starting your own DFC Chapter in your commmunity? <a href="/dfcusa/pages/whatisdfc/partners">Learn How.</a>
+                Are you interested in partnerning with Design for Change USA or starting your own DFC Chapter in your commmunity? <a href="/dfcusa/pages/whatisdfc/partners">Learn How.</a>
               </h3>
               <div class="clear"></div>
           </div>
