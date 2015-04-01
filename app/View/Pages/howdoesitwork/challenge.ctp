@@ -7,10 +7,7 @@
     <br/>
     <p class="normaltext">The last conference was in September 2014 at the National Institute of Design in Ahmedabad, India.</p>
     <div class="imagegrid">
-      <img src="https://scontent-a-lga.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10252033_795754777133096_1042041521170153212_n.jpg?oh=9a7e8966c32e0f2d68d8af511c278c0c&oe=550AE2FD">
-      <img src="https://scontent-b-lga.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10351455_10205073835794639_3275550908431165907_n.jpg?oh=bfc210616b63917a9dc9ca4c4130de96&oe=54D62C26">
       <img src="https://scontent-a-lga.xx.fbcdn.net/hphotos-xap1/t31.0-8/778653_627805457261363_1919580251_o.jpg">
-      <img src="https://scontent-a-lga.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10624590_805330666175507_4191253194337808787_n.jpg?oh=f0eb40c4efa86c3ac8232148669de55e&oe=54D656C9">
       <div class="clear"></div>
     </div>
     <br/>
