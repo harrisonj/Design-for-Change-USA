@@ -20,7 +20,7 @@
 	  	<p class="normaltext">Are you an organization, school system or charter school network committed to improving your community and empowering your young people? We want to hear from you!</p>
 	  	<p class="normaltext"><a href="/pages/whatisdfc/contactus">Click here to contact us.</a></p>
 	  </p>
-	  <br/><br/>
+	  <br/><br/><br/>
 	 	<h1>Start Your Own Chapter - Get the Toolkit</h1>
 	   	<p class="normaltext">Design for Change Chapters are regional (city and neighborhood) initiatives that bring together mentors and young people who are passionate about making change in their community. For example, college students who are part of a Social Justice program in public schools. Please fill out <a href="/pages/whatisdfc/contactus">this form</a> to be sent an exclusive Chapter Toolkit that gives you all the tools and resources to get going right away.</p>
 	   </p>
