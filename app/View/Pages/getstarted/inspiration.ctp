@@ -7,23 +7,26 @@
 	   <br/><br/>
        <table id="DataList1" cellspacing="0" border="0" style="border-collapse:collapse;">
             <tbody><tr>
-                <td>
-                                       <a class="popup-youtube" href="http://www.youtube.com/watch?v=lB2e_4gz4e8">
-                                       <img id="DataList1_ctl00_Image1" src="http://www.dfcworld.com/vidthumb/9476.jpg" style="width:200px;border-width:0px;">
+                                   <td>
+                                       <a class="popup-youtube" href="http://www.youtube.com/watch?v=nzplMZM1nUA">
+                                       <img id="DataList1_ctl39_Image1" src="http://www.dfcworld.com/vidthumb/28863.jpg" style="width:200px;border-width:0px;">
+                                       </a>
+                                   </td>
+                                   <td>
+                                       <a class="popup-youtube" href="http://www.youtube.com/watch?v=x5a6OtnohmU">
+                                       <img id="DataList1_ctl26_Image1" src="http://www.dfcworld.com/vidthumb/17581.jpg" style="width:200px;border-width:0px;">
                                        </a>
                                    </td><td>
-                                       <a class="popup-youtube" href="http://www.youtube.com/watch?v=VI1R4YAyZAY">
-                                       <img id="DataList1_ctl01_Image1" src="http://www.dfcworld.com/vidthumb/14468.jpg" style="width:200px;border-width:0px;">
+                                       <a class="popup-youtube" href="http://www.youtube.com/watch?v=XhyZVU2oWGE">
+                                       <img id="DataList1_ctl34_Image1" src="http://www.dfcworld.com/vidthumb/9324.jpg" style="width:200px;border-width:0px;">
                                        </a>
-                                   </td><td>
-                                       <a class="popup-youtube" href="http://www.youtube.com/watch?v=kK6R7vUKZgA">
-                                       <img id="DataList1_ctl02_Image1" src="http://www.dfcworld.com/vidthumb/18742.jpg" style="width:200px;border-width:0px;">
-                                       </a>
-                                   </td><td>
+                                   </td>
+<td>
                                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=AyolgCmtXAU">
                                        <img id="DataList1_ctl03_Image1" src="http://www.dfcworld.com/vidthumb/40454.jpg" style="width:200px;border-width:0px;">
                                        </a>
                                    </td>
+
             </tr><tr>
                 <td>
                                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=5RSYSDJBiis">
@@ -123,15 +126,17 @@
                                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=mVrR8bGyu-I">
                                        <img id="DataList1_ctl25_Image1" src="http://www.dfcworld.com/vidthumb/1777.jpg" style="width:200px;border-width:0px;">
                                        </a>
-                                   </td><td>
-                                       <a class="popup-youtube" href="http://www.youtube.com/watch?v=x5a6OtnohmU">
-                                       <img id="DataList1_ctl26_Image1" src="http://www.dfcworld.com/vidthumb/17581.jpg" style="width:200px;border-width:0px;">
-                                       </a>
-                                   </td><td>
+                                   </td>
+                                   <td>
                                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=jr07xBpqBL8">
                                        <img id="DataList1_ctl27_Image1" src="http://www.dfcworld.com/vidthumb/18665.jpg" style="width:200px;border-width:0px;">
                                        </a>
                                    </td>
+                                   <td>
+                                                                          <a class="popup-youtube" href="http://www.youtube.com/watch?v=kK6R7vUKZgA">
+                                                                          <img id="DataList1_ctl02_Image1" src="http://www.dfcworld.com/vidthumb/18742.jpg" style="width:200px;border-width:0px;">
+                                                                          </a>
+                                                                      </td>
             </tr><tr>
                 <td>
                                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=b6qJ0FJjuEQ">
@@ -160,16 +165,17 @@
                                        <img id="DataList1_ctl33_Image1" src="http://www.dfcworld.com/vidthumb/33930.jpg" style="width:200px;border-width:0px;">
                                        </a>
                                    </td><td>
-                                       <a class="popup-youtube" href="http://www.youtube.com/watch?v=XhyZVU2oWGE">
-                                       <img id="DataList1_ctl34_Image1" src="http://www.dfcworld.com/vidthumb/9324.jpg" style="width:200px;border-width:0px;">
+                                       <a class="popup-youtube" href="http://www.youtube.com/watch?v=VI1R4YAyZAY">
+                                       <img id="DataList1_ctl01_Image1" src="http://www.dfcworld.com/vidthumb/14468.jpg" style="width:200px;border-width:0px;">
                                        </a>
-                                   </td><td>
+                                   </td>
+                                   <td>
                                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=aZLdraelM9I">
                                        <img id="DataList1_ctl35_Image1" src="http://www.dfcworld.com/vidthumb/16717.jpg" style="width:200px;border-width:0px;">
                                        </a>
                                    </td>
             </tr><tr>
-                <td>
+                                    <td>
                                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=Df2JHdNTLwg">
                                        <img id="DataList1_ctl36_Image1" src="http://www.dfcworld.com/vidthumb/11683.jpg" style="width:200px;border-width:0px;">
                                        </a>
@@ -181,13 +187,14 @@
                                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=8svX7PxfsEA">
                                        <img id="DataList1_ctl38_Image1" src="http://www.dfcworld.com/vidthumb/17641.jpg" style="width:200px;border-width:0px;">
                                        </a>
-                                   </td><td>
-                                       <a class="popup-youtube" href="http://www.youtube.com/watch?v=nzplMZM1nUA">
-                                       <img id="DataList1_ctl39_Image1" src="http://www.dfcworld.com/vidthumb/28863.jpg" style="width:200px;border-width:0px;">
-                                       </a>
                                    </td>
+                                   <td>
+                                      <a class="popup-youtube" href="http://www.youtube.com/watch?v=lB2e_4gz4e8">
+                                      <img id="DataList1_ctl00_Image1" src="http://www.dfcworld.com/vidthumb/9476.jpg" style="width:200px;border-width:0px;">
+                                      </a>
+                                  </td>
             </tr><tr>
-                <td>
+                                    <td>
                                        <a class="popup-youtube" href="http://www.youtube.com/watch?v=N-drhA2YIqg">
                                        <img id="DataList1_ctl40_Image1" src="http://www.dfcworld.com/vidthumb/32789.jpg" style="width:200px;border-width:0px;">
                                        </a>
