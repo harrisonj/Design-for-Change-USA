@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*====================================== reset.css is here ========================================*/
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
   margin: 0;
@@ -1396,3 +1397,33 @@ footer {
   margin-left: auto;
   margin-right: auto;
   float: center; }
+
+.testimonial {
+  height: 250px;
+  width: 100%; }
+  .testimonial .quote {
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px; }
+    .testimonial .quote .headshot {
+      float: left;
+      width: 200px; }
+      .testimonial .quote .headshot img {
+        width: 150px;
+        border-radius: 200px; }
+    .testimonial .quote blockquote {
+      color: #fff;
+      font-size: 11pt;
+      margin: 1.5em 10px;
+      padding: 0.5em 10px;
+      quotes: "“" "”" "‘" "’";
+      line-height: 20px; }
+    .testimonial .quote blockquote:before {
+      color: #fff;
+      content: open-quote;
+      font-size: 4em;
+      line-height: 0.1em;
+      margin-right: 0.25em;
+      vertical-align: -0.4em; }
+    .testimonial .quote blockquote p {
+      display: inline; }

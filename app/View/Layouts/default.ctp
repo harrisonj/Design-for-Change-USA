@@ -20,6 +20,7 @@
     <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery-ui.min.js"></script>
     <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery.cycle.js"></script>
     <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery.youtubepopup.js"></script>
+    <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery.carousel.min.js"></script>
 
     <!-- END: SCRIPTS -->
 

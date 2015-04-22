@@ -213,6 +213,62 @@
           </div>
       </div>
   </section>
+
+  <section class="block7">
+      <div class="testimonials">
+        <div class="testimonial">
+          <div class="quote">
+            <div class="headshot">
+              <img src="/app/webroot/images/testimonials/howardg.png"/>
+            </div>
+            <blockquote>
+              Many young people would like to bring about changes in their community, and many adults (including me) urge them to do so. I’m enthusiastic about Design for Change, an organization dedicated to helping young people articulate and pursue their aspirations for their community.
+              <p></p>
+              <br/><br/><i>- Howard Gardner<br/>Harvard Graduate School of Education</i>
+            </blockquote>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          <div class="quote">
+            <div class="headshot">
+              <img src="/app/webroot/images/testimonials/rickw.png"/>
+            </div>
+            <blockquote>
+              I very enthusiastically support Design for Change USA because it powerfully mobilizes the wisdom and energy of youth to strengthen communities. It both develops key capacities and ethical commitments in youth and has the potential to improve communities in countless ways.
+              <p></p>
+              <br/><br/><i>- Rick Weissbourd<br/>Senior Lecturer on Education, Harvard Graduate School of Education</i>
+            </blockquote>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          <div class="quote">
+            <div class="headshot">
+              <img src="/app/webroot/images/testimonials/erint.png"/>
+            </div>
+            <blockquote>
+              They have really taken to the FIDS model, and even use it to help resolve conflicts in the classroom/on the playground, and solve problems at home. It is wonderful to see how empowering this is for children.
+              <p></p>
+              <br/><br/><i>- Erin Threlfell<br/>Teacher, United Nations International School, NY</i>
+            </blockquote>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          <div class="quote">
+            <div class="headshot">
+              <img src="/app/webroot/images/testimonials/tarah.png"/>
+            </div>
+            <blockquote>
+              This experience is the type of activating experience that our students can really grab on to, and really feel inspired by, and continue to develop projects that impact their community…because once one project is implemented and students see the way they can impact their community, it becomes something they continue to want to do!
+              <p></p>
+              <br/><br/><i>- Tara Harrington</br>Teacher, Teach for America</br>Design for Change USA 2013 Winning Team</i>
+            </blockquote>
+          </div>
+        </div>
+      </div>
+  </section>
 </div>
 
 <script>
@@ -223,6 +279,11 @@
     $('.slideshow').cycle({
       fx: 'turnDown',
       timeout: 500
+    });
+
+    $('.testimonials').cycle({
+      fx: 'fade',
+      timeout: 5000
     });
   });
 </script>
