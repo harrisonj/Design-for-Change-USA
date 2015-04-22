@@ -129,9 +129,9 @@
           <div class="inner_work">
               <h2>Impact</h2>
               <p>
-                By working along side our partner organizations including <b>City Year, Ashoka Youth Venture, Citizen Schools, United Nations International School, and Teach for America</b>, Design for Change continues empower young people across the USA.
+                By working along side our partner organizations including <b>City Year, Ashoka Youth Venture, Citizen Schools, United Nations International School, and Teach for America</b>, Design for Change continues to empower young people across the USA.
                 <br/><br/>We are active in States such as Illinois, Massachusetts, New York, Michigan, South Dakota, Texas, Florida, California, New Hampshire, New Orleans, Nebraska, Virginia and Tennessee.
-                <br/><br/>Young people using Design for Change to address issues such as these in their community: poverty, homelessness, hunger, environment, gangs/violence, drugs, obesity, drop out rates, empathy, stereotypes and bullying.
+                <br/><br/>Young people are using Design for Change to address issues such as these in their community: poverty, homelessness, hunger, environment, gangs/violence, drugs, obesity, drop out rates, empathy, stereotypes and bullying.
               </p>
           </div>
           <div class="clear"></div>
