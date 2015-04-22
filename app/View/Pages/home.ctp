@@ -7,7 +7,7 @@
           <p>This year’s challenge ends on May 15, 2015</p>
           <div class="clear"></div>
           <a class="yellow_button" href="/pages/whatisdfc/whatwedo">LEARN MORE NOW</a>
-          <a style="position: absolute; right: 108px; top: 377px; padding-left: 10px; padding-right: 10px;" class="button" href="/pages/getstarted/start">or, Submit Your Project Now</a>
+          <a style="position: absolute; right: 108px; top: 377px; padding-left: 10px; padding-right: 10px;" class="button" href="/pages/getstarted/start">or, submit your project now</a>
           <div class="clear"></div>
       </div>
   </div>
