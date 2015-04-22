@@ -6,7 +6,8 @@
           <h2>HELP THEM <span>SHOW IT.</span></h2>
           <p>This year’s challenge ends on May 15, 2015</p>
           <div class="clear"></div>
-          <a href="/pages/whatisdfc/whatwedo">LEARN MORE NOW</a>
+          <a class="yellow_button" href="/pages/whatisdfc/whatwedo">LEARN MORE NOW</a>
+          <a style="position: absolute; right: 108px; top: 377px; padding-left: 10px; padding-right: 10px;" class="button" href="/pages/getstarted/start">or, Submit Your Project Now</a>
           <div class="clear"></div>
       </div>
   </div>
