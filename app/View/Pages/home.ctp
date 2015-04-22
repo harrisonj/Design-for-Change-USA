@@ -21,7 +21,7 @@
               <img src="/images/whoarewe.png" width="477" height="292" alt="img">
               <div class="we_are">
                   <h2>Who we are</h2>
-                  <p>Design for Change is an international movement of young people who are changing the world!<br/><br/>We are empowering inspiring young minds to apply their character, capacity and confidence to issues that really matter to them!<br/><br/>We work with kids of all ages both in school and outside of school.<br/><br/><br/></p>
+                  <p>Design for Change is an international movement of young people who are changing the world!<br/><br/>We are empowering and inspiring young minds to apply their character, capacity and confidence to issues that really matter to them!<br/><br/>We work with young people of all ages both in school and outside of school.<br/><br/><br/></p>
               </div>
               <div class="clear"></div>
           </div>
@@ -141,7 +141,7 @@
       <div class="container">
           <div class="inner_how_do">
               <h2>How do we do it??</h2>
-              <p>We help mentors working with any group of young people, from after-school clubs and extracurricular groups to classrooms and home-schoolers, provide the guidance for youth to develop and apply their<br> strengths. </p>
+              <p>We help mentors working with any group of young people, from after-school clubs and extracurricular groups to classrooms and home-schoolers, provide the guidance for young people to develop and apply their<br> strengths. </p>
               <p>It's easy to start, and the possibilities are limitles</p>
               <a href="#">GET STARTED</a>
           </div>

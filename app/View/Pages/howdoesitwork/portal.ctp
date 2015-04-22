@@ -3,7 +3,7 @@
 <div class="insidepage">
   <div class="contents">
     <h1>Web Portal</h1>
-    <p class="normaltext">In early 2015, Design for Change USA will launch a web portal to help mentors and teachers use the Design for Change Curriculum. The purpose of the portal is to make Design for Change easier for mentors to incorporate into their learning environment. The portal will have dozens of "bite-sized" activities that make the DFC concepts come alive and help strengthen specific skillsets amongst your youth.</p>
+    <p class="normaltext">In early 2015, Design for Change USA will launch a web portal to help mentors and teachers use the Design for Change Curriculum. The purpose of the portal is to make Design for Change easier for mentors to incorporate into their learning environment. The portal will have dozens of "bite-sized" activities that make the DFC concepts come alive and help strengthen specific skillsets amongst your team of young people.</p>
     <br/>
     <img src="/dfcusa/app/webroot/images/portal.png">
     <br/><br/>

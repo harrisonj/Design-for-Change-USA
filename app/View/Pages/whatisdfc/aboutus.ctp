@@ -3,9 +3,9 @@
 <div class="insidepage">	
 	<div class="contents">
 		<h1>About Us</h1>
-		<p class="normaltext">We're Design for Change USA, a nonprofit organization based in Cambridge, Mass. -- the U.S. partner of the <a href="http://www.dfcworld.com" target="_new">worldwide Design for Change network</a>.</p>
+		<p class="normaltext">We are Design for Change USA, a nonprofit organization based in Cambridge Massachusetts -- the U.S. partner of the <a href="http://www.dfcworld.com" target="_new">worldwide Design for Change network</a>.</p>
 		<br/>
-		<p class="normaltext">What's our mission? Design for Change USA uses a positive youth development approach and mentorship to provide opportunities for youth to strengthen and apply their character, capacity, and confidence to change their communities.</p>
+		<p class="normaltext">Our Mission: Design for Change USA uses a positive youth development approach and mentorship to provide opportunities for young people to strengthen and apply their character, capacity, and confidence to change their schools and communities. We offer curriculum, training, and ongoing support to both individual mentors and partner organizations working with young people throughout the United States.</p>
 		<br/>
 		<p class="normaltext">We reach as many young people as we can by offering curriculum, training, and ongoing support to both individual mentors and partner organizations working with youth in the United States.</p>
 		<br/><br/>
