@@ -283,7 +283,7 @@
 
     $('.testimonials').cycle({
       fx: 'fade',
-      timeout: 5000
+      timeout: 8000
     });
   });
 </script>
