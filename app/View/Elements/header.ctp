@@ -19,7 +19,7 @@
                     <li data-navigation="home"><a href="/" class="home <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/home') > -1) { ?>active<?php } ?>">Home</a></li>
                     <li data-navigation="whatisdfc"><a href="/pages/whatisdfc/whatwedo" class="what <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/whatisdfc') > -1) { ?>active<?php } ?>">What Is DFC</a></li>
                     <li data-navigation="howdoesitwork"><a href="/pages/howdoesitwork/fids" class="get <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/howdoesitwork') > -1) { ?>active<?php } ?>">How Does It Work</a></li>
-                    <li data-navigation="getstarted"><a href="/pages/getstarted/start" class="getstarted <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/getstarted') > -1) { ?>active<?php } ?>">Get Started</a></li>
+                    <li data-navigation="getstarted"><a href="/pages/getstarted/start" class="getstarted <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/getstarted') > -1) { ?>active<?php } ?>">Submit</a></li>
                     <li data-navigation="resources"><a href="/pages/resources/documents" class="resources <?php if (strpos($_SERVER['REQUEST_URI'], '/resources') > -1) { ?>active<?php } ?>">Resources</a></li>
                 </ul>
                 <div class="clear"></div>
