@@ -2,29 +2,29 @@
 
 <div class="insidepage">
 	<div class="contents">
-		<h1>Register Your Organization</h1>
-		<div class="normaltext">
-			<a href="http://challenge.dfcworld.com/" target="_new"><div class="button">Register Your Organization</div></a>
-			<br/>
-			<i>You will be forwarded to the Design for Change World website. Be sure to select The United States as your country when you register your school or organization.</i>
-			<br/><br/><i><b>Please Note:</b> You and your team must complete the following surveys to complete the Registration process.</i>
-			<ul>
-				<li>- <a href="https://www.surveymonkey.com/s/W2Q8F2R" target="_new">Baseline Mentor Survey</a></li>
-				<li>- <a href="https://www.surveymonkey.com/s/WYPJD2J" target="_new">Baseline Change Maker (youth) Survey</a></li>
-			</ul>
+		<div style="display: none">
+			<h1>Register Your Organization</h1>
+			<div class="normaltext">
+				<a href="http://challenge.dfcworld.com/" target="_new"><div class="button">Register Your Organization</div></a>
+				<br/>
+				<i>You will be forwarded to the Design for Change World website. Be sure to select The United States as your country when you register your school or organization.</i>
+				<br/><br/><i><b>Please Note:</b> You and your team must complete the following surveys to complete the Registration process.</i>
+				<ul>
+					<li>- <a href="https://www.surveymonkey.com/s/W2Q8F2R" target="_new">Baseline Mentor Survey</a></li>
+					<li>- <a href="https://www.surveymonkey.com/s/WYPJD2J" target="_new">Baseline Change Maker (youth) Survey</a></li>
+				</ul>
+				<br/>
+			</div>
 			<br/>
 		</div>
-		<br/>
 		<h1>Submit Your Projects</h1>
 		<div class="normaltext">
 			As the mentor/teacher, you will be required to submit the project of your young people using the Design for Change World Website.
 			<br/><br/>
-			<a href="http://challenge.dfcworld.com/" target="_new"><div class="button">Submit Your Project Now</div></a>
+			<a href="https://fqlypkaxcu.formstack.com/forms/submit" target="_new"><div class="button">Submit Your Project Now</div></a>
 			<br/>
-			<i>You will be forwarded to the Design for Change World website. Be sure to select The United States as your country when you submit your project.</i>
-			<br/><br/>
 			<i><b>Please Note:</b> Projects are only considered complete, once you and your team have filled out the following exit surveys:</i>
-			<ul>
+			<ul style="display: none">
 				<li>- <a href="https://www.surveymonkey.com/s/Y32SRFK" target="_new">Exit Mentor Survey</a></li>
 				<li>- <a href="https://www.surveymonkey.com/s/YFHTY99" target="_new">Exit Change Maker (youth) Survey</a></li>
 			</ul>
