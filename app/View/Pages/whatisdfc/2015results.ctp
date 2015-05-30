@@ -9,7 +9,7 @@
                 <a href="http://www.cityyear.org/" target="_new"><img src="/images/partners/cityyear.png" width="90" alt="logo" style="display: block"></a>
             </td>
             <td>
-                <p class="normaltext">The judges have selected the <b>"Winthrop School City Year Starfish Program"</b> to represent DFC USA at the annual DFC Global Conference “Be The Change” in Monterrey, Mexico in September 2015!</p>
+                <p class="normaltext">The judges have selected the <b>"Winthrop School City Year Starfish Program"</b> of Dorchester, MA to represent DFC USA at the annual DFC Global Conference “Be The Change” in Monterrey, Mexico in September 2015!</p>
             </td>
         </tr>
     </table>
