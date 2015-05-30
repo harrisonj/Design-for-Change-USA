@@ -414,20 +414,43 @@ nav {
 /* ------------------------ MAIN CONTENT HERE --------------*/
 
 .headline_content {
-  width: 100%;
-  background: #4ECAA0;
-  height: 70px;
+  width: 300px;
+  position: absolute;
+  border-radius: 10px;
+  left: 200px;
+  .star {
+    position: absolute; 
+    top: -40px; 
+    left: -40px;
+    width: 80px;
+    height: 80px;
+  }
+  /*-webkit-border-top-left-radius: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;*/
+  -webkit-box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
+box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
+  top: 215px;
+  background: #fff;
+  height: 80px;
   padding-top: 15px;
   line-height: 30px;
   text-align: center;
-  color: #fff;
+  color: #000;
   font-size: 20pt;
   font-weight: bold;
-  .subline {
+  .subheadline {
+    background: #fff;
+    text-align: center;
     font-size: 12pt;
+    line-height: 20pt;
     a {
-      color: #fff;
-      text-decoration: underline;
+      color: #000;
+      
     }
   }
 }

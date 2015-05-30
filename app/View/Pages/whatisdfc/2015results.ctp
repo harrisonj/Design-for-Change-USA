@@ -10,6 +10,8 @@
             </td>
             <td>
                 <p class="normaltext">The judges have selected the <b>"Winthrop School City Year Starfish Program"</b> of Dorchester, MA to represent DFC USA at the annual DFC Global Conference “Be The Change” in Monterrey, Mexico in September 2015!</p>
+                <br/>
+                <p class="normaltext">Congratulations to all teams who participated in DFC USA 2015. We hope you will continue to<br/><b>BE THE CHANGE!</b></p>
             </td>
         </tr>
     </table>
