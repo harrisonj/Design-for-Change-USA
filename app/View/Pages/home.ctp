@@ -4,15 +4,21 @@
           <h2>YOUNG PEOPLE <span>CAN SOLVE</span> BIG PROBLEMS<span>.</span></h2>
           <h2><span>THEY HAVE THE</span> POTENTIAL<span>.</span></h2>
           <h2>HELP THEM <span>SHOW IT.</span></h2>
-          <p>This year’s challenge ends on May 15, 2015</p>
+          <p class="hide">This year’s challenge ends on May 15, 2015</p>
           <div class="clear"></div>
+          <br/><br/>
           <a class="yellow_button" href="/pages/whatisdfc/whatwedo">LEARN MORE NOW</a>
-          <a style="position: absolute; right: 108px; top: 377px; padding-left: 10px; padding-right: 10px;" class="button" href="/pages/getstarted/start">or, submit your project now</a>
+          <a style="position: absolute; right: 108px; top: 377px; padding-left: 10px; padding-right: 10px; display: none" class="button" href="/pages/getstarted/start">or, submit your project now</a>
           <div class="clear"></div>
       </div>
   </div>
 </section>
 <!-- Banner ends -->
+
+<div class="headline_content">
+  <i>The jury is in!</i>
+  <br/><p class="subline"><a href="/pages/whatisdfc/2015results">The team representing the USA at the DFC Global Conference in Mexico is...</a></p>
+</div>
 
 <!-- maincontent Starts -->
 <div class="main_content">

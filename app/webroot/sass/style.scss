@@ -413,6 +413,25 @@ nav {
 
 /* ------------------------ MAIN CONTENT HERE --------------*/
 
+.headline_content {
+  width: 100%;
+  background: #4ECAA0;
+  height: 70px;
+  padding-top: 15px;
+  line-height: 30px;
+  text-align: center;
+  color: #fff;
+  font-size: 20pt;
+  font-weight: bold;
+  .subline {
+    font-size: 12pt;
+    a {
+      color: #fff;
+      text-decoration: underline;
+    }
+  }
+}
+
 .main_content {
   width: 100%;
 }
