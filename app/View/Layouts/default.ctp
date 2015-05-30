@@ -9,7 +9,7 @@
   <!-- END: FAVICON -->
 
   <!-- SET: STYLESHEET -->
-  <link href="/css/style.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/style.css?ref=<?php echo time() ?>" rel="stylesheet" type="text/css" media="all">
   <link href="/css/jquery-ui.css" rel="stylesheet" type="text/css" media="all">
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <!-- END: STYLESHEET -->
@@ -49,7 +49,7 @@
     </style><![endif]--> 
 </head>
 
-<body style="background-color: #fff">
+<body style="background-color: #FFF">
 
 <!-- wrapper starts -->
   <div class="wrapper <?php if (($_SERVER['REQUEST_URI'] != '/') && (strpos($_SERVER['REQUEST_URI'], '/pages/home') == false)) { ?>inside<?php } ?>">
