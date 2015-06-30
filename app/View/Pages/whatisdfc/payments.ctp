@@ -10,7 +10,7 @@
 			    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
 			    data-key="pk_test_PydTIqM9h7XzXZJqxHxHNvkV"
 			    data-name="Design for Change USA Inc."
-			    data-description="<? echo $_GET['quantity'] ?> Curriculum Books"
+			    data-description="<?php echo $_GET['quantity'] ?> Curriculum Books"
 			    data-amount="<?php echo $_GET['quantity'] * 1500 ?>">
 			  </script>
 			</form>
