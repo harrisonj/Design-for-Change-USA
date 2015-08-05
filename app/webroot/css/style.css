@@ -907,9 +907,12 @@ footer {
         text-align: center;
         line-height: 31px;
         position: relative; }
-        .inner_login ul li a.sign {
-          background: #ce305a;
-          border: 1px solid #d65171; }
+        .inner_login ul li a.register {
+          background: #5cb85c;
+          border: 1px solid #5cb85c; }
+        .inner_login ul li a.signin {
+          background: #5bc0de;
+          border: 1px solid #5bc0de; }
 
 .inner_logo {
   position: absolute;
@@ -951,6 +954,8 @@ footer {
           width: 150px; }
         .inner_navigation ul li a.getstarted {
           width: 150px; }
+        .inner_navigation ul li a.success {
+          width: 180px; }
         .inner_navigation ul li a:hover, .inner_navigation ul li a.active {
           background: #45798e; }
 
@@ -999,6 +1004,19 @@ footer {
     position: relative;
     float: right;
     display: inline-block; }
+
+.green_button {
+  width: 250px;
+  margin: 0 6px 60px 0;
+  height: 45px;
+  font-family: 'proxima_novaregular';
+  font-size: 15px;
+  color: #ffffff;
+  background-color: #5cb85c;
+  text-transform: uppercase;
+  border-radius: 10px;
+  position: relative;
+  display: inline-block; }
 
 .inner1_block1 {
   width: 100%;

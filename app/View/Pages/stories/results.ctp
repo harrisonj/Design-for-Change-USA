@@ -1,4 +1,4 @@
-<?php echo $this->element('whatisdfc'); ?>
+<?php echo $this->element('stories'); ?>
 
 <div class="insidepage">
   <div class="contents">

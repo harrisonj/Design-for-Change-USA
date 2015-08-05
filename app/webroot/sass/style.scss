@@ -1101,9 +1101,13 @@ footer {
         text-align: center;
         line-height: 31px;
         position: relative;
-        &.sign {
-          background: #ce305a;
-          border: 1px solid #d65171;
+        &.register {
+          background: #5cb85c;
+          border: 1px solid #5cb85c;
+        }
+        &.signin {
+          background: #5bc0de;
+          border: 1px solid #5bc0de;
         }
       }
     }
@@ -1158,6 +1162,9 @@ footer {
         }
         &.getstarted {
           width: 150px;
+        }
+        &.success {
+          width: 180px;
         }
         span! {}
         &:hover, &.active {
@@ -1219,6 +1226,20 @@ footer {
     float: right;
     display: inline-block;
   }
+}
+
+.green_button {
+  width: 250px;
+  margin: 0 6px 60px 0;
+  height: 45px;
+  font-family: 'proxima_novaregular';
+  font-size: 15px;
+  color: #ffffff;
+  background-color: #5cb85c;
+  text-transform: uppercase;
+  border-radius: 10px;
+  position: relative;
+  display: inline-block;
 }
 
 .inner1_block1 {
