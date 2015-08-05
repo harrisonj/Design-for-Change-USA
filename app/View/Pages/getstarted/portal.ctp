@@ -16,7 +16,7 @@
         </ul>
     </p>
     <br/><br/>
-    <a href="/dfcusa-pm/pages/login#register"><button class="green_button register">Register now</button></a>
+    <a href="http://portal.designforchange.us/dfcusa-pm/pages/login#register"><button class="green_button register">Register now</button></a>
   </div>
 </div>
 <div class="clear"></div>
