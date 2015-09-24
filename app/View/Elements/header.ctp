@@ -5,7 +5,7 @@
                 <ul>
                     <li><a href="/pages/whatisdfc/contactus">Contact Us</a></li>
                     <li><a href="/pages/getstarted/portal" class="register">Sign Up</a></li>
-                    <li class="last"><a href="/dfcusa-pm/pages/login" target="_new" class="signin">Login</a></li>
+                    <li class="last"><a href="http://portal.designforchange.us/dfcusa-pm/pages/login" target="_new" class="signin">Login</a></li>
                 </ul>
                 <div class="clear"></div>   
             </div>
