@@ -1031,7 +1031,7 @@ footer {
     float: right;
     display: inline-block;
     margin: 0 -4px 0 0;
-    padding: 236px 0 0 0; }
+    padding: 266px 0 0 0; }
   .inner1_design .runner {
     float: right;
     display: inline-block;
@@ -1482,3 +1482,5 @@ footer {
       vertical-align: -0.4em; }
     .testimonial .quote blockquote p {
       display: inline; }
+
+/*# sourceMappingURL=style.css.map */
