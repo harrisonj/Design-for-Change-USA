@@ -3,7 +3,7 @@
 <div class="insidepage">
   <div class="contents">
     <h1>Impact</h1>
-    <p class="normaltext">- When young people take ownership of their own ideas, and help bring them to life, the results can be astounding. Participants have reported feeling motivated, proud of themselves, closer to their communities, and energized to do more! They do this while secretly learning the design thinking process; empathizing with members of the community and prototyping meaningful solutions to their most pressing challenges!</p>
+    <p class="normaltext">When young people take ownership of their own ideas, and help bring them to life, the results can be astounding. Participants have reported feeling motivated, proud of themselves, closer to their communities, and energized to do more! They do this while secretly learning the design thinking process; empathizing with members of the community and prototyping meaningful solutions to their most pressing challenges!</p>
     <br/>
     <p class="normaltext">Meanwhile, secretly, they're learning design thinking: the process of empathizing and engaging with real people to discover community problems and develop meaningful solutions. It is a “human-centered” problem solving approach using compassion, critical thought, and trial and error!</p>
     <br/>
