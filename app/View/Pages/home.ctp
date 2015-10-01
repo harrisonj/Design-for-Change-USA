@@ -16,7 +16,7 @@
 <!-- Banner ends -->
 
 <section class="block_banner">
-  <b>THE JURY IS IN!!!</b>&nbsp;&nbsp;<a href="/pages/stories/results">The winner of DFC 2015 is...&nbsp;&nbsp;</a>
+  <b>THE JURY IS IN!!!</b>&nbsp;&nbsp;<a href="/pages/stories/2015results">The winner of DFC 2015 is...&nbsp;&nbsp;</a>
 </section>
 
 <!-- maincontent Starts -->
