@@ -21,7 +21,7 @@
                     <li data-navigation="whatisdfc"><a href="/pages/whatisdfc/whatwedo" class="what <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/whatisdfc') > -1) { ?>active<?php } ?>">What Is DFC</a></li>
                     <li data-navigation="howdoesitwork"><a href="/pages/howdoesitwork/fids" class="get <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/howdoesitwork') > -1) { ?>active<?php } ?>">How Does It Work</a></li>
                     <li data-navigation="getstarted"><a href="/pages/getstarted/portal" class="getstarted <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/getstarted') > -1) { ?>active<?php } ?>">Get Started</a></li>
-                    <li data-navigation="stories"><a href="/pages/stories/results" class="success <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/stories') > -1) { ?>active<?php } ?>">Success Stories</a></li>
+                    <li data-navigation="stories"><a href="/pages/stories/2015results" class="success <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/stories') > -1) { ?>active<?php } ?>">Success Stories</a></li>
                 </ul>
                 <div class="clear"></div>
             </div>

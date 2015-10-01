@@ -8,7 +8,7 @@
       <ul class="normallist">
         <li><b>Who:</b> Any group of young people (K-8) with an adult mentor e.g., teacher, parent, youth leader, coach.</li>
         <li><b>How:</b> Teams dream up and lead social change projects in their own schools/communities using DFC curriculum and training, along with the web portal and other resources.</li>
-        <li><b>What:</b> Teams are expected to fully implement, present and submit their social change project to DFC USA by the deadline: May 15, 2015.</li>
+        <li><b>What:</b> Teams are expected to fully implement, present and submit their social change project to DFC USA by the deadline: May 15, 2016.</li>
         <li><b>And Then:</b> Each team is evaluated by an expert panel of judges, and is considered for the DFC Global Conference.</li>
       </ul>
     </p>
@@ -19,7 +19,7 @@
     <br/>
     <p class="normaltext">In dozens of countries around the world, Design for Change has helped thousands of young people make positive change. They've built their skills, boosted their creativity, and discovered what they're truly capable of. And their ideas have impacted thousands of communities.</p>
     <br/>
-    <p class="normaltext">How do we do it? We help mentors working with any group of young people, from after-school clubs and extracurricular groups to classrooms and home-schoolers, provide the guidance for youth to develop and apply their strengths. It’s easy to start, and the possibilities are limitless!</p>
+    <p class="normaltext">How do we do it? We help mentors working with any group of young people, from after-school clubs and extracurricular groups to classrooms and home-schoolers, provide the guidance for young people to develop and apply their strengths. It’s easy to start, and the possibilities are limitless!</p>
   </div>
 </div>
 <div class="clear"></div>

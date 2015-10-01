@@ -263,6 +263,17 @@ nav {
       margin-bottom: 25px; }
 
 /* ---------------------------------------------------------*/
+.block_banner {
+  height: 45px;
+  background: #5BA249;
+  color: #FFF;
+  text-align: center;
+  font-size: 12pt;
+  line-height: 45px;
+  width: 100%; }
+  .block_banner a {
+    color: #fff; }
+
 .banner {
   background: #4591b0;
   width: 100%; }
@@ -1435,8 +1446,8 @@ footer {
 .imagegrid {
   width: 100%; }
   .imagegrid img {
-    width: 400px;
     margin: 10px;
+    max-height: 300px;
     float: left; }
 
 .faq .question {

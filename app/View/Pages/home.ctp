@@ -10,18 +10,14 @@
           <a class="yellow_button" href="/pages/whatisdfc/whatwedo">LEARN MORE NOW</a>
           <a style="position: absolute; right: 108px; top: 377px; padding-left: 10px; padding-right: 10px; display: none" class="button" href="/pages/getstarted/start">or, submit your project now</a>
           <div class="clear"></div>
-
-          <a href="/pages/stories/results">
-          <div class="headline_content">
-            <b>THE JURY IS IN!!!</b>
-            <img class="star" src="http://icons.iconarchive.com/icons/aha-soft/multimedia/128/favourites-star-SH-icon.png">
-            <br/><div class="subheadline"><a href="/pages/stories/results">The winner of DFC 2015 is...&nbsp;&nbsp;<img src="http://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/24/Actions-go-next-icon.png" style="margin-top: 5px"></a></div>
-          </div>
-          </a>
       </div>
   </div>
 </section>
 <!-- Banner ends -->
+
+<section class="block_banner">
+  <b>THE JURY IS IN!!!</b>&nbsp;&nbsp;<a href="/pages/stories/results">The winner of DFC 2015 is...&nbsp;&nbsp;</a>
+</section>
 
 <!-- maincontent Starts -->
 <div class="main_content">

@@ -4,16 +4,16 @@
   <div class="contents">
     <h1>2014 / 2015 Jury Selection</h1>
     <table>
-        <tr>    
-            <td width="120">
-                <a href="http://www.cityyear.org/" target="_new"><img src="/images/partners/cityyear.png" width="90" alt="logo" style="display: block"></a>
-            </td>
-            <td>
-                <p class="normaltext">The judges have selected the <b>"Winthrop School City Year Starfish Program"</b> of Dorchester, MA to represent DFC USA at the annual DFC Global Conference “Be The Change” in Monterrey, Mexico in September 2015!</p>
-                <br/>
-                <p class="normaltext">Congratulations to all teams who participated in DFC USA 2015. We hope you will continue to<br/><b>BE THE CHANGE!</b></p>
-            </td>
-        </tr>
+      <tr>    
+        <td width="120">
+          <a href="http://www.cityyear.org/" target="_new"><img src="/images/partners/cityyear.png" width="90" alt="logo" style="display: block"></a>
+        </td>
+        <td>
+          <p class="normaltext">The judges have selected the <b>"Winthrop School City Year Starfish Program"</b> of Dorchester, MA to represent DFC USA at the annual DFC Global Conference “Be The Change” in Monterrey, Mexico in September 2015!</p>
+          <br/>
+          <p class="normaltext">Congratulations to all teams who participated in DFC USA 2015. We hope you will continue to<br/><b>BE THE CHANGE!</b></p>
+        </td>
+      </tr>
     </table>
     <br/><br/>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/QbrHVZ7yJ4w" frameborder="0" allowfullscreen></iframe>
