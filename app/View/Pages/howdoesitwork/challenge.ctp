@@ -9,17 +9,17 @@
     <br/>
     <p class="normaltext">Check out pictures of the glimpses of past Be The Change Conferences! Stay tuned for details about the 2016 Be The Change Conference</p>
     <div class="imagegrid">
-      <img src="/dfcusa/app/webroot/pics/btc/btc2.jpg">
-      <img src="/dfcusa/app/webroot/pics/btc/btc3.jpg">
-      <img src="/dfcusa/app/webroot/pics/btc/btc4.jpg">
-      <img src="/dfcusa/app/webroot/pics/btc/btc5.jpg">
-      <img src="/dfcusa/app/webroot/pics/btc/btc6.jpg">
-      <img src="/dfcusa/app/webroot/pics/btc/btc7.jpg">
-      <img src="/dfcusa/app/webroot/pics/btc/btc8.jpg">
-      <img src="/dfcusa/app/webroot/pics/btc/btc9.jpg">
-      <img src="/dfcusa/app/webroot/pics/btc/btc10.jpg">
-      <img src="/dfcusa/app/webroot/pics/btc/btc11.jpg">
-      <img src="/dfcusa/app/webroot/pics/btc/btc12.jpg">
+      <img src="/dfcusa/app/webroot/pics/btc/pic-btc2.jpg">
+      <img src="/dfcusa/app/webroot/pics/btc/pic-btc3.jpg">
+      <img src="/dfcusa/app/webroot/pics/btc/pic-btc4.jpg">
+      <img src="/dfcusa/app/webroot/pics/btc/pic-btc5.jpg">
+      <img src="/dfcusa/app/webroot/pics/btc/pic-btc6.jpg">
+      <img src="/dfcusa/app/webroot/pics/btc/pic-btc7.jpg">
+      <img src="/dfcusa/app/webroot/pics/btc/pic-btc8.jpg">
+      <img src="/dfcusa/app/webroot/pics/btc/pic-btc9.jpg">
+      <img src="/dfcusa/app/webroot/pics/btc/pic-btc10.jpg">
+      <img src="/dfcusa/app/webroot/pics/btc/pic-btc11.jpg">
+      <img src="/dfcusa/app/webroot/pics/btc/pic-btc12.jpg">
       <div class="clear"></div>
     </div>
     <p class="normaltext">
