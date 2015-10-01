@@ -16,7 +16,7 @@
 		  <li><a href="http://www.ideo.com" target="_new"><img src="/images/partners/ideo.png" width="204" height="76" alt="logo"></a></li>
 		  <li><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/harvard.png" width="242" height="76" alt="logo"></a></li>
 		</ul>
-		<Br/><Br/>
+		<Br/><Br/><Br/><Br/>
 		<h1>Become a Partner</h1>
 	  	<p class="normaltext">Are you an organization, school system or charter school network committed to improving your community and empowering your young people? We want to hear from you!</p>
 	  	<p class="normaltext"><a href="/pages/whatisdfc/contactus">Click here to contact us.</a></p>
