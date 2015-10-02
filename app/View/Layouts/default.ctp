@@ -68,7 +68,6 @@
 
 </body>
 
-
 <script>
     $(function () {
       $('a.popup-youtube').YouTubePopup();
@@ -84,7 +83,6 @@
       if (properties == undefined) properties = [];
       if (location.search.split('ref=')[1] != undefined) properties.push({ref:location.search.split('ref=')[1]});
       if (location.hostname.match('designforchange.us')) mixpanel.track(eventStr, properties);
-      //if (location.hostname.match('localhost')) mixpanel.track(eventStr, properties);
     }
 </script>
 

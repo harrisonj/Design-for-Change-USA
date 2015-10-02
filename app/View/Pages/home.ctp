@@ -24,10 +24,10 @@
   <div class="block1">
       <div class="container">
           <div class="inner1_design">
-              <img src="/images/whoarewe.png" width="477" height="292" alt="img">
+              <img src="/images/whoarewe.png" width="400" height="245" alt="img">
               <div class="we_are">
                   <h2>Who we are</h2>
-                  <p>Design for Change is an international movement of young people who are changing the world!<br/><br/>We are empowering and inspiring young minds to apply their character, capacity and confidence to issues that really matter to them!<br/><br/>We work with young people of all ages both in school and outside of school.<br/><br/><br/></p>
+                  <p>DESIGN FOR CHANGE is a curriculum and technology platform that builds character, capacity and confidence by engaging young people in social change projects. <br/><br/><br/></p>
               </div>
               <div class="clear"></div>
           </div>
