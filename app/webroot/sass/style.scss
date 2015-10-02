@@ -350,14 +350,21 @@ nav {
 /* ---------------------------------------------------------*/
 
 .block_banner {
-  height: 45px;
-  background: #5BA249;
-  color: #FFF;
+  border-top: 3px solid #f1f1f1;
+  border-bottom: 3px solid #f1f1f1;
+  font-family: 'Open Sans', sans-serif;
+  height: 75px;
+  background: #E6B820;
+  color: #fff;
   text-align: center;
-  font-size: 12pt;
-  line-height: 45px;
+  font-size: 19pt;
+  padding-top: 30px;
+  line-height: 25px;
   width: 100%;
+  .small {
+  }
   a {
+    font-size: 12pt;
     color: #fff;
   }
 }

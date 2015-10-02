@@ -16,7 +16,7 @@
 <!-- Banner ends -->
 
 <section class="block_banner">
-  <b>THE JURY IS IN!!!</b>&nbsp;&nbsp;<a href="/pages/stories/2015results">The winner of DFC 2015 is...&nbsp;&nbsp;</a>
+  <b>Design for Change 2015 / 2016 is now open!<br/><a href="/pages/getstarted/portal">Check out the new Web Portal to get started today.</a></b>
 </section>
 
 <!-- maincontent Starts -->
