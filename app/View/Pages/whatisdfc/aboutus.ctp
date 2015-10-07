@@ -38,7 +38,7 @@
 			</div>
 		</div>
 
-		<div class="profileSection">
+		<div class="profileSection hide">
 			<img width="95" alt="" src="/images/team/matt.png">
 			<div class="normaltext">
 				<b>Matt Besonen - Partnerships</b><br>

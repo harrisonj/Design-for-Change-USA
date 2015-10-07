@@ -28,7 +28,7 @@
           <div class="ft_logo"><a href="#"><img src="/images/ft_logo.png" width="126" height="62" alt="logo"></a></div>
           <div class="ft_nav">
               <ul>
-                  <li><a href="/pages/getstarted/start">Submit Your Project</a></li>   
+                  <li><a href="/pages/getstarted/portal">Submit Your Project</a></li>   
                   <li><a href="/pages/whatisdfc/aboutus">About Us</a></li>
                   <li><a href="/pages/whatisdfc/volunteer">Volunteer</a></li>
                   <li><a href="/pages/whatisdfc/press">Press</a></li>
