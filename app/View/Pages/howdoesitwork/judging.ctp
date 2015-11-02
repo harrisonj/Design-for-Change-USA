@@ -24,7 +24,7 @@
 		</p>
 
 		<div>
-			<iframe src="/dfcusa/files/Design%20for%20Change%20USA%20-%20Judging%20and%20Submission.pdf" style="width: 100%; height: 500px; margin-bottom: 35px; margin-left: 14px;" frameborder="0"></iframe>
+			<iframe src="/dfcusa/files/Design%20for%20Change%20USA%20-%20Juding%20Rubric%20-%20Extended%20Version%202015.pdf" style="width: 100%; height: 500px; margin-bottom: 35px; margin-left: 14px;" frameborder="0"></iframe>
 		</div>
 	</div>
 </div>
