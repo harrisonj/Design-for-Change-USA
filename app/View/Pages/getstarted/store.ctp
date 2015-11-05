@@ -7,11 +7,11 @@
       <table>
         <tr valign="top">
           <td width="300">
-            <div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Global Story Book" data-product_handle="design-for-change-global-story-book" data-has_image="true" data-display_size="compact" data-redirect_to="checkout" data-buy_button_text="Buy now" data-button_background_color="7db461" data-button_text_color="ffffff"></div>
+            <div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Workbook Curriculum" data-product_handle="design-for-change-workbook-curriculum" data-has_image="true" data-display_size="compact" data-redirect_to="checkout" data-buy_button_text="Buy now" data-button_background_color="7db461" data-button_text_color="ffffff" data-product_modal="false"></div>
             <script type="text/javascript">
             document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
             </script>
-            <noscript><a href="https://design-for-change-usa.myshopify.com/cart/7783947333:1" target="_blank">Buy Design for Change Global Story Book</a></noscript>
+            <noscript><a href="https://design-for-change-usa.myshopify.com/cart/7968840389:1" target="_blank">Buy Design for Change Workbook Curriculum</a></noscript>
           </td>
           <td>
             <h2 class="dark">Design for Change Workbook Curriculum</h2>
@@ -29,11 +29,11 @@
         </tr>
         <tr valign="top">
           <td width="300">
-            <div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Workbook Curriculum" data-product_handle="design-for-change-workbook-curriculum" data-has_image="true" data-display_size="compact" data-redirect_to="checkout" data-buy_button_text="Buy now" data-button_background_color="7db461" data-button_text_color="ffffff" data-product_modal="false"></div>
+            <div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Global Story Book" data-product_handle="design-for-change-global-story-book" data-has_image="true" data-display_size="compact" data-redirect_to="checkout" data-buy_button_text="Buy now" data-button_background_color="7db461" data-button_text_color="ffffff"></div>
             <script type="text/javascript">
             document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
             </script>
-            <noscript><a href="https://design-for-change-usa.myshopify.com/cart/7968840389:1" target="_blank">Buy Design for Change Workbook Curriculum</a></noscript>
+            <noscript><a href="https://design-for-change-usa.myshopify.com/cart/7783947333:1" target="_blank">Buy Design for Change Global Story Book</a></noscript>
           </td>
           <td>
             <h2 class="dark">Design for Change Global Story Book</h2>

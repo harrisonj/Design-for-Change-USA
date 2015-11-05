@@ -928,6 +928,9 @@ footer {
         .inner_login ul li a.register {
           background: #5cb85c;
           border: 1px solid #5cb85c; }
+        .inner_login ul li a.faq {
+          background: #8abacd;
+          border: 1px solid #8abacd; }
         .inner_login ul li a.signin {
           background: #5bc0de;
           border: 1px solid #5bc0de; }
