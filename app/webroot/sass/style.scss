@@ -35,6 +35,9 @@ caption, th {
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
   font-weight: bold;
+  &.dark {
+    color: #666;
+  }
 }
 
 q {
@@ -1818,5 +1821,107 @@ footer {
     blockquote p {
       display: inline;
     }
+  }
+}
+
+.dialog {
+  border-radius: 5px;
+  border: 2px solid #f3f3f3;
+  position: absolute; 
+  top: 100px; 
+  left: 100px;
+  height: 300px; 
+  width: 300px; 
+  z-index: 99999999; 
+  background-color: #fff; 
+  padding: 20px;
+  .close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: #666;
+    font-size: 13pt;
+    cursor: pointer;
+  }
+}
+
+.form {
+  font-size: 12pt;
+  color: #666;
+  .form-group {
+    margin-bottom: 10px;
+    label {
+
+    }
+  }
+  h1 {
+    color: #45798e;
+    margin-bottom: 20px;
+  }
+  .pull-right {
+    float: right;
+  }
+  input {
+    width: 99%;
+    height: 25px;
+    line-height: 25px;
+    border: 1px solid #f1f1f1;
+    padding: 5px;
+  }
+  button {
+    -webkit-user-select: none;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(146, 207, 92);
+    background-image: none;
+    background-origin: padding-box;
+    background-size: auto;
+    border-bottom-color: rgb(146, 207, 92);
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0px;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+    border-left-color: rgb(146, 207, 92);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: rgb(146, 207, 92);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: rgb(146, 207, 92);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 34px;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 6px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 147.453px;
+  }
+  .line {
+    width: 100%;
+    border: 1px solid #f1f1f1;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
 }

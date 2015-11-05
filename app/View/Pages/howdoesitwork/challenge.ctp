@@ -22,32 +22,6 @@
       <img src="/dfcusa/app/webroot/pics/btc/pic-btc12.jpg">
       <div class="clear"></div>
     </div>
-    <p class="normaltext">
-      <p class="normaltext padded">
-        <i><b>What do we have to do to be eligible?</b></i><br/>
-        As the teacher/mentor, you will be required to submit your project using the Design for Change Web Portal. For more information, click here: <a href="/pages/getstarted/start">Get Started</a>.
-      </p>
-      <br/>
-      <p class="normaltext padded">
-        <i><b>How can the project be formatted?</b></i><br/>
-        We request that your submission be broken up into the four Design for Change stages: Feel, Imagine, Do, Share. Be sure to document your project at every stage, this footage/documentation will be vital when constructing your final presentation. The goal of your video is to narrate the story of your class project as you ventured through each stage e.g., highlight key events and struggles. If you have any difficulty with the submission platform, please notify us at <a href="mailto:info@designforchange.us">info@designforchange.us</a>.
-      </p>
-      <br/>
-      <p class="normaltext padded">
-        <i><b>When is the deadline? How long does it take?</b></i><br/>
-        The last day to submit your entry is May 15. The winning team will be announced on May 30. The winning team will have the opportunity to present their project the Be The Change Conference in September. 
-      </p>
-      <br/>
-      <p class="normaltext padded">
-        <i><b>How are submissions evaluated?</b></i><br/>
-        All entries will be reviewed by industry leaders including faculty from Harvard and Stanford University, based on the <a href="/dfcusa/pages/howdoesitwork/judging">judging rubric</a>.
-      </p>
-      <br/>
-      <p class="normaltext padded">
-        <i><b>How is the trip funded?</b></i><br/>
-        Design for Change USA will fundraise for the trip. We will be able to take only 5 members of the winning team, including chaperones. Travel and accommodations will be provided by DFC USA. 
-        <br/><br/>Please Note: Design for Change USA is not responsible for obtaining passports, VISA’s and vaccinations required for travel (however, we will assist in the process of preparing all the winning team’s travel documents)
-      </p>
     </p>
   </div>
 </div>

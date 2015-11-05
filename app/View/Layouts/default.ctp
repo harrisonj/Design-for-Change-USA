@@ -77,12 +77,20 @@
       currentPage = aPage[0];
       if (currentPage == '') currentPage = 'home';
       trackEvent('view page - ' + currentPage);
+
+      $('.signin').unbind('click').click(function() {
+        showLogin();
+      });
     });
 
     function trackEvent(eventStr, properties) {
       if (properties == undefined) properties = [];
       if (location.search.split('ref=')[1] != undefined) properties.push({ref:location.search.split('ref=')[1]});
       if (location.hostname.match('designforchange.us')) mixpanel.track(eventStr, properties);
+    }
+
+    function showLogin() {
+      $('#loginForm').removeClass('hide');
     }
 </script>
 
@@ -95,5 +103,30 @@
   ga('create', 'UA-66631957-1', 'auto');
   ga('send', 'pageview');
 </script>
+
+<div id="loginForm" class="hide dialog">
+  <div class="close">x</div>
+  <form class="panel-body form">
+    <h1>DFC Web Portal Login</h1>
+    <div class="form-group">
+      <label class="control-label">E-mail</label>
+      <input class="form-control" id="email">
+    </div>
+    <div class="form-group">
+      <label class="control-label">Password</label>
+      <input type="password" id="password" placeholder="Password" class="form-control">
+    </div>
+    <div class="alert alert-danger hide">
+      E-mail address or password is incorrect.
+    </div>
+    <button type="submit" class="submitLoginForm">Sign in</button>
+    <a href="javascript:void(0)" class="pull-right m-t-xs requestResetPassword"><small>Forgot password?</small></a>
+    <div class="line"></div>
+    <p class="text-muted text-center"><small>Do not have an account?</small></p>
+    <a href="#register">Create an account</a>
+  </form>
+</div>
+
+</div>
 
 </html>

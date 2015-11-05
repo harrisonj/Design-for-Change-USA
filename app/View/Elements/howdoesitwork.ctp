@@ -4,6 +4,7 @@
     <li onclick="javascript:window.location.href = '/dfcusa/pages/howdoesitwork/fids';" <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/howdoesitwork/fids') > -1) { ?>class="active"<?php } ?>><p>FIDS</p></li>
     <li onclick="javascript:window.location.href = '/dfcusa/pages/howdoesitwork/impact';" <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/howdoesitwork/impact') > -1) { ?>class="active"<?php } ?>><p>Our Impact</p></li>
     <li onclick="javascript:window.location.href = '/dfcusa/pages/howdoesitwork/challenge';" <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/howdoesitwork/challenge') > -1) { ?>class="active"<?php } ?>><p>The Challenge</p></li>
+    <li onclick="javascript:window.location.href = '/dfcusa/pages/howdoesitwork/faq';" <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/howdoesitwork/faq') > -1) { ?>class="active"<?php } ?>><p>Frequently Asked Questions</p></li>
     <li class="hide" onclick="javascript:window.location.href = '/dfcusa/pages/howdoesitwork/judging';" <?php if (strpos($_SERVER['REQUEST_URI'], '/pages/howdoesitwork/judging') > -1) { ?>class="active"<?php } ?>><p>Judging</p></li>
   </ul>
   <div class="clear"></div>
