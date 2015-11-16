@@ -29,11 +29,11 @@
           <div class="ft_nav">
               <ul>
                   <li><a href="/pages/getstarted/portal">Submit Your Project</a></li>   
-                  <li><a href="/pages/whatisdfc/aboutus">About Us</a></li>
-                  <li><a href="/pages/whatisdfc/volunteer">Volunteer</a></li>
-                  <li><a href="/pages/whatisdfc/press">Press</a></li>
-                  <li><a href="/pages/whatisdfc/partners">Partners</a></li>
-                  <li><a href="/pages/whatisdfc/contactus">Contact Us</a></li>
+                  <li><a href="/pages/about/aboutus">About Us</a></li>
+                  <li><a href="/pages/about/volunteer">Volunteer</a></li>
+                  <li><a href="/pages/about/press">Press</a></li>
+                  <li><a href="/pages/about/partners">Partners</a></li>
+                  <li><a href="/pages/about/contactus">Contact Us</a></li>
                   <li class="br"><a href="http://www.dfcworld.com" target="_new">DFC World</a></li>
               </ul>
               <div class="clear"></div>
@@ -43,3 +43,5 @@
       </div>
   </div>
 </footer>
+
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us2.list-manage.com","uuid":"233ebb0aa3989a447582c85a1","lid":"09c50447b7"}) })</script>

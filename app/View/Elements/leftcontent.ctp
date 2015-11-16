@@ -5,7 +5,7 @@
         <div class="imgLink">
             <div class="shapeImg"><img class="ourImg" src="/dfcusa/images/left_imgI.jpg" width="113" height="113" alt="our_mission" /></div>
         </div>
-        <p>DESIGN FOR CHANGE is the largest global movement that gives children the opportunity to express their own ideas for a better world and put them into action. <a href="/whatisdfc">Read more...</a></p>
+        <p>DESIGN FOR CHANGE is the largest global movement that gives children the opportunity to express their own ideas for a better world and put them into action. <a href="/about">Read more...</a></p>
 	</div>
     <div class="ourGoals">
     	<h2><strong>How</strong> It Works</h2>

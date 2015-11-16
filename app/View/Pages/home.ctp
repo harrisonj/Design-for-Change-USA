@@ -7,7 +7,7 @@
           <p class="hide">This year’s challenge ends on May 15, 2015</p>
           <div class="clear"></div>
           <br/><br/>
-          <a class="yellow_button" href="/pages/whatisdfc/whatwedo">LEARN MORE NOW</a>
+          <a class="yellow_button" href="/pages/about/whatwedo">LEARN MORE NOW</a>
           <a style="position: absolute; right: 108px; top: 377px; padding-left: 10px; padding-right: 10px; display: none" class="button" href="/pages/getstarted/start">or, submit your project now</a>
           <div class="clear"></div>
       </div>
@@ -212,7 +212,7 @@
                   <li class="last"><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/harvard.png" width="242" height="76" alt="logo"></a></li>
               </ul>
               <h3 class="inner_change" style="padding-bottom: 10px">
-                Are you interested in partnerning with Design for Change USA or starting your own DFC Chapter in your commmunity? <a href="/dfcusa/pages/whatisdfc/partners">Learn How.</a>
+                Are you interested in partnerning with Design for Change USA or starting your own DFC Chapter in your commmunity? <a href="/dfcusa/pages/about/partners">Learn How.</a>
               </h3>
               <div class="clear"></div>
           </div>
