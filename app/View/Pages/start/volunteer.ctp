@@ -1,4 +1,4 @@
-<?php echo $this->element('about'); ?>
+<?php echo $this->element('start'); ?>
 
 <div class="insidepage">	
 	<div class="contents">

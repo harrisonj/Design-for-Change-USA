@@ -1,8 +1,8 @@
-<?php echo $this->element('about'); ?>
+<?php echo $this->element('who'); ?>
 
 <div class="insidepage">
 	<div class="contents">
-		<h1>Our Partners</h1>
+		<h1>Press</h1>
 		<p class="pagetitle">For Press:</p>
 		<div class="normaltext">
 			Are you interested in covering a Design for Change project/story? Download the following Media Partnership Proposal for more information:

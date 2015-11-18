@@ -250,6 +250,13 @@ nav {
         background-color: #45798e; }
         .leftnav ul li.active p {
           color: #fff; }
+      .leftnav ul li.subnav {
+        margin-left: 35px;
+        font-size: 12pt;
+        line-height: 25px;
+        height: 25px; }
+        .leftnav ul li.subnav p {
+          margin-right: 15px; }
 
 .insidepage {
   float: left;
@@ -270,7 +277,7 @@ nav {
   border-bottom: 3px solid #f1f1f1;
   font-family: 'Open Sans', sans-serif;
   height: 75px;
-  background: #E6B820;
+  background: #dc4276;
   color: #fff;
   text-align: center;
   font-size: 19pt;
@@ -379,7 +386,7 @@ nav {
 
 .block1 {
   width: 100%;
-  background: #dc4276; }
+  background: #16769c; }
 
 .design {
   display: block;
@@ -914,6 +921,8 @@ footer {
       display: inline-block;
       width: 121px;
       margin: 0 19px 0 0; }
+      .inner_login ul li.last {
+        width: 180px; }
       .inner_login ul li a {
         display: block;
         background: #ebc626;
@@ -927,7 +936,8 @@ footer {
         position: relative; }
         .inner_login ul li a.register {
           background: #5cb85c;
-          border: 1px solid #5cb85c; }
+          border: 1px solid #5cb85c;
+          width: 180px; }
         .inner_login ul li a.faq {
           background: #8abacd;
           border: 1px solid #8abacd; }
@@ -968,15 +978,13 @@ footer {
         .inner_navigation ul li a.home {
           width: 120px; }
         .inner_navigation ul li a.what {
-          width: 147px; }
-        .inner_navigation ul li a.get {
-          width: 204px; }
-        .inner_navigation ul li a.resources {
           width: 150px; }
-        .inner_navigation ul li a.getstarted {
+        .inner_navigation ul li a.who {
           width: 150px; }
-        .inner_navigation ul li a.success {
-          width: 180px; }
+        .inner_navigation ul li a.start {
+          width: 150px; }
+        .inner_navigation ul li a.stories {
+          width: 190px; }
         .inner_navigation ul li a:hover, .inner_navigation ul li a.active {
           background: #45798e; }
 

@@ -330,6 +330,15 @@ nav {
           color: #fff;
         }
       }
+      &.subnav {
+        margin-left: 35px;
+        font-size: 12pt; 
+        line-height: 25px; 
+        height: 25px;
+        p {
+          margin-right: 15px;
+        }
+      }
     }
   }
 }
@@ -357,7 +366,7 @@ nav {
   border-bottom: 3px solid #f1f1f1;
   font-family: 'Open Sans', sans-serif;
   height: 75px;
-  background: #E6B820;
+  background: #dc4276;
   color: #fff;
   text-align: center;
   font-size: 19pt;
@@ -484,7 +493,7 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
 
 .block1 {
   width: 100%;
-  background: #dc4276;
+  background: #16769c;
 }
 
 .design {
@@ -1113,6 +1122,9 @@ footer {
       display: inline-block;
       width: 121px;
       margin: 0 19px 0 0;
+      &.last {
+        width: 180px;
+      }
       a {
         display: block;
         background: #ebc626;
@@ -1127,6 +1139,7 @@ footer {
         &.register {
           background: #5cb85c;
           border: 1px solid #5cb85c;
+          width: 180px;
         }
         &.faq {
           background: #8abacd;
@@ -1179,19 +1192,16 @@ footer {
           width: 120px;
         }
         &.what {
-          width: 147px;
-        }
-        &.get {
-          width: 204px;
-        }
-        &.resources {
           width: 150px;
         }
-        &.getstarted {
+        &.who {
           width: 150px;
         }
-        &.success {
-          width: 180px;
+        &.start {
+          width: 150px;
+        }
+        &.stories {
+          width: 190px;
         }
         span! {}
         &:hover, &.active {

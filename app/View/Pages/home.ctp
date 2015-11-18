@@ -1,13 +1,12 @@
 <section class="inner_banner">
   <div class="container">
       <div class="inner_young">
-          <h2>YOUNG PEOPLE <span>CAN SOLVE</span> BIG PROBLEMS<span>.</span></h2>
+          <h2>HELP YOUNG PEOPLE <BR/><span>LEARN</span> 21st CENTURY SKILLS<span>.</span></h2>
           <h2><span>THEY HAVE THE</span> POTENTIAL<span>.</span></h2>
           <h2>HELP THEM <span>SHOW IT.</span></h2>
-          <p class="hide">This year’s challenge ends on May 15, 2015</p>
           <div class="clear"></div>
           <br/><br/>
-          <a class="yellow_button" href="/pages/about/whatwedo">LEARN MORE NOW</a>
+          <a class="yellow_button" href="/pages/what/whatwedo">LEARN MORE NOW</a>
           <a style="position: absolute; right: 108px; top: 377px; padding-left: 10px; padding-right: 10px; display: none" class="button" href="/pages/getstarted/start">or, submit your project now</a>
           <div class="clear"></div>
       </div>
@@ -15,9 +14,44 @@
 </section>
 <!-- Banner ends -->
 
-<section class="block_banner">
-  <b>Design for Change 2015 / 2016 is now open!<br/><a href="/pages/getstarted/portal">Check out the new Web Portal to get started today.</a></b>
-</section>
+  <section class="block_banner">
+    <b>Design for Change 2015 / 2016 is now open!<br/><a href="/pages/getstarted/portal">Check out the new Web Portal to get started today.</a></b>
+  </section>
+
+<section class="block3">
+      <div class="container">
+          <h2 class="inner_change">Design for Change is a simple framework: </h2>
+      </div>
+      <div class="block3_bot">
+          <div class="container">
+              <div class="feel">
+                  <ul>
+                      <li>
+                          <h3>FEEL</h3>
+                          <img src="/images/pic_feel.png" width="176" height="176" alt="img">
+                          <p>A team of young people engages their community and chooses a problem that's meaningful to them. </p>
+                      </li>
+                      <li>
+                          <h3>imagine</h3>
+                          <img src="/images/pic_imagine.png" width="176" height="176" alt="img">
+                          <p>Together, young people imagine a solution that just might work.</p>
+                      </li>
+                      <li>
+                          <h3>do</h3>
+                          <img src="/images/pic_do.png" width="175" height="176" alt="img">
+                          <p>Working together, young people bring that solution to life.</p>
+                      </li>
+                      <li>
+                          <h3>Share</h3>
+                          <img src="/images/pic_share.png" width="176" height="176" alt="img">
+                          <p>Young people share and inspire others through a viral video, and present their project to the community!</p>
+                      </li>
+                  </ul>
+                  <div class="clear"></div>
+              </div>
+          </div>
+      </div>
+  </section>
 
 <!-- maincontent Starts -->
 <div class="main_content">
@@ -70,64 +104,6 @@
       </div>  
   </section>
 
-  <section class="block3">
-      <div class="container">
-          <h2 class="inner_change">Design for Change is a simple framework: </h2>
-      </div>
-      <div class="block3_bot">
-          <div class="container">
-              <div class="feel">
-                  <ul>
-                      <li>
-                          <h3>FEEL</h3>
-                          <img src="/images/pic_feel.png" width="176" height="176" alt="img">
-                          <p>A team of young people engages their community and chooses a problem that's meaningful to them. </p>
-                      </li>
-                      <li>
-                          <h3>imagine</h3>
-                          <img src="/images/pic_imagine.png" width="176" height="176" alt="img">
-                          <p>Together, young people imagine a solution that just might work.</p>
-                      </li>
-                      <li>
-                          <h3>do</h3>
-                          <img src="/images/pic_do.png" width="175" height="176" alt="img">
-                          <p>Working together, young people bring that solution to life.</p>
-                      </li>
-                      <li>
-                          <h3>Share</h3>
-                          <img src="/images/pic_share.png" width="176" height="176" alt="img">
-                          <p>Young people share and inspire others through a viral video, and present their project to the community!</p>
-                      </li>
-                  </ul>
-                  <div class="clear"></div>
-              </div>
-          </div>
-      </div>
-  </section>
-
-  <div class="block4 hide">
-      <div class="container">
-          <div class="inner_design_change">
-              <h2>Why Design for Change?</h2>
-              <p>Because our young people need relevant, meaningful, real-life experiences to grow and apply their strengths.
-              Because our communities need the unique insight and creative confidence of young people to help solve our biggest challenges.</p>
-          </div>
-          <div class="clear"></div>
-          <div class="inner_q_tag"><img src="/images/whydfc.png" width="346" height="431" alt="img"></div>
-      </div>
-  </div>
-
-  <section class="block5 hide">
-      <div class="container">
-          <div class="inner_settings"><img src="/images/howdoesitwork.png" width="271" height="302" alt="img"></div>
-          <div class="inner_work">
-              <h2>How does it Work?</h2>
-              <p>In dozens of countries around the world, Design for Change has helped thousands of young people make positive change. They've built their skills, boosted their creativity, and discovered what they're truly capable of. And their ideas have impacted thousands of communities.</p>
-          </div>
-          <div class="clear"></div>
-      </div>
-  </section>
-
   <section class="block5">
       <div class="container">
           <div class="inner_settings"><img src="/images/howdoesitwork.png" width="271" height="302" alt="img"></div>
@@ -140,56 +116,6 @@
               </p>
           </div>
           <div class="clear"></div>
-      </div>
-  </section>
-
-  <section class="block6 hide">
-      <div class="container">
-          <div class="inner_how_do">
-              <h2>How do we do it??</h2>
-              <p>We help mentors working with any group of young people, from after-school clubs and extracurricular groups to classrooms and home-schoolers, provide the guidance for young people to develop and apply their<br> strengths. </p>
-              <p>It's easy to start, and the possibilities are limitles</p>
-              <a href="#">GET STARTED</a>
-          </div>
-          <div class="clear"></div>
-          <div class="inner_blk6_img"><img src="/images/howdowedoit.png" width="577" height="475" alt="img"></div>
-      </div>
-  </section>
-
-  <section class="block7 hide">
-      <div class="container">
-          <div class="inner_impact">
-              <h2>What’s the impact?</h2>
-              <p>When young people take ownership of their own ideas,<br> and help bring them to life, the results can be<br> astounding. Participants have reported feeling<br> motivated, proud of themselves, closer to to their<br> communities, and energized to do more. </p>
-<!--               <p>Meanwhile, secretly, they're learning design thinking:<br> the process of empathizing and engaging with real<br> people to discover community problems and develop<br> meaningful solutions. It is a “human-centered” problem<br> solving approach using compassion, critical thought, and<br> trial and error!</p>
-              <p>So yes, it's a challenge--but it doesn't feel like school or<br> work. Design for Change lives outside those institutions,<br> aiming instead to create a more personal and relevant<br> experience for young people. By encouraging youth to<br> solve the problems that mean the most to them, Design<br> for Change challenges youth to apply their strengths<br> and see the impact they can have on the world. </p>
- -->          </div>
-          <div class="clear"></div>
-          <div class="woman hide"><img src="/images/impact.png" width="381" height="630" alt="img"></div>
-      </div>
-  </section>
-
-  <section class="block10 hide">
-      <div class="container">
-          <div class="who_are_you">
-              <h2>So who are you?</h2>
-              <p>We're an organization based in Cambridge, Mass. - the U.S. partner of the worldwide Design for Change network. Our mission is to provide opportunities for youth by empowering their mentors through curriculum resources, training, and guidance. Most of our materials are free; some services have a small cost to help us sustain our operations.</p>
-              <ul>
-                  <li>
-                      <img src="/images/img-6.png" width="220" height="217" alt="img">
-                      <h3>Vinay Gidwaney</h3>
-                  </li>
-                  <li>
-                      <img src="/images/img-7.png" width="218" height="220" alt="img">
-                      <h3>Sanjli Gidwaney</h3>
-                  </li>
-                  <li class="last">
-                      <img src="/images/img-8.png" width="219" height="218" alt="img">
-                      <h3>Jane Doe</h3>
-                  </li>
-              </ul>
-              <div class="clear"></div>
-          </div>
       </div>
   </section>
 
@@ -211,7 +137,7 @@
                   <li><a href="http://www.ideo.com" target="_new"><img src="/images/partners/ideo.png" width="204" height="76" alt="logo"></a></li>
                   <li class="last"><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/harvard.png" width="242" height="76" alt="logo"></a></li>
               </ul>
-              <h3 class="inner_change" style="padding-bottom: 10px">
+              <h3 class="inner_change" style="padding-bottom: 10px; display: none">
                 Are you interested in partnerning with Design for Change USA or starting your own DFC Chapter in your commmunity? <a href="/dfcusa/pages/about/partners">Learn How.</a>
               </h3>
               <div class="clear"></div>

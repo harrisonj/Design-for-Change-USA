@@ -28,12 +28,11 @@
           <div class="ft_logo"><a href="#"><img src="/images/ft_logo.png" width="126" height="62" alt="logo"></a></div>
           <div class="ft_nav">
               <ul>
-                  <li><a href="/pages/getstarted/portal">Submit Your Project</a></li>   
-                  <li><a href="/pages/about/aboutus">About Us</a></li>
-                  <li><a href="/pages/about/volunteer">Volunteer</a></li>
-                  <li><a href="/pages/about/press">Press</a></li>
-                  <li><a href="/pages/about/partners">Partners</a></li>
-                  <li><a href="/pages/about/contactus">Contact Us</a></li>
+                  <li><a href="/pages/start/portal">Submit Your Project</a></li>   
+                  <li><a href="/pages/who/aboutus">About Us</a></li>
+                  <li><a href="/pages/start/volunteer">Volunteer</a></li>
+                  <li><a href="/pages/who/press">Press</a></li>
+                  <li><a href="/pages/who/contactus">Contact Us</a></li>
                   <li class="br"><a href="http://www.dfcworld.com" target="_new">DFC World</a></li>
               </ul>
               <div class="clear"></div>
