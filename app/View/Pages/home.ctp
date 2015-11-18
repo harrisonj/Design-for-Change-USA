@@ -2,12 +2,12 @@
   <div class="container">
       <div class="inner_young">
           <h2>HELP YOUNG PEOPLE <BR/><span>LEARN</span> 21st CENTURY SKILLS<span>.</span></h2>
-          <h2><span>THEY HAVE THE</span> POTENTIAL<span>.</span></h2>
-          <h2>HELP THEM <span>SHOW IT.</span></h2>
+          <br/>
+          <h2><span>EMPATHY, </span>CREATIVITY<span></span></h2>
+          <h2>INITIATIVE, <span>RESILIENCE</span> AND MORE.</h2>
           <div class="clear"></div>
           <br/><br/>
-          <a class="yellow_button" href="/pages/what/whatwedo">LEARN MORE NOW</a>
-          <a style="position: absolute; right: 108px; top: 377px; padding-left: 10px; padding-right: 10px; display: none" class="button" href="/pages/getstarted/start">or, submit your project now</a>
+          <a class="yellow_button" href="/pages/what/whatwedo">GET STARTED</a>
           <div class="clear"></div>
       </div>
   </div>
@@ -15,7 +15,7 @@
 <!-- Banner ends -->
 
   <section class="block_banner">
-    <b>Design for Change 2015 / 2016 is now open!<br/><a href="/pages/getstarted/portal">Check out the new Web Portal to get started today.</a></b>
+    <b>The Design for Change 2015 / 2016 Challenge is now open!<br/><div class="small"><a href="/pages/start/portal">Start your project today with our free, easy to use web platform.</a></div></b>
   </section>
 
 <section class="block3">
