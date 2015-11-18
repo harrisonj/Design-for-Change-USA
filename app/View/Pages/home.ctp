@@ -29,22 +29,22 @@
                       <li>
                           <h3>FEEL</h3>
                           <img src="/images/pic_feel.png" width="176" height="176" alt="img">
-                          <p>A team of young people engages their community and chooses a problem that's meaningful to them. </p>
+                          <p>A team of young people engages their community and chooses a problem that's meaningful to them.</p>
                       </li>
                       <li>
                           <h3>imagine</h3>
                           <img src="/images/pic_imagine.png" width="176" height="176" alt="img">
-                          <p>Together, young people imagine a solution that just might work.</p>
+                          <p>By brainstorming and working together, they imagine a solution that just might work.</p>
                       </li>
                       <li>
                           <h3>do</h3>
                           <img src="/images/pic_do.png" width="175" height="176" alt="img">
-                          <p>Working together, young people bring that solution to life.</p>
+                          <p>Through planning and action, they bring<br/>that solution to life and cause change.</p>
                       </li>
                       <li>
                           <h3>Share</h3>
                           <img src="/images/pic_share.png" width="176" height="176" alt="img">
-                          <p>Young people share and inspire others through a viral video, and present their project to the community!</p>
+                          <p>With a viral video, they share and inspire others in their community and worldwide!</p>
                       </li>
                   </ul>
                   <div class="clear"></div>
@@ -106,12 +106,12 @@
 
   <section class="block5">
       <div class="container">
-          <div class="inner_settings"><img src="/images/howdoesitwork.png" width="271" height="302" alt="img"></div>
+          <div class="inner_settings"><img src="/images/howdoesitwork.png" width="200" alt="img"></div>
           <div class="inner_work">
               <h2>Impact</h2>
               <p>
                 By working along side our partner organizations including <b>City Year, Ashoka Youth Venture, Citizen Schools, United Nations International School, and Teach for America</b>, Design for Change continues to empower young people across the USA.
-                <br/><br/>We are active in States such as Illinois, Massachusetts, New York, Michigan, South Dakota, Texas, Florida, California, New Hampshire, New Orleans, Nebraska, Virginia and Tennessee.
+<!--                 <br/><br/>We are active in States such as Illinois, Massachusetts, New York, Michigan, South Dakota, Texas, Florida, California, New Hampshire, New Orleans, Nebraska, Virginia and Tennessee. -->
                 <br/><br/>Young people are using Design for Change to address issues such as these in their community: poverty, homelessness, hunger, environment, gangs/violence, drugs, obesity, drop out rates, empathy, stereotypes and bullying.
               </p>
           </div>
