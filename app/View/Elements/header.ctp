@@ -5,8 +5,7 @@
                 <ul>
                     <li><a href="/pages/who/contactus">Contact Us</a></li>
                     <li><a href="/pages/what/faq" class="signin">FAQ</a></li>
-                    <li><a href="/pages/start/portal" class="signin">Register</a></li>
-                    <li class="last"><a href="/pages/start/challenge" class="register">Join the Challenge</a></li>
+                    <li class="last"><a href="/pages/start/challenge" class="register">About Challenge</a></li>
                 </ul>
                 <div class="clear"></div>   
             </div>

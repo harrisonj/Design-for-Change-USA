@@ -1,10 +1,10 @@
 <section class="inner_banner">
   <div class="container">
       <div class="inner_young">
-          <h2>HELP YOUNG PEOPLE <BR/><span>LEARN</span> 21st CENTURY SKILLS<span>.</span></h2>
+          <h2>HELP YOUNG PEOPLE <BR/><span>LEARN</span> 21st CENTURY SKILLS</h2>
           <br/>
-          <h2><span>EMPATHY, </span>CREATIVITY<span></span></h2>
-          <h2>INITIATIVE, <span>RESILIENCE</span> AND MORE.</h2>
+          <h2><span>AND BUILD, </span>THEIR CHARACTER<span></span></h2>
+          <h2><span>CAPACITY,</span> AND CONFIDENCE.</h2>
           <div class="clear"></div>
           <br/><br/>
           <a class="yellow_button" href="/pages/what/whatwedo">GET STARTED</a>
@@ -128,7 +128,7 @@
                   <li><a href="https://www.youthventure.org/" target="_new"><img src="/images/partners/youthventures.png" width="181" height="95" alt="logo"></a></li>
                   <li><a href="http://www.rockefellerfoundation.org/" target="_new"><img src="/images/partners/rockefeller.png" width="204" height="95" alt="logo"></a></li>
                   <li><a href="http://www.cityyear.org/" target="_new"><img src="/images/partners/cityyear.png" width="90" alt="logo"></a></li>
-                  <li class="last"><img src="/images/partners/colabs.png" width="80" height="95" alt="logo"></li>                                
+                  <li style="padding-top: 15px; padding-left: 25px"><a href="http://www.unis.org/" target="_new"><img src="/images/partners/unis.png" width="100" height="50" alt="logo"></a></li>
               </ul>
               <div class="clear"></div>
               <ul>

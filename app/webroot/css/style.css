@@ -798,7 +798,7 @@ nav {
     .partners ul li {
       float: left;
       display: inline-block;
-      margin: 0 50px 0 0; }
+      margin: 0 25px 0 0; }
       .partners ul li a {
         display: block; }
 
@@ -1411,8 +1411,9 @@ footer {
   color: #3366cc; }
 
 .partnersList {
-  height: 250px; }
+  height: 330px; }
   .partnersList li {
+    height: 100px;
     float: left;
     margin: 5px; }
 

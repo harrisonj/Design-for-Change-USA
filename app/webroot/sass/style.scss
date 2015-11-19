@@ -970,7 +970,7 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
     li {
       float: left;
       display: inline-block;
-      margin: 0 50px 0 0;
+      margin: 0 25px 0 0;
       a {
         display: block;
       }
@@ -1708,8 +1708,9 @@ footer {
 }
 
 .partnersList {
-  height: 250px;
+  height: 330px;
   li {
+    height: 100px;
     float: left;
     margin: 5px;
   }
