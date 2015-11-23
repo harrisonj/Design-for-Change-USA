@@ -83,7 +83,7 @@
     });
 
     function trackEvent(eventStr, properties) {
-      <?php if (strpos(gethostname(), 'local') === false) { ?>
+      <?php echo gethostname(); if (strpos(gethostname(), 'local') === false) { ?>
         if (properties == undefined) properties = [];
         if (location.search.split('ref=')[1] != undefined) properties.push({ref:location.search.split('ref=')[1]});
         if (location.hostname.match('designforchange.us')) mixpanel.track(eventStr, properties);
