@@ -21,6 +21,7 @@
     <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery.cycle.js"></script>
     <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery.youtubepopup.js"></script>
     <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery.carousel.min.js"></script>
+    <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery.type.min.js"></script>
 
     <!-- END: SCRIPTS -->
 
@@ -80,6 +81,20 @@
       currentPage = aPage[0];
       if (currentPage == '') currentPage = 'home';
       trackEvent('view page - ' + currentPage);
+
+      setInterval(function() {
+        $('.switch').html('').typetype('8 YEAR OLDS CLEAN UP THEIR COMMUNITY...', {e: 0,  t: 50,
+          callback: function (){
+            setTimeout(function() {
+              $('.switch').html('').typetype('TEENAGERS REDUCE DROPOUT RATES...', {e: 0,  t: 50,
+                callback: function (){
+                  setTimeout(function() {
+                    $('.switch').html('').typetype('10 YEAR OLDS SHUT DOWN DRUG HOUSES...', {e: 0,  t: 50});
+                  }, 3000);
+                }});
+            }, 3000);
+          }});
+      }, 14000);
     });
 
     function trackEvent(eventStr, properties) {

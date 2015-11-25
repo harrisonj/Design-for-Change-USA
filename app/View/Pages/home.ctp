@@ -1,13 +1,11 @@
 <section class="inner_banner">
   <div class="container">
       <div class="inner_young">
-          <h2>HELP YOUNG PEOPLE <BR/><span>LEARN</span> 21st CENTURY SKILLS</h2>
+          <h2>DESIGN FOR CHANGE HELPED<BR/><span class="switch">10 YEAR OLDS SHUT DOWN DRUG HOUSES...</span></h2>
           <br/>
-          <h2><span>AND BUILD, </span>THEIR CHARACTER<span></span></h2>
-          <h2><span>CAPACITY,</span> AND CONFIDENCE.</h2>
           <div class="clear"></div>
           <br/><br/>
-          <a class="yellow_button" href="/pages/what/whatwedo">GET STARTED</a>
+          <a class="yellow_button" href="/pages/what/whatwedo">LEARN HOW</a>
           <div class="clear"></div>
       </div>
   </div>
