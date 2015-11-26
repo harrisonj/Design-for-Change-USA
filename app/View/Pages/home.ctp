@@ -1,8 +1,9 @@
 <section class="inner_banner">
   <div class="container">
       <div class="inner_young">
-          <h2>DESIGN FOR CHANGE HELPED<BR/><span class="switch">10 YEAR OLDS SHUT DOWN DRUG HOUSES...</span></h2>
+          <h2>EMPOWER YOUNG PEOPLE TO<BR/><span>LEARN 21st CENTURY SKILLS,</span>
           <br/>
+          BUILD CHARACTER<br/><span>AND DO GOOD.</span></h2>
           <div class="clear"></div>
           <br/><br/>
           <a class="yellow_button" href="/pages/what/whatwedo">LEARN HOW</a>
