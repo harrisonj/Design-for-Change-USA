@@ -6,7 +6,7 @@
                     <li><a href="/pages/who/contactus">Contact Us</a></li>
                     <li><a href="/pages/what/faq" class="signin">FAQ</a></li>
                     <li><a href="http://portal.designforchange.us" class="signin">Login</a></li>
-                    <li class="last"><a href="/pages/start/challenge" class="register">About Challenge</a></li>
+                    <li class="last"><a href="/pages/start/challenge" class="register" style="width: 200px">About The Challenge</a></li>
                 </ul>
                 <div class="clear"></div>   
             </div>
