@@ -14,9 +14,7 @@
 			<div class="normaltext">
 				<b>Sanjli Gidwaney - Director</b><br>
 				<a href="mailto:sanjli@designforchange.us">sanjli@designforchange.us</a><br>
-				Sanjli recently graduated from the Harvard Graduate School of Education, with a focus on curriculum design and non-profit management. 
-				<br/>
-				Sanjli manages a national team of designers, educators and technologists and has forged partnerships with notable organizations such as Teach for America and Strong Women Strong Girls and Ashoka, Harvard’s Good Work Team and Stanford Design School. She has also collaborated with research groups at MIT’s Media Lab, industrial design firms and various NGOs to develop and conduct several hands on creativity workshops for children around the world including India, Kenya and the Dominican Republic. She believes in a pedagogy embedded in experiential learning and cross-curricular approaches. 
+				Sanjli recently graduated from the Harvard Graduate School of Education, with a focus on curriculum design and non-profit management. Sanjli manages a national team of designers, educators and technologists and has forged partnerships with notable organizations such as Teach for America and Strong Women Strong Girls and Ashoka, Harvard’s Good Work Team and Stanford Design School. She has also collaborated with research groups at MIT’s Media Lab, industrial design firms and various NGOs to develop and conduct several hands on creativity workshops for children around the world including India, Kenya and the Dominican Republic. She believes in a pedagogy embedded in experiential learning and cross-curricular approaches. 
 			</div>
 		</div>
 
