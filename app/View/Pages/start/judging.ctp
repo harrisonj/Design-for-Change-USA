@@ -5,7 +5,9 @@
 		<h1>Judging Criteria</h1>
 
 		<p class="normaltext">
-			All	entries	will	be	judged	by	industry	leaders	including	faculty	from	Harvard	and	Stanford	University.	Each	entry	will	be assigned	a	point	value	out	of 20	and	will	be	evaluated	based	on	the	following	5	categories:
+			All	entries	will be judged by industry leaders including	faculty	from	Harvard	and	Stanford	University.	Each	entry	will	be evaluated using the rubric below.
+			<br/><br/>
+			Additionally, submitted projects will be evaluated based on their: 
 			<ul class="normallist">
 				<li>
 					Potential to be replicated EASILY.
