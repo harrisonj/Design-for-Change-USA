@@ -3,7 +3,7 @@
 <div class="insidepage">
   <div class="contents">
     <h1>The Challenge</h1>
-    <p class="normaltext">Every year, teams from across the USA work through the Design for Change: Feel, Imagine, Do, Share framework and come up with social impact projects that bring positive changes to their school and community. These projects are then submitted to Design for Change USA in video format. Please visit the FAQ section for submission guidelines.</a></p>
+    <p class="normaltext">Every year, teams from across the USA work through the Design for Change: Feel, Imagine, Do, Share framework and come up with social impact projects that bring positive changes to their school and community. These projects are then submitted to Design for Change USA in video format. Please visit the <a href="/dfcusa/pages/what/faq">FAQ</a> section for submission guidelines.</a></p>
     <br/>
     <p class="normaltext">Projects are evaluated by a panel of industry experts and a winning team is chosen (see criteria) to represent Design for Change USA, at the annual DFC Global Conference, Be The Change. To learn more, visit <a href="http://btc.dfcworld.com">btc.dfcworld.com</a>.</p>
     <br/>
