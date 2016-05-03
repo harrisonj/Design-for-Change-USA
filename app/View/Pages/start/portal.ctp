@@ -12,7 +12,7 @@
         </ul>
     </p>
     <br/><br/>
-    <p class="normaltext"><a href="http://portal.designforchange.us/dfcusa-pm/pages/login#register"><button class="green_button register">Register now</button></a>
+    <p class="normaltext"><a href="http://portal.designforchange.us/"><button class="green_button register">Register now</button></a>
     and submit your project...</p>
   </div>
 </div>
