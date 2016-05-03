@@ -14,7 +14,8 @@
 <!-- Banner ends -->
 
   <section class="block_banner">
-    <b>The Design for Change 2015 / 2016 Challenge is now open!<br/><div class="small"><a href="/pages/start/portal">Start your project today with our free, easy to use web platform.</a></div></b>
+    <b>
+      <a href="/pages/start/portal" style="font-size: 19pt">Submissions for the 2015 / 2016 Challenge are due May 15th!</a><br/><div class="small"><a href="/pages/start/portal">Submit your project today.</a></div></b>
   </section>
 
 <section class="block3">
