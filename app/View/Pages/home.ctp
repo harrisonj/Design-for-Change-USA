@@ -13,9 +13,9 @@
 </section>
 <!-- Banner ends -->
 
-  <section class="block_banner">
+  <section class="block_banner" style="height: 100px">
     <b>
-      <a href="/dfcusa/pages/stories/2016results" style="font-size: 19pt">Announcing the winner of DFC USA 2016!</a><br/><div class="small"><a href="/dfcusa/pages/stories/2016results" style="font-size: 13pt"><b>"Supporting Refugees in Our Community"</b> by The Exploris School in Raleigh, North Carolina.</a></div></b>
+      <a href="/dfcusa/pages/stories/2016results" style="font-size: 19pt">Announcing the winner of DFC USA 2016!</a><br/><div class="small"><a href="/dfcusa/pages/stories/2016results" style="font-size: 14pt"><b>"Supporting Refugees in Our Community"</b> by The Exploris School in Raleigh, North Carolina.<Br/><i style="font-size: 10pt">Click to see their video...</i></a></div></b>
   </section>
 
 <section class="block3">
