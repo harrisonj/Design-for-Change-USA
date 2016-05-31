@@ -9,9 +9,9 @@
           <a href="http://www.exploris.org/" target="_new"><img src="/images/partners/exploris_finallogo.png" width="120" alt="logo" style="display: block"></a>
         </td>
         <td>
-          <p class="normaltext">The judges have selected the <b>"Supporting Refugees in Our Community"</b> by students of the <a href="http://www.exploris.org/" target="_new">Exploris School</a> in Raleigh, NC to represent DFC USA at the annual DFC Global Conference “Be The Change” in Beijing, China in December 2016!</p>
+          <p class="normaltext">The judges have selected the <b>"Supporting Refugees in Our Community"</b> project by students from the <a href="http://www.exploris.org/" target="_new">Exploris School</a> in Raleigh, NC to represent DFC USA at the annual DFC Global Conference “Be The Change” in Beijing, China in December 2016!</p>
           <br/>
-          <p class="normaltext">Congratulations to all teams who participated in DFC USA 2016. We hope you will continue to<br/><b>BE THE CHANGE!</b></p>
+          <p class="normaltext">Congratulations to all teams who participated in DFC USA 2016.<br/>We hope you will continue to <b>BE THE CHANGE!</b></p>
         </td>
       </tr>
     </table>
