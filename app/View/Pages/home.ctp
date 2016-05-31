@@ -15,7 +15,7 @@
 
   <section class="block_banner">
     <b>
-      <a href="/pages/start/portal" style="font-size: 19pt">Submissions for the 2015 / 2016 Challenge are due May 15th!</a><br/><div class="small"><a href="/pages/start/portal">Submit your project today.</a></div></b>
+      <a href="/dfcusa/pages/stories/2016results" style="font-size: 19pt">Announcing the winner of DFC USA 2016!</a><br/><div class="small"><a href="/dfcusa/pages/stories/2016results" style="font-size: 13pt"><b>"Supporting Refugees in Our Community"</b> by The Exploris School in Raleigh, North Carolina.</a></div></b>
   </section>
 
 <section class="block3">
