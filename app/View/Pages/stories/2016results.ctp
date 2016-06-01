@@ -20,6 +20,7 @@
     <br/><br/><br/><br/>
     <h1>Finalists</h1>
     <p class="normaltext"><b>LREI</b><br/><i>New York, NY - Choosing to Participate</i></p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4DEONb-BpgU" frameborder="0" allowfullscreen></iframe>
     <img width="560" height="315" src="/dfcusa/app/webroot/projects/lrei.png">
     <br/><br/><br/><br/>
     <p class="normaltext"><b>Washington Elemetary</b><br/><i>Sandpoint, ID - The Perseverance and Grit Squad</i></p>
