@@ -6,7 +6,7 @@
     <p class="normaltext">
       <p class="normaltext padded">
         <i><b>What do we have to do to be eligible?</b></i><br/>
-        Complete your Design for Change project, using the various DFC resources and be sure to document your project using text, photos or video. When you're done, compile your documentation into a narrative that describes your project using the four stages of Design for Change (Feel, Imagine, Do, Share), and submit it to us by May 15, 2016. For more information, click here: <a href="/pages/start/portal">Get Started</a>.
+        Complete your Design for Change project, using the various DFC resources and be sure to document your project using text, photos or video. When you're done, compile your documentation into a narrative that describes your project using the four stages of Design for Change (Feel, Imagine, Do, Share), and submit it to us by May 15, 2017. For more information, click here: <a href="/pages/start/portal">Get Started</a>.
       </p>
       <br/>
       <p class="normaltext padded">

@@ -9,7 +9,7 @@
     <br/>
     <p class="normaltext">The DFC Global Conference brings together teams from across the world to share and celebrate their projects, and most importantly, inspire others! This two day event is filled with presenters, interactive workshops, music, fun and games! We're thrilled to be able to offer this opportunity to one team (no more than 5 people), although we wish we could send every team!</p>
     <br/>
-    <p class="normaltext">Teams are expected to fully implement, present and submit their social change project to DFC USA by the deadline: <b>May 15, 2016.</b></p>
+    <p class="normaltext">Teams are expected to fully implement, present and submit their social change project to DFC USA by the deadline: <b>May 15, 2017.</b></p>
     <br/>
     <div class="imagegrid">
       <img src="/dfcusa/app/webroot/pics/btc/pic-btc3.jpg" width="300" height="200">
