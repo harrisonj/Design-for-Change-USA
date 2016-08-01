@@ -36,24 +36,6 @@
 			</div>
 		</div>
 
-		<div class="profileSection hide">
-			<img width="95" alt="" src="/images/team/matt.png">
-			<div class="normaltext">
-				<b>Matt Besonen - Partnerships</b><br>
-				<a href="mailto:matt@designforchange.us">matt@designforchange.us</a><br>
-	      Matt is the founder of Co.Labs Agency, a cooperative business forum which bridges the gap between business and academia. Through a partnership with Southern New Hampshire University, Matt has been focused on fine-tuning the academic elements of Co.Labs since 2010. Prior to that, Matt spent five years working with Octagon, a global sports marketing agency where he pursued corporate endorsements and community partnerships for professional athletes. As alum of UMass Amherst, Matt graduated with a degree in Sport Management. In addition to business and education, Matt has always had a passion for restaurants and has over 10 years of experience in the industry.
-			</div>
-		</div>
-
-		<div class="profileSection hide">
-			<img width="95" alt="" src="/images/team/valeria.png">
-			<div class="normaltext">
-				<b>Valeria Fontanals - Curriculum Designer & Training</b><br>
-				<a href="mailto:valeria@designforchange.us">valeria@designforchange.us</a><br>
-	      Valeria is the founder of Values & Strengths Educational Services, which focuses on promoting optimal development to children, through innovative tools for families and schools. She holds a Master of Education from Harvard Graduate School of Education and she is a licensed school psychologist in Florida. She brings more than ten years of international experience as therapist, teacher, director, trainer and speaker. Specialist in talent development and bicultural education. Author of children’s books, teachers, and parents resources.
-			</div>
-		</div>
-
 		<h1>Our Advisors</h1>
 
 		<div class="profileSection">
@@ -71,6 +53,17 @@
 				Christian spent 15 years as a HS teacher and coach before he founded Be Playful, a collaborative global design agency focused on the intersection between school planning/design, emerging technology, professional development, and future trending. Additionally, he founded <a href="http://www.fastcodesign.com/1663416/teaching-kids-design-thinking-so-they-can-solve-the-worlds-biggest-problems" target="_new">Prototype</a>, a national design program empowering young people to solve real problems in real communities, and co-founded <a href="http://reimagine-ed.org/" target="_new">Reimagine:Ed</a>, a national series of initiatives exploring the future of learning.
 			</div>
 		</div>
+
+
+		<div class="profileSection">
+			<img width="95" alt="" src="/images/team/mark.png">
+			<div class="normaltext">
+				<b>Mark Silberberg</b><br>
+				Mark is thrilled to be a member of the <a href="https://www.lrei.org/" target="_new">Little Red School House & Elisabeth Irwin High School (LREI)</a> learning community and is inspired each day by students and colleagues alike. He currently serves faculty, students and families as the school's Director of Learning and Innovation. Prior to that, he served for more than a decade as the school's MIddle School principal. A lifelong learner, Mark began his formal adult life in schools as a teacher of physics, chemistry, English and an experiential business simulation class in the public schools where he also worked as a school administrator and technology coordinator. For the ten years prior to coming to LREI, Mark was a co-founder and co-director of a progressive K-12 public charter school where he currently still serves as a board member. When not immersed in things LREI, Mark enjoys spending time with his family and completing sundry home repair/tinkering projects. He is an avid soccer player and skier and wishes he had more time to play the guitar and bass.
+			</div>
+		</div>
+		
+
 	</div>
 </div>
 <div class="clear"></div>

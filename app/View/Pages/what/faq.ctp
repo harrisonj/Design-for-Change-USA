@@ -20,7 +20,7 @@
       <br/>      
       <p class="normaltext padded">
         <i><b>When in the Deadline? How long does it take?</b></i><br/>
-        The last day to submit your entry is May 15, 2016. The winning team will be announced on May 30. The winning team will have the opportunity to present their project the Be The Change Conference in September. A DFC project takes an average of 2-3 months to complete – this depends on how frequently you are working on your project. The last day to submit your entry is May 15. The winning team will be announced on May 30. The winning team will have the opportunity to present their project the Be The Change Conference in September. 
+        The last day to submit your entry is May 15, 2017. The winning team will be announced on May 30. The winning team will have the opportunity to present their project the Be The Change Conference in September. A DFC project takes an average of 2-3 months to complete – this depends on how frequently you are working on your project. The last day to submit your entry is May 15. The winning team will be announced on May 30. The winning team will have the opportunity to present their project the Be The Change Conference in September. 
       </p>
       <br/>
       <p class="normaltext padded">

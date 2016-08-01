@@ -15,6 +15,7 @@
 		  <li><a href="http://www.ideo.com" target="_new"><img src="/images/partners/ideo.png" width="204" height="76" alt="logo"></a></li>
 		  <li><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/harvard.png" width="200" height="70" alt="logo"></a></li>
 		  <li><a href="http://www.unis.org/" target="_new"><img src="/images/partners/unis.png" width="100" height="50" alt="logo"></a></li>                                
+		  <li style="padding-left: 120px"><a href="http://www.heartsonfire.org/" target="_new"><img src="/images/partners/heartsonfire.png" width="100" height="50" alt="logo"></a></li>
 		</ul>
 		<h1>Become a Partner</h1>
 	  	<p class="normaltext">Are you an organization, school system or charter school network committed to improving your community and empowering your young people? We want to hear from you!</p>

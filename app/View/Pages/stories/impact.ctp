@@ -14,7 +14,16 @@
     <p class="normaltext">Below is a glimpse of the findings and links to the full research PowerPoint conducted with the teachers, students and principals.</p>
     <br/><br/>
     <img src="/dfcusa/app/webroot/images/goodworktoolkit.jpeg">
+    <br/><br/><br/><br/>
+    <h2>Videos</h2>
+    <br/>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/E3OTDmMv04c" frameborder="0" allowfullscreen></iframe>
+    <p class="normaltext">Harvard's Research on The DFC Design Thinking Guide</p>
     <br/><br/>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HyYmr0Z7mLQ" frameborder="0" allowfullscreen></iframe>
+    <p class="normaltext">Interview with Harvard Professor Howard Gardner</p>
+    <br/><br/>
+    <h2>Research</h2>
     <ul class="normallist">
       <li><a href="http://dfcworld.com/FILE/full%20research.pptx" target="_new">Download Full Research</a></li>
       <li><a href="http://dfcworld.com/FILE/Principals_Survey.ppt" target="_new">Download Principals' Research</a></li>
