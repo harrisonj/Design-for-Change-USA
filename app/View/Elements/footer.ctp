@@ -25,11 +25,9 @@
   </div>
   <div class="footer_bot">
       <div class="container">
-          <div class="ft_logo"><a href="#"><img src="/images/ft_logo.png" width="126" height="62" alt="logo"></a></div>
+          <div class="ft_logo"><a href="#"><img src="/images/inner_logo.png" width="126" alt="logo"></a></div>
           <div class="ft_nav">
               <ul>
-                  <li><a href="/pages/start/portal">Submit Your Project</a></li>   
-                  <li><a href="/pages/who/aboutus">About Us</a></li>
                   <li><a href="/pages/start/volunteer">Volunteer</a></li>
                   <li><a href="/pages/who/press">Press</a></li>
                   <li><a href="/pages/who/contactus">Contact Us</a></li>
@@ -38,7 +36,6 @@
               <div class="clear"></div>
           </div>
           <div class="clear"></div>
-          <p class="copy">All Submitted Stories will be Property of Design For Change School Challenge Contest</p>
       </div>
   </div>
 </footer>

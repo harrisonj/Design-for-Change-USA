@@ -1,9 +1,9 @@
 <section class="inner_banner">
   <div class="container">
       <div class="inner_young">
-          <h2>EMPOWER YOUNG PEOPLE TO<BR/><span>LEARN 21st CENTURY SKILLS,</span>
-          <br/>
-          BUILD CHARACTER<br/><span>AND DO GOOD.</span></h2>
+          <h2>EMPOWER YOUNG PEOPLE TO<BR/>
+          <span>BUILD CHARACTER</span><BR/>
+          AND DO GOOD.</h2>
           <div class="clear"></div>
           <br/><br/>
           <a class="yellow_button" href="/pages/what/whatwedo">LEARN HOW</a>
@@ -13,12 +13,45 @@
 </section>
 <!-- Banner ends -->
 
-  <section class="block_banner" style="height: 100px">
-    <b>
-      <a href="/dfcusa/pages/stories/2016results" style="font-size: 19pt">Announcing the winner of DFC USA 2016!</a><br/><div class="small"><a href="/dfcusa/pages/stories/2016results" style="font-size: 14pt"><b>"Supporting Refugees in Our Community"</b> by The Exploris School in Raleigh, North Carolina.<Br/><i style="font-size: 10pt">Click to see their video...</i></a></div></b>
+<div class="projectHeader hide" style="height: 100px">
+    <b><a href="/dfcusa/pages/stories/2016results" style="font-size: 19pt">Announcing the winner of DFC USA 2016!</a><br/><div class="small"><a href="/dfcusa/pages/stories/2016results" style="font-size: 14pt"><b>"Supporting Refugees in Our Community"</b> by The Exploris School in Raleigh, North Carolina.<Br/><i style="font-size: 10pt">Click to see their video...</i></a></div></b>
+</div>
+
+<div class="main_content">
+
+  <section class="logos">
+    <div class="container">
+      <div class="partners">
+        <div class="endorsed">Endorsed By...</div>
+        <ul>
+            <li style="width: 320px;"><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/hgse.png" alt="logo" height="55"></a></li>
+            <li><a href="https://www.teachforamerica.org" target="_new" style="padding-top: 10px"><img src="/images/partners/tfa.png" alt="logo" height="30"></a></li>
+            <li class="short"><a href="https://www.youthventure.org/" target="_new"><img src="/images/partners/youthventures.png" alt="logo" height="60"></a></li>
+            <li class="short"><a href="http://www.cityyear.org/" target="_new"><img src="/images/partners/cityyear.png" alt="logo" height="60"></a></li>
+            <li><a href="http://www.ideo.com" target="_new" style="padding-top: 15px"><img src="/images/partners/ideo.png" alt="logo" height="30"></a></li>
+        </ul>
+        <h3 class="inner_change" style="padding-bottom: 10px; display: none">
+          Are you interested in partnerning with Design for Change USA or starting your own DFC Chapter in your commmunity? <a href="/dfcusa/pages/about/partners">Learn How.</a>
+        </h3>
+        <div class="clear"></div>
+      </div>
+    </div>
   </section>
 
-<section class="block3">
+  <section class="block1">
+      <div class="container">
+          <div class="inner1_design">
+              <img src="/images/whoarewe.png" width="400" height="245" alt="img">
+              <div class="we_are">
+                  <h2>How Does It Work</h2>
+                  <p>Young people from around the country do projects in their community that not only improve lives but help them build their character.</p>
+              </div>
+              <div class="clear"></div>
+          </div>
+      </div>
+  </section>
+
+  <section class="block3">
       <div class="container">
           <h2 class="inner_change">Design for Change is a simple framework: </h2>
       </div>
@@ -29,22 +62,22 @@
                       <li>
                           <h3>FEEL</h3>
                           <img src="/images/pic_feel.png" width="176" height="176" alt="img">
-                          <p>A team of young people engages their community and chooses a problem that's meaningful to them.</p>
+                          <p>Empathy</p>
                       </li>
                       <li>
                           <h3>imagine</h3>
                           <img src="/images/pic_imagine.png" width="176" height="176" alt="img">
-                          <p>By brainstorming and working together, they imagine a solution that just might work.</p>
+                          <p>Creativity</p>
                       </li>
                       <li>
                           <h3>do</h3>
                           <img src="/images/pic_do.png" width="175" height="176" alt="img">
-                          <p>Through planning and action, they bring<br/>that solution to life and cause change.</p>
+                          <p>Initiative</p>
                       </li>
                       <li>
                           <h3>Share</h3>
                           <img src="/images/pic_share.png" width="176" height="176" alt="img">
-                          <p>With a viral video, they share and inspire others in their community and worldwide!</p>
+                          <p>Reflection</p>
                       </li>
                   </ul>
                   <div class="clear"></div>
@@ -53,20 +86,6 @@
       </div>
   </section>
 
-<!-- maincontent Starts -->
-<div class="main_content">
-  <div class="block1">
-      <div class="container">
-          <div class="inner1_design">
-              <img src="/images/whoarewe.png" width="400" height="245" alt="img">
-              <div class="we_are">
-                  <h2>Who we are</h2>
-                  <p>DESIGN FOR CHANGE is a curriculum and technology platform that builds character, capacity and confidence by engaging young people in social change projects. <br/><br/><br/></p>
-              </div>
-              <div class="clear"></div>
-          </div>
-      </div>
-  </div>
 
   <section class="block2">
       <div class="container">
@@ -82,67 +101,26 @@
                 <img src="/images/flipboard_6.png" width="495" alt="tx_img">
                 <img src="/images/flipboard_7.png" width="495" alt="tx_img">
               </div>
-              <h2>to be Change Mentors through</h2>
+              <h2>To Help Young People Be The Change Through</h2>
               <div class="inner_tools">
                   <ul>
                       <li>
-                          <h3>curriculum</h3>
-                          <p>Our 30 hour design thinking curriculum was built in conjuncton with the <a href="/pages/partners">nation's foremost thinkers in education, such as Harvard, Stanford and IDEO.</a></p>
+                          <h3>training</h3>
+                          <p>In person or online training for mentors and teachers. Get trained on the DFC approach and be able to start projects in hours.</p>
                       </li>
                       <li>
-                          <h3>tools</h3>
-                          <p>We have a host of tools and resources for mentors and teachers, including a web portal for managing projects, a toolkit to get started easily and other web resources.</p>
+                          <h3>curriculum</h3>
+                          <p>Dozens of easy to use activities for different age groups, each 30 or 60 minutes long and focused on specific 21st century skills.</a></p>
                       </li>
                       <li class="last">
-                          <h3>training</h3>
-                          <p>We conduct 3 hour in person or online training sessions for interested educators! Get trained on the DFC approach and be able to start projects in hours.</p>
+                          <h3>support</h3>
+                          <p>Easy to use web portal for managing projects, case studies with impact analyses, regular webinars and a toolkit to get started easily.</p>
                       </li>
                   </ul>
                   <div class="clear"></div>
               </div>
           </div>
       </div>  
-  </section>
-
-  <section class="block5">
-      <div class="container">
-          <div class="inner_settings"><img src="/images/howdoesitwork.png" width="200" alt="img"></div>
-          <div class="inner_work">
-              <h2>Impact</h2>
-              <p>
-                By working along side our partner organizations including <b>City Year, Ashoka Youth Venture, Citizen Schools, United Nations International School, and Teach for America</b>, Design for Change continues to empower young people across the USA.
-<!--                 <br/><br/>We are active in States such as Illinois, Massachusetts, New York, Michigan, South Dakota, Texas, Florida, California, New Hampshire, New Orleans, Nebraska, Virginia and Tennessee. -->
-                <br/><br/>Young people are using Design for Change to address issues such as these in their community: poverty, homelessness, hunger, environment, gangs/violence, drugs, obesity, drop out rates, empathy, stereotypes and bullying.
-              </p>
-          </div>
-          <div class="clear"></div>
-      </div>
-  </section>
-
-  <section class="logos">
-      <div class="container">
-          <div class="partners">
-              <h2>Our Partners</h2>
-              <ul>
-                  <li><a href="https://www.teachforamerica.org" target="_new"><img src="/images/partners/tfa.png" width="178" height="95" alt="logo"></a></li>
-                  <li><a href="https://www.youthventure.org/" target="_new"><img src="/images/partners/youthventures.png" width="181" height="95" alt="logo"></a></li>
-                  <li><a href="http://www.rockefellerfoundation.org/" target="_new"><img src="/images/partners/rockefeller.png" width="204" height="95" alt="logo"></a></li>
-                  <li><a href="http://www.cityyear.org/" target="_new"><img src="/images/partners/cityyear.png" width="90" alt="logo"></a></li>
-                  <li style="padding-top: 15px; padding-left: 25px"><a href="http://www.unis.org/" target="_new"><img src="/images/partners/unis.png" width="100" height="50" alt="logo"></a></li>
-              </ul>
-              <div class="clear"></div>
-              <ul>
-                  <li><a href="http://dschool.stanford.edu/" target="_new"><img src="/images/partners/dschool.png" width="167" height="76" alt="logo"></a></li>
-                  <li><a href="http://www.thinkfun.com" target="_new"><img src="/images/partners/thinkfun.png" width="195" height="76" alt="logo"></a></li>
-                  <li><a href="http://www.ideo.com" target="_new"><img src="/images/partners/ideo.png" width="204" height="76" alt="logo"></a></li>
-                  <li class="last"><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/harvard.png" width="242" height="76" alt="logo"></a></li>
-              </ul>
-              <h3 class="inner_change" style="padding-bottom: 10px; display: none">
-                Are you interested in partnerning with Design for Change USA or starting your own DFC Chapter in your commmunity? <a href="/dfcusa/pages/about/partners">Learn How.</a>
-              </h3>
-              <div class="clear"></div>
-          </div>
-      </div>
   </section>
 
   <section class="block7">

@@ -1,5 +1,3 @@
-<?php echo $this->element('who'); ?>
-
 <div class="insidepage">	
 	<div class="contents">
 		<h1>About Us</h1>

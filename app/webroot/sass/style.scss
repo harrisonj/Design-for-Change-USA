@@ -1,12 +1,14 @@
 /*====================================== reset.css is here ========================================*/
 
+@import url('http://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800');
+
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
   margin: 0;
   padding: 0;
-  font-family: 'proxima_novalight';
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
 
   b {
-    font-family: 'proxima_novabold';
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
   }
 }
 
@@ -34,7 +36,8 @@ caption, th {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
-  font-weight: bold;
+  font-weight: normal;
+  text-transform: uppercase;
   &.dark {
     color: #666;
   }
@@ -116,7 +119,6 @@ html! {}
 
 body {
   color: #b1b1b1;
-  font-family: "Arial", Verdana, Tahoma;
   font-size: 12px;
 }
 
@@ -136,41 +138,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block;
 }
 
-@font-face {
-  font-family: 'proxima_novalight';
-  src: url('../fonts/proximanova-light-webfont.eot');
-  src: url('../fonts/proximanova-light-webfont.eot?#iefix') format("embedded-opentype"), url('../fonts/proximanova-light-webfont.woff') format("woff"), url('../fonts/proximanova-light-webfont.ttf') format("truetype"), url('../fonts/proximanova-light-webfont.svg#proxima_novalight') format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'proxima_novaregular';
-  src: url('../fonts/proximanova-regular-webfont.eot');
-  src: url('../fonts/proximanova-regular-webfont.eot?#iefix') format("embedded-opentype"), url('../fonts/proximanova-regular-webfont.woff') format("woff"), url('../fonts/proximanova-regular-webfont.ttf') format("truetype"), url('../fonts/proximanova-regular-webfont.svg#proxima_novaregular') format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'proxima_novasemibold';
-  src: url('../fonts/proximanova-semibold-webfont.eot');
-  src: url('../fonts/proximanova-semibold-webfont.eot?#iefix') format("embedded-opentype"), url('../fonts/proximanova-semibold-webfont.woff') format("woff"), url('../fonts/proximanova-semibold-webfont.ttf') format("truetype"), url('../fonts/proximanova-semibold-webfont.svg#proxima_novasemibold') format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'proxima_novabold';
-  src: url('../fonts/proximanova-bold-webfont.eot');
-  src: url('../fonts/proximanova-bold-webfont.eot?#iefix') format("embedded-opentype"), url('../fonts/proximanova-bold-webfont.woff') format("woff"), url('../fonts/proximanova-bold-webfont.ttf') format("truetype"), url('../fonts/proximanova-bold-webfont.svg#proxima_novabold') format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
 
 /* ----------------------- layout ----------*/
 
@@ -178,16 +145,13 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   margin: 0 auto;
   min-width: 1200px;
   overflow: hidden;
-  &.inside {
-    background-color: #F1F1F1 !important;
-  }
 }
 
 .container {
   padding-right: 100px;
   padding-left: 100px;
   margin: 0 auto;
-  width: 1000px;
+  width: 1050px;
   position: relative;
 }
 
@@ -217,7 +181,6 @@ header {
         background: #ebc626;
         border-bottom: 2px solid #e6b820;
         border-radius: 5px;
-        font-family: 'Open Sans', sans-serif;
         font-size: 11px;
         color: #ffffff;
         text-align: center;
@@ -252,50 +215,6 @@ nav {
 
 /* ------------------------- NAVIGATION HERE ---------------*/
 
-.navigation {
-  display: inline-block;
-  padding: 21px 0 16px 243px;
-  ul {
-    display: inline-block;
-    li {
-      float: left;
-      display: inline-block;
-      a {
-        font-family: 'Open Sans', sans-serif;
-        font-size: 12px;
-        color: #ffffff;
-        display: block;
-        text-transform: uppercase;
-        text-align: center;
-        line-height: 29px;
-        border-bottom: 2px solid #8abacd;
-        font-weight: 600;
-        border-radius: 5px;
-        position: relative;
-        &.what {
-          width: 147px;
-        }
-        &.get {
-          width: 120px;
-        }
-        &.documents {
-          width: 133px;
-        }
-        &.getstarted {
-          width: 150px;
-        }
-        &.resources {
-          width: 120px;
-        }
-        span! {}
-        &:hover, &.active {
-          background: #1a8eb0;
-          border-bottom: 2px solid #16769c;
-        }
-      }
-    }
-  }
-}
 
 .leftnav {
   display: block;
@@ -319,7 +238,6 @@ nav {
       text-align: right;
       margin-bottom: 10px;
       cursor: pointer;
-      font-weight: bold;
       p {
         margin-right: 30px;
         color: #666;
@@ -346,14 +264,15 @@ nav {
 .insidepage {
   float: left;
   display: block;
-  width: 75%;
+  width: 100%;
+  color: #2D4050 !important;
+  font-size: 11pt !important;
   background-color: #fff;
+  margin-top: 40px;
   .contents {
-    margin: 25px 65px 25px 45px;
+    margin: 23px 64px 25px 64px;
     h1 {
-      font-size: 25pt;
-      color: #45798e;
-      font-weight: bold;
+      font-size: 36px;
       margin-bottom: 25px;
     }
   }
@@ -364,7 +283,6 @@ nav {
 .block_banner {
   border-top: 3px solid #f1f1f1;
   border-bottom: 3px solid #f1f1f1;
-  font-family: 'Open Sans', sans-serif;
   height: 75px;
   background: #dc4276;
   color: #fff;
@@ -391,7 +309,6 @@ nav {
   display: block;
   padding: 50px 10px 17px 0;
   h2 {
-    font-family: 'Open Sans', sans-serif;
     font-size: 29px;
     color: #e6b820;
     font-weight: 800;
@@ -402,7 +319,6 @@ nav {
     }
   }
   p {
-    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     color: #ffffff;
     font-weight: 400;
@@ -415,7 +331,6 @@ nav {
     margin: 0 0 10px 368px;
     display: block;
     text-align: center;
-    font-family: 'Open Sans', sans-serif;
     font-size: 28px;
     color: #ffffff;
     font-weight: 700;
@@ -431,7 +346,6 @@ nav {
     width: 175px;
     margin: 0 auto;
     display: block;
-    font-family: 'Open Sans', sans-serif;
     font-size: 13px;
     color: #ffffff;
     font-weight: 700;
@@ -475,7 +389,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
   text-align: center;
   color: #000;
   font-size: 20pt;
-  font-weight: bold;
   .subheadline {
     background: #fff;
     text-align: center;
@@ -494,7 +407,7 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
 
 .block1 {
   width: 100%;
-  background: #16769c;
+  background: #f1f1f1;
 }
 
 .design {
@@ -505,7 +418,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
     display: block;
   }
   p {
-    font-family: 'Open Sans', sans-serif;
     font-size: 22px;
     color: #ffffff;
     font-weight: 400;
@@ -527,6 +439,17 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
 .block2 {
   width: 100%;
   background: #4ebbe7;
+  .normaltext {
+    color: #fff !important;
+  }
+  .contents {
+    color: #fff !important;
+  }
+  .normallist {
+    li {
+      color: #fff !important;
+    }
+  }
 }
 
 .empower {
@@ -534,7 +457,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
   padding: 19px 0 45px 0;
   position: relative;
   h2 {
-    font-family: 'Open Sans', sans-serif;
     font-size: 44px;
     color: #ffffff;
     font-weight: 300;
@@ -546,7 +468,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
     margin: 0 auto;
   }
   h3 {
-    font-family: 'Open Sans', sans-serif;
     font-size: 35px;
     color: #ffffff;
     font-weight: 300;
@@ -580,7 +501,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
         width: 190px;
         background: #1a8eb0;
         line-height: 39px;
-        font-family: 'Open Sans', sans-serif;
         font-size: 26px;
         color: #ffffff;
         font-weight: 300;
@@ -591,7 +511,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
         border-radius: 5px;
       }
       p {
-        font-family: 'Open Sans', sans-serif;
         font-size: 13px;
         color: #ffffff;
         font-weight: 400;
@@ -623,7 +542,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
 }
 
 .change {
-  font-family: 'Open Sans', sans-serif;
   font-size: 26px;
   color: #4c4c4e;
   font-weight: 300;
@@ -635,7 +553,7 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
 }
 
 .block3_bot {
-  background: #A07F0F;
+  background: #ce305a;
   width: 100%;
   position: relative;
 }
@@ -649,8 +567,7 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
     display: inline-block;
     width: 230px;
     h3 {
-      font-family: 'Open Sans', sans-serif;
-      font-size: 26px;
+      font-size: 22px;
       color: #4c4c4e;
       font-weight: 300;
       text-align: center;
@@ -662,9 +579,9 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
       margin: 0 auto;
     }
     p {
-      font-family: 'Open Sans', sans-serif;
-      font-size: 15px;
+      font-size: 20px;
       color: #ffffff;
+      font-weight: bold;
       text-align: center;
       padding: 20px 15px 0 10px;
       line-height: 22px;
@@ -702,14 +619,12 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
   display: inline-block;
   padding: 145px 0 156px 0;
   h2 {
-    font-family: 'Open Sans', sans-serif;
     font-size: 35px;
     color: #ffffff;
     font-weight: 800;
     padding: 0 0 12px 0;
   }
   p {
-    font-family: 'Open Sans', sans-serif;
     font-size: 25px;
     color: #ffffff;
     font-weight: 300;
@@ -737,7 +652,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
   display: inline-block;
   padding: 133px 0 106px 0;
   h2 {
-    font-family: 'Open Sans', sans-serif;
     font-size: 35px;
     color: #ffffff;
     font-weight: 800;
@@ -750,7 +664,7 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
     }
   }
   p {
-    font-family: 'Open Sans', sans-serif;
+
     font-size: 25px;
     color: #ffffff;
     font-weight: 300;
@@ -779,13 +693,11 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
   display: inline-block;
   padding: 95px 0 98px 0;
   h2 {
-    font-family: 'Open Sans', sans-serif;
     font-size: 35px;
     color: #626363;
     font-weight: 800;
   }
   p {
-    font-family: 'Open Sans', sans-serif;
     font-size: 26px;
     color: #626363;
     font-weight: 400;
@@ -799,7 +711,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
     text-align: center;
     text-transform: uppercase;
     border-bottom: 3px solid #e6b820;
-    font-family: 'Open Sans', sans-serif;
     font-size: 17px;
     color: #ffffff;
     font-weight: 600;
@@ -818,7 +729,18 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
 
 .block7 {
   width: 100%;
-  background: #4ab1da;
+  background: #16769c;
+  .normaltext {
+    color: #fff !important;
+  }
+  .contents {
+    color: #fff !important;
+  }
+  .normallist {
+    li {
+      color: #fff !important;
+    }
+  }
 }
 
 .impact {
@@ -827,7 +749,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
   display: inline-block;
   padding: 72px 0 68px 0;
   h2 {
-    font-family: 'Open Sans', sans-serif;
     font-size: 35px;
     color: #ffffff;
     font-weight: 800;
@@ -837,7 +758,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
     padding: 0 0 44px 0;
   }
   p {
-    font-family: 'Open Sans', sans-serif;
     font-size: 25px;
     color: #ffffff;
     font-weight: 400;
@@ -865,14 +785,12 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
   background: url(../images/user.png) no-repeat center 92px;
   padding: 163px 0 66px 0;
   h2 {
-    font-family: 'Open Sans', sans-serif;
     font-size: 44px;
     color: #4c4c4e;
     font-weight: 300;
     text-align: center;
   }
   p {
-    font-family: 'Open Sans', sans-serif;
     font-size: 17px;
     color: #4c4c4e;
     font-weight: 300;
@@ -882,7 +800,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
     letter-spacing: 1px;
     word-spacing: -3px;
     a {
-      font-family: 'Open Sans', sans-serif;
       font-size: 17px;
       color: #4c4c4e;
       font-weight: 300;
@@ -904,7 +821,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
   display: block;
   padding: 107px 0 95px 0;
   h2 {
-    font-family: 'Open Sans', sans-serif;
     font-size: 44px;
     color: #ffffff;
     font-weight: 300;
@@ -921,7 +837,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
     border-radius: 3px;
     a {
       display: block;
-      font-family: 'Open Sans', sans-serif;
       font-size: 14px;
       color: #7f8c8c;
       font-weight: 800;
@@ -938,7 +853,6 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
       margin: 0 0 30px 0;
     }
     p {
-      font-family: 'Open Sans', sans-serif;
       font-size: 11px;
       color: #777777;
       font-weight: 400;
@@ -954,9 +868,16 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
 
 .partners {
   display: block;
-  padding: 56px 0 68px 0;
+  padding: 15px 0 0 0;
+  .endorsed {
+    font-size: 10pt;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 150px;
+    top: 15px;
+  }
   h2 {
-    font-family: 'Open Sans', sans-serif;
     font-size: 44px;
     color: #4c4c4e;
     font-weight: 300;
@@ -965,14 +886,22 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
     padding: 0 0 68px 0;
   }
   ul {
-    padding: 0 0 18px 40px;
+    padding: 20px 0 18px 40px;
     display: inline-block;
     li {
       float: left;
       display: inline-block;
-      margin: 0 25px 0 0;
+      margin: 0 0px 0 0;
+      width: 200px;
+      text-align: center;
+      &.short {
+        width: 145px;
+      }
       a {
         display: block;
+      }
+      img {
+        padding: auto;
       }
     }
   }
@@ -988,7 +917,7 @@ footer {
 
 .footer_top {
   width: 100%;
-  background: #16769c;
+  background: #2d4050;
 }
 
 .conect {
@@ -1000,7 +929,6 @@ footer {
     display: inline-block;
     margin: 0 7px 0 0;
     p {
-      font-family: 'Open Sans', sans-serif;
       font-size: 14px;
       color: #ffffff;
       font-weight: 700;
@@ -1022,7 +950,6 @@ footer {
     margin: 0 6px 0 0;
     p {
       display: inline-block;
-      font-family: 'Open Sans', sans-serif;
       font-size: 14px;
       color: #ffffff;
       font-weight: 700;
@@ -1046,7 +973,6 @@ footer {
       border: none;
       border-radius: 5px;
       position: relative;
-      font-family: 'Open Sans', sans-serif;
       font-size: 13px;
       color: #ffffff;
       font-weight: 600;
@@ -1058,6 +984,7 @@ footer {
 .footer_bot {
   background: #585858;
   width: 100%;
+  height: 105px;
 }
 
 .ft_logo {
@@ -1081,7 +1008,6 @@ footer {
       line-height: 15px;
       padding: 0 13px 0 16px;
       a {
-        font-family: 'Open Sans', sans-serif;
         font-size: 12px;
         color: #ffffff;
         font-weight: 600;
@@ -1098,7 +1024,6 @@ footer {
 }
 
 .copy {
-  font-family: 'Open Sans', sans-serif;
   font-size: 12px;
   color: #ffffff;
   font-weight: 400;
@@ -1130,7 +1055,6 @@ footer {
         background: #ebc626;
         border: 1px solid #edcd40;
         border-radius: 8px;
-        font-family: 'proxima_novaregular';
         font-size: 18px;
         color: #ffffff;
         text-align: center;
@@ -1157,15 +1081,16 @@ footer {
 .inner_logo {
   position: absolute;
   z-index: 999;
-  top: 20px;
-  left: 20px;
+  top: 13px;
+  left: 30px;
   a! {}
 }
 
 .inner_nav {
   width: 100%;
-  background: #8abacd;
-  border-bottom: 2px solid #adc3d1;
+  background: #fff;
+  height: 45px;
+  border-bottom: 1px solid #f1f1f1;
 }
 
 /* ------------------------- NAVIGATION HERE ---------------*/
@@ -1175,38 +1100,37 @@ footer {
   ul {
     float: right;
     display: inline-block;
-    margin: 0 0 0 0;
+    margin: -17px 0 0 0;
     li {
       float: left;
       display: inline-block;
       a {
-        font-family: 'proxima_novasemibold';
-        font-size: 17px;
-        color: #ffffff;
+        font-size: 16px;
+        font-weight: normal;
+        color: #666;
         display: block;
-        text-transform: uppercase;
         text-align: center;
         position: relative;
-        padding: 21px 0 17px 0;
+        padding: 32px 20px 10px 0;
         &.home {
-          width: 120px;
+          width: 100px;
         }
         &.what {
-          width: 150px;
+          width: 120px;
         }
         &.who {
-          width: 150px;
+          width: 100px;
         }
         &.start {
-          width: 150px;
+          width: 100px;
         }
         &.stories {
-          width: 190px;
+          width: 120px;
+        }
+        &.active {
+          font-weight: bold;
         }
         span! {}
-        &:hover, &.active {
-          background: #45798e;
-        }
       }
     }
   }
@@ -1224,7 +1148,6 @@ footer {
   display: block;
   padding: 59px 0px 17px 0;
   h2 {
-    font-family: 'proxima_novabold';
     font-size: 41px;
     color: #e6b820;
     font-weight: 800;
@@ -1236,7 +1159,6 @@ footer {
     }
   }
   p {
-    font-family: 'proxima_novasemibold';
     font-size: 17px;
     color: #ffffff;
     text-align: right;
@@ -1251,7 +1173,6 @@ footer {
   .yellow_button {
     width: 235px;
     margin: 0 6px 60px 0;
-    font-family: 'proxima_novaregular';
     font-size: 32px;
     color: #ffffff;
     text-transform: uppercase;
@@ -1270,7 +1191,6 @@ footer {
   width: 250px;
   margin: 0 6px 60px 0;
   height: 45px;
-  font-family: 'proxima_novaregular';
   font-size: 15px;
   color: #ffffff;
   background-color: #5cb85c;
@@ -1320,14 +1240,12 @@ footer {
     padding: 23px 0 0 77px;
     margin: 0 0 0 0;
     h2 {
-      font-family: 'proxima_novaregular';
       font-size: 42px;
       color: #ffffff;
       font-weight: normal;
       padding: 0 0 22px 0;
     }
     p {
-      font-family: 'proxima_novalight';
       font-size: 25px;
       color: #ffffff;
       font-weight: 400;
@@ -1343,16 +1261,14 @@ footer {
     padding: 53px 0 0 77px;
     margin: 0 0 0 0;
     h2 {
-      font-family: 'proxima_novaregular';
       font-size: 42px;
-      color: #ffffff;
+      color: #000;
       font-weight: normal;
       padding: 0 0 22px 0;
     }
     p {
-      font-family: 'proxima_novalight';
       font-size: 25px;
-      color: #ffffff;
+      color: #000;
       font-weight: 400;
       margin: 0 0 0 0;
       letter-spacing: 0.5px;
@@ -1370,8 +1286,7 @@ footer {
   display: block;
   padding: 44px 0 42px 0;
   h2 {
-    font-family: 'proxima_novalight';
-    font-size: 46px;
+    font-size: 30px;
     color: #ffffff;
     font-weight: normal;
     text-align: center;
@@ -1406,7 +1321,6 @@ footer {
       h3 {
         background: #ffffff;
         line-height: 75px;
-        font-family: 'proxima_novalight';
         font-size: 40px;
         color: #2a5688;
         font-weight: normal;
@@ -1418,7 +1332,6 @@ footer {
         position: relative;
       }
       p {
-        font-family: 'proxima_novaregular';
         font-size: 17px;
         color: #000000;
         text-align: left;
@@ -1431,7 +1344,6 @@ footer {
 }
 
 .inner_change {
-  font-family: 'proxima_novaregular';
   font-size: 27px;
   color: #5a5a5a;
   font-weight: 300;
@@ -1448,14 +1360,12 @@ footer {
   display: inline-block;
   padding: 130px 0 158px 0;
   h2 {
-    font-family: 'proxima_novaregular';
     font-size: 41px;
     color: #ffffff;
     font-weight: normal;
     padding: 0 0 0 3px;
   }
   p {
-    font-family: 'proxima_novalight';
     font-size: 22px;
     color: #ffffff;
     font-weight: 300;
@@ -1476,9 +1386,8 @@ footer {
   width: 575px;
   float: right;
   display: inline-block;
-  padding: 50px 0 50px 0;
+  padding: 0px;
   h2 {
-    font-family: 'proxima_novaregular';
     font-size: 41px;
     color: #ffffff;
     font-weight: normal;
@@ -1487,7 +1396,6 @@ footer {
     padding: 0 0 0 13px;
   }
   p {
-    font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     color: #ffffff;
     font-weight: 300;
@@ -1512,14 +1420,12 @@ footer {
   position: relative;
   z-index: 9999;
   h2 {
-    font-family: 'proxima_novaregular';
     font-size: 41px;
     color: #494949;
     font-weight: normal;
     padding: 0 0 22px 3px;
   }
   p {
-    font-family: 'proxima_novalight';
     font-size: 22px;
     color: #494949;
     padding: 0 0 26px 4px;
@@ -1532,7 +1438,6 @@ footer {
     line-height: 58px;
     text-align: center;
     text-transform: uppercase;
-    font-family: 'proxima_novaregular';
     font-size: 27px;
     color: #ffffff;
     border-radius: 5px;
@@ -1555,14 +1460,12 @@ footer {
   display: inline-block;
   padding: 56px 0 70px 0;
   h2 {
-    font-family: 'proxima_novaregular';
     font-size: 41px;
     color: #ffffff;
     font-weight: normal;
     padding: 0 0 0 8px;
   }
   p {
-    font-family: 'proxima_novalight';
     font-size: 22px;
     color: #ffffff;
     padding: 25px 0 2px 9px;
@@ -1584,11 +1487,9 @@ footer {
 }
 
 .who_are_you {
-  width: 1000px;
   display: inline-block;
   padding: 39px 0 85px 0;
   h2 {
-    font-family: 'proxima_novaregular';
     font-size: 41px;
     color: #ffffff;
     font-weight: normal;
@@ -1596,7 +1497,6 @@ footer {
     padding: 0 0 20px 0;
   }
   p {
-    font-family: 'proxima_novalight';
     font-size: 22px;
     color: #ffffff;
     text-align: center;
@@ -1617,7 +1517,6 @@ footer {
         margin: 0 auto;
       }
       h3 {
-        font-family: 'proxima_novaregular';
         font-size: 30px;
         color: #ffffff;
         font-weight: normal;
@@ -1629,9 +1528,8 @@ footer {
 }
 
 .normaltext {
-  font-family: 'proxima_novalight';
-  font-size: 12pt;
-  color: #000000;
+  font-size: 16px;
+  color: #2D4050;
   line-height: 23pt;
   &.padded {
     padding: 20px;
@@ -1650,14 +1548,14 @@ footer {
     margin-right: 50px;
   }
   li {
-    font-size: 12pt;
+    font-size: 16px;
     margin-top: 20px;
-    color: #000000;
+    color: #2D4050;
   }
   ol {
-    font-size: 12pt;
+    font-size: 18px;
     margin-top: 20px;
-    color: #000000;
+    color: #2D4050;
   }
   a {
     color: #3366cc;
@@ -1673,7 +1571,6 @@ footer {
 }
 
 .pagetitle {
-  font-family: 'proxima_novasemibold';
   font-size: 22px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -1683,7 +1580,6 @@ footer {
   margin-bottom: 40px;
   b {
     font-size: 12pt;
-    font-family: 'proxima_novasemibold';
   }
   img {
     width: 100px;
@@ -1719,7 +1615,6 @@ footer {
 .button {
   display: block;
   border-radius: 8px;
-  font-family: 'proxima_novaregular';
   font-size: 18px;
   color: #ffffff;
   text-align: center;
@@ -1917,7 +1812,6 @@ footer {
     color: rgb(255, 255, 255);
     cursor: pointer;
     display: inline-block;
-    font-family: 'Source Sans Pro', sans-serif;
     font-size: 14px;
     font-weight: 500;
     height: 34px;
@@ -1939,5 +1833,136 @@ footer {
     border: 1px solid #f1f1f1;
     margin-top: 20px;
     margin-bottom: 20px;
+  }
+}
+
+.projectHeader {
+  height: 15px;
+  background-color: #fff;
+}
+
+#sub-header {
+  color: #fff;
+  position: relative;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4);
+  width: 100%;
+  height: 15px;
+  background: #ce305a url(/dfcusa/app/webroot/images/bg_sub-header.png) repeat 0 0;
+}
+
+.alert-header {
+  background-size: 100%;
+  background-color: #ce305a !important;
+  color: #fff;
+  text-align: center;
+  padding: 19px 0px 0px 0px !important;
+  height: 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.fidsbox {
+  margin-right: 50px;
+  background-color: #ffffff;
+  float: left;
+  height: 210px; 
+  width: 220px; 
+  border: 1px solid #f1f1f1; 
+  padding: 10px; 
+  color: #666 !important;
+  font-size: 14px; 
+  text-align: center; 
+  -webkit-border-radius: 5px; 
+  -moz-border-radius: 5px; 
+  border-radius: 5px;
+  -webkit-box-shadow: 2px 2px 5px 0px rgba(50, 50, 50, 0.47);
+  -moz-box-shadow:    2px 2px 5px 0px rgba(50, 50, 50, 0.47);
+  box-shadow:         2px 2px 5px 0px rgba(50, 50, 50, 0.47);
+}
+
+.box_style_1{
+  padding:15px 25px 5px 25px;
+  margin-top: -70px;
+  box-shadow: inset 0 0 0 1px #e0e5e9;
+  border:5px solid #fbfbfc;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  margin-bottom:30px;
+  font-size:13px;
+  line-height:20px;
+  float: right;
+  width: 350px;
+  height: 290px;
+  background-color:#fff;
+  h4{
+    border-bottom: 1px solid #eaeff3;
+    padding-bottom:10px;
+    text-transform:uppercase;
+    margin-bottom: 15px;
+    a {
+      color: #488dc6 !important;
+      text-decoration: none;
+      font-size: 18px;
+      -webkit-transition: all 0.4s ease;
+      transition: all 0.4s ease;
+    }
+  }
+  .profile{ padding-top:30px;}
+}
+
+.pricingbox {
+  width: 300px;
+  height: 370px;
+  border: 1px solid #1dd7b2;
+  background-color: #fff;
+  float: left;
+  margin: 35px;
+  position: relative;
+  h2 {
+    font-size: 16pt;
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    color: #1dd7b2;
+    font-weight: bold;
+  }
+  .normallist {
+    padding-left: 20px;
+    padding-top: 0px;
+    li {
+      width: 240px;
+      font-size: 10pt !important;
+      line-height: 18px;
+      margin-bottom: 5px !important;
+    }
+  }
+  .price {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    left: 0px;
+    text-align: center;
+    font-size: 13pt;
+    color: #1dd7b2;
+  }
+  .button-outline {
+    border: none;
+    background: none;
+    color: #1dd7b2;
+    border: 2px solid #1dd7b2;
+    padding: 5px 10px;
+    text-decoration: none;
+    transition: .5s ease;
+    -moz-transition: .5s ease;
+    -webkit-transition: .5s ease;
+    -o-transition: .5s ease;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    -webkit-font-smoothing: antialiased;
   }
 }
