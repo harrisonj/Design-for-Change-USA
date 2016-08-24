@@ -1,9 +1,9 @@
 
-<div class="insidepage">
+<div class="insidepage" style="margin-top: 65px">
   <div class="contents">
     <div style="height: 365px;">
       <h1>How It Works</h1>
-      <p class="normaltext">DESIGN FOR CHANGE is a <b>global</b> movement of young people who are changing the world!</p>
+      <p class="normaltext">Design for Change is a <b>global</b> movement of young people who are changing the world!</p>
       <p class="normaltext">
         <div style="float: left; width: 50%;">
           <ul class="normallist">
@@ -37,7 +37,7 @@
         </div>
         <div class="fidsbox">
           <img src="/dfcusa/app/webroot/images/imagine_arrow.png" style="width: 150px;">
-          <div style="text-align: center; margin-top: 25px"><b>Imagine</b><br/>They interact with folks in their community to identify points of intervention and solutions.</div>
+          <div style="text-align: center; margin-top: 27px"><b>Imagine</b><br/>They interact with folks in their community to identify points of intervention and solutions.</div>
         </div>
         <div class="fidsbox">
           <img src="/dfcusa/app/webroot/images/do_arrow.png" style="width: 150px;">
@@ -45,7 +45,7 @@
         </div>
         <div class="fidsbox">
           <img src="/dfcusa/app/webroot/images/share_arrow.png" style="width: 150px;">
-          <div style="text-align: center; margin-top: 20px"><b>Share</b><br/>They share their story of change and inspire others to get involved or do their own project.</div>
+          <div style="text-align: center; margin-top: 27px"><b>Share</b><br/>They share their story of change and inspire others to get involved or do their own project.</div>
         </div>
       </div>
     </div>
@@ -63,7 +63,7 @@
           <span class="title">Activities</span>
           <li>Over 50 activities designed by experts</li>
           <li>Each activity is 30 or 60 minutes</li>
-          <li>Each activity is focused on 21st century skills like empathy, creativity, collaboration, critical thinking and more</li>
+          <li>Teach 21st century skills like empathy, creativity, collaboration, critical thinking and more</li>
         </ul>
         <img src="/dfcusa/app/webroot/images/portal.png" class="portalscreen" width="300">
         <ul class="normallist">
@@ -153,7 +153,7 @@
 <div class="insidepage block7" style="margin-top: 0px; padding-top: 25px">
   <div class="contents">
     <div style="height: 900px">
-      <h1>Example Stories of Change</h1>
+      <h1>Winning Stories of Change</h1>
       <br/><br/><br/><br/><br/>
       <table width="600px" height="100%" style="margin-left: auto; margin-right: auto">
         <tr valign="top" style="height: 405px">
@@ -205,17 +205,10 @@
   </div>
 </div>
 
-<div class="insidepage block7" style="margin-top: -40px;">
+<div class="insidepage block7" style="margin-top: 0px; height: 50px">
   <div class="contents">
     <p class="normaltext"><center><a href="/dfcusa/pages/stories" style="color: #fff">Want to see more stories of change?</a></center></p>
   </div>
 </div>
-
-<script>
-    jQuery(document).ready(function($) {
-      $('.storiesslider').unslider();
-    });
-  </script>
-
 
 <div class="clear"></div>

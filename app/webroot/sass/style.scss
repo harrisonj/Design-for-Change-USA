@@ -148,10 +148,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 .container {
-  padding-right: 100px;
-  padding-left: 100px;
-  margin: 0 auto;
-  width: 1050px;
+  margin-right: 100px;
+  margin-left: 100px;
   position: relative;
 }
 
@@ -270,7 +268,8 @@ nav {
   background-color: #fff;
   margin-top: 40px;
   .contents {
-    margin: 23px 64px 25px 64px;
+    margin-left: 100px;
+    margin-right: 100px;
     h1 {
       font-size: 36px;
       margin-bottom: 25px;
@@ -886,7 +885,7 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
     padding: 0 0 68px 0;
   }
   ul {
-    padding: 20px 0 18px 40px;
+    padding: 20px 0 18px 0px;
     display: inline-block;
     li {
       float: left;
@@ -1257,8 +1256,8 @@ footer {
   .we_are {
     float: left;
     display: inline-block;
-    width: 430px;
-    padding: 53px 0 0 77px;
+    width: 50%;
+    padding: 53px 0 0 0px;
     margin: 0 0 0 0;
     h2 {
       font-size: 42px;
@@ -1300,11 +1299,10 @@ footer {
 }
 
 .inner_tools {
-  display: inline-block;
-  position: relative;
   z-index: 9999;
+  width: 990px;
   padding: 49px 0 0 0;
-  margin: 0 0 0 10px;
+  margin: auto;
   ul {
     display: inline-block;
     float: right;
@@ -1671,7 +1669,8 @@ footer {
 }
 
 .imagegrid {
-  width: 100%;
+  width: 980px;
+  margin: auto;
   img {
     margin: 10px;
     max-height: 300px;
@@ -1902,6 +1901,10 @@ footer {
     }
   }
   .profile{ padding-top:30px;}
+  &.small {
+    width: 274px;
+    height: 300px;
+  }
 }
 
 .featurebox {
@@ -1939,7 +1942,7 @@ footer {
   }
   .normallist {
     float: left;
-    width: 280px;
+    width: 260px;
     margin-top: 10px;
     margin-left: 25px;
     li {

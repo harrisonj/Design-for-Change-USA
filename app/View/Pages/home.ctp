@@ -24,7 +24,7 @@
       <div class="partners">
         <div class="endorsed">Endorsed By...</div>
         <ul>
-            <li style="width: 320px;"><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/hgse.png" alt="logo" height="55"></a></li>
+            <li style="width: 370px;"><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/hgse.png" alt="logo" height="55"></a></li>
             <li><a href="https://www.teachforamerica.org" target="_new" style="padding-top: 10px"><img src="/images/partners/tfa.png" alt="logo" height="30"></a></li>
             <li class="short"><a href="https://www.youthventure.org/" target="_new"><img src="/images/partners/youthventures.png" alt="logo" height="60"></a></li>
             <li class="short"><a href="http://www.cityyear.org/" target="_new"><img src="/images/partners/cityyear.png" alt="logo" height="60"></a></li>

@@ -10,7 +10,7 @@
               </ul>
               <div class="clear"></div>
           </div>
-          <div class="label" style="width: 500px">
+          <div class="label" style="width: 488px">
               <ul>
                   <li><p>Sign up for our Newsletter</p></li>
                   <form class="searchbar" action="http://designforchange.us2.list-manage.com/subscribe/post?u=233ebb0aa3989a447582c85a1&amp;id=9d72463d1b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate="" _lpchecked="1">
