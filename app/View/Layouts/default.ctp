@@ -11,6 +11,8 @@
   <!-- SET: STYLESHEET -->
   <link href="/css/style.css?ref=<?php echo time() ?>" rel="stylesheet" type="text/css" media="all">
   <link href="/css/jquery-ui.css" rel="stylesheet" type="text/css" media="all">
+  <link href="/css/unslider.css" rel="stylesheet">
+  <link href="/css/unslider-dots.css" rel="stylesheet">
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <!-- END: STYLESHEET -->
 
@@ -20,7 +22,6 @@
     <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery-ui.min.js"></script>
     <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery.cycle.js"></script>
     <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery.youtubepopup.js"></script>
-    <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery.carousel.min.js"></script>
     <script type="text/javascript" src="/dfcusa/app/webroot/js/jquery.type.min.js"></script>
 
     <!-- END: SCRIPTS -->
@@ -116,6 +117,8 @@
   ga('create', 'UA-66631957-1', 'auto');
   ga('send', 'pageview');
 </script>
+
+<script src="/dfcusa/app/webroot/js/unslider-min.js"></script>
 
 <div id="loginForm" class="hide dialog">
   <div class="close">x</div>

@@ -450,7 +450,7 @@ nav {
 
 .feel {
   display: inline-block;
-  margin: -127px 0 0 35px;
+  margin: -127px 0 0 70px;
   padding: 0 0 46px 0; }
   .feel ul li {
     float: left;
@@ -916,7 +916,7 @@ footer {
         .inner_navigation ul li a.start {
           width: 100px; }
         .inner_navigation ul li a.stories {
-          width: 120px; }
+          width: 150px; }
         .inner_navigation ul li a.active {
           font-weight: bold; }
 
@@ -1529,22 +1529,14 @@ footer {
   font-weight: bold; }
 
 .fidsbox {
-  margin-right: 50px;
-  background-color: #ffffff;
+  margin-right: 25px;
   float: left;
   height: 210px;
   width: 220px;
-  border: 1px solid #f1f1f1;
   padding: 10px;
-  color: #666 !important;
+  color: #fff !important;
   font-size: 14px;
-  text-align: center;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
-  -webkit-box-shadow: 2px 2px 5px 0px rgba(50, 50, 50, 0.47);
-  -moz-box-shadow: 2px 2px 5px 0px rgba(50, 50, 50, 0.47);
-  box-shadow: 2px 2px 5px 0px rgba(50, 50, 50, 0.47); }
+  text-align: center; }
 
 .box_style_1 {
   padding: 15px 25px 5px 25px;
@@ -1560,6 +1552,7 @@ footer {
   float: right;
   width: 350px;
   height: 290px;
+  color: #666 !important;
   background-color: #fff; }
   .box_style_1 h4 {
     border-bottom: 1px solid #eaeff3;
@@ -1574,6 +1567,43 @@ footer {
       transition: all 0.4s ease; }
   .box_style_1 .profile {
     padding-top: 30px; }
+
+.featurebox {
+  width: 100%;
+  height: 250px;
+  float: left;
+  margin-top: 35px;
+  position: relative; }
+  .featurebox .title {
+    font-weight: bold;
+    font-size: 12pt;
+    text-transform: uppercase;
+    margin-left: -20px; }
+  .featurebox .bookcover {
+    float: left;
+    border-radius: 5px;
+    margin-right: 25px;
+    -webkit-box-shadow: 3px 4px 5px 0px #adadad;
+    -moz-box-shadow: 3px 4px 5px 0px #adadad;
+    box-shadow: 3px 4px 5px 0px #adadad; }
+  .featurebox .portalscreen {
+    float: left;
+    margin-left: 35px; }
+  .featurebox .challengebox {
+    float: left;
+    margin-left: 60px;
+    border-radius: 5px;
+    margin-right: 25px;
+    -webkit-box-shadow: 3px 4px 5px 0px #adadad;
+    -moz-box-shadow: 3px 4px 5px 0px #adadad;
+    box-shadow: 3px 4px 5px 0px #adadad; }
+  .featurebox .normallist {
+    float: left;
+    width: 280px;
+    margin-top: 10px;
+    margin-left: 25px; }
+    .featurebox .normallist li {
+      font-size: 12pt !important; }
 
 .pricingbox {
   width: 300px;

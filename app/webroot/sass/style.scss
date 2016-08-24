@@ -560,7 +560,7 @@ box-shadow: 6px -1px 5px -1px rgba(0,0,0,0.75);
 
 .feel {
   display: inline-block;
-  margin: -127px 0 0 35px;
+  margin: -127px 0 0 70px;
   padding: 0 0 46px 0;
   ul li {
     float: left;
@@ -1125,7 +1125,7 @@ footer {
           width: 100px;
         }
         &.stories {
-          width: 120px;
+          width: 150px;
         }
         &.active {
           font-weight: bold;
@@ -1862,22 +1862,14 @@ footer {
 }
 
 .fidsbox {
-  margin-right: 50px;
-  background-color: #ffffff;
+  margin-right: 25px;
   float: left;
   height: 210px; 
   width: 220px; 
-  border: 1px solid #f1f1f1; 
   padding: 10px; 
-  color: #666 !important;
+  color: #fff !important;
   font-size: 14px; 
   text-align: center; 
-  -webkit-border-radius: 5px; 
-  -moz-border-radius: 5px; 
-  border-radius: 5px;
-  -webkit-box-shadow: 2px 2px 5px 0px rgba(50, 50, 50, 0.47);
-  -moz-box-shadow:    2px 2px 5px 0px rgba(50, 50, 50, 0.47);
-  box-shadow:         2px 2px 5px 0px rgba(50, 50, 50, 0.47);
 }
 
 .box_style_1{
@@ -1894,6 +1886,7 @@ footer {
   float: right;
   width: 350px;
   height: 290px;
+  color: #666 !important;
   background-color:#fff;
   h4{
     border-bottom: 1px solid #eaeff3;
@@ -1909,6 +1902,50 @@ footer {
     }
   }
   .profile{ padding-top:30px;}
+}
+
+.featurebox {
+  width: 100%;
+  height: 250px;
+  float: left;
+  margin-top: 35px;
+  position: relative;
+  .title {
+    font-weight: bold;
+    font-size: 12pt;
+    text-transform: uppercase;
+    margin-left: -20px;
+  }
+  .bookcover {
+    float: left;
+    border-radius: 5px;
+    margin-right: 25px;
+    -webkit-box-shadow: 3px 4px 5px 0px rgba(173,173,173,1);
+    -moz-box-shadow: 3px 4px 5px 0px rgba(173,173,173,1);
+    box-shadow: 3px 4px 5px 0px rgba(173,173,173,1);  
+  }
+  .portalscreen {
+    float: left;
+    margin-left: 35px;
+  }
+  .challengebox {
+    float: left;
+    margin-left: 60px;
+    border-radius: 5px;
+    margin-right: 25px;
+    -webkit-box-shadow: 3px 4px 5px 0px rgba(173,173,173,1);
+    -moz-box-shadow: 3px 4px 5px 0px rgba(173,173,173,1);
+    box-shadow: 3px 4px 5px 0px rgba(173,173,173,1);  
+  }
+  .normallist {
+    float: left;
+    width: 280px;
+    margin-top: 10px;
+    margin-left: 25px;
+    li {
+      font-size: 12pt !important;
+    }
+  }
 }
 
 .pricingbox {

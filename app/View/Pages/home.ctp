@@ -6,7 +6,7 @@
           AND DO GOOD.</h2>
           <div class="clear"></div>
           <br/><br/>
-          <a class="yellow_button" href="/pages/what/whatwedo">LEARN HOW</a>
+          <a class="yellow_button" href="/pages/howitworks">LEARN HOW</a>
           <div class="clear"></div>
       </div>
   </div>
@@ -43,8 +43,8 @@
           <div class="inner1_design">
               <img src="/images/whoarewe.png" width="400" height="245" alt="img">
               <div class="we_are">
-                  <h2>How Does It Work</h2>
-                  <p>Young people from around the country do projects in their community that not only improve lives but help them build their character.</p>
+                  <h2>How It Works</h2>
+                  <p>Young people from around the United States do projects in their community that not only improve lives but help them build their character. <a style="color: blue" href="/dfcusa/pages/howitworks">Learn more...</a></p>
               </div>
               <div class="clear"></div>
           </div>
@@ -101,12 +101,12 @@
                 <img src="/images/flipboard_6.png" width="495" alt="tx_img">
                 <img src="/images/flipboard_7.png" width="495" alt="tx_img">
               </div>
-              <h2>To Help Young People Be The Change Through</h2>
+              <h2 style="margin-bottom: -40px">To Help Young People Be The Change<br/><font style="font-size: 16pt">We do this through...</font></h2>
               <div class="inner_tools">
                   <ul>
                       <li>
                           <h3>training</h3>
-                          <p>In person or online training for mentors and teachers. Get trained on the DFC approach and be able to start projects in hours.</p>
+                          <p>In person or online training for teachers and mentors on the DFC approach so they can get start projects with their students in just hours.</p>
                       </li>
                       <li>
                           <h3>curriculum</h3>
@@ -114,7 +114,7 @@
                       </li>
                       <li class="last">
                           <h3>support</h3>
-                          <p>Easy to use web portal for managing projects, case studies with impact analyses, regular webinars and a toolkit to get started easily.</p>
+                          <p>Easy to use web portal including project management tools, case studies with impact analyses, webinars and a handy toolkit to get started easily!</p>
                       </li>
                   </ul>
                   <div class="clear"></div>
