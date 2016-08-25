@@ -2,9 +2,9 @@
   <div class="contents">
     <h1>Winning Stories of Change</h1>
     <div style="height: 820px; margin-top: 50px">
-      <table width="100%">
+      <table>
         <tr>
-          <td style="height: 455px" align="left">
+          <td style="height: 455px" align="left" width="430">
             <div class="box_style_1" style="height: 355px; float: none">
               <h4><a href="#">2016 Winner</a></h4>
               <div class="media" style="height: 220px">
