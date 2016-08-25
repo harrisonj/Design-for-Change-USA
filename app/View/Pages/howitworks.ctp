@@ -24,37 +24,37 @@
   </div>
 </div>
 
-<div class="insidepage block7" style="padding-top: 25px; margin-top: 0px">
+<div class="insidepage block7" style="padding-top: 55px; margin-top: 0px">
   <div class="contents">
-    <div style="height: 380px">
+    <div style="height: 420px">
       <h1>The Methodology</h1>
       <p class="normaltext">Design Thinking is a process of creating new and innovative ideas to solve a problem. Design for Change takes young people through 4 stages:</p>
       <br/>
       <div style="width: 1200px; margin: auto">
         <div class="fidsbox">
           <img src="/dfcusa/app/webroot/images/feel_arrow.png" style="width: 150px;">
-          <div style="text-align: center; margin-top: 15px"><b>Feel</b><br/>Young people observe and list the issues in their community that bother them.</div>
+          <div style="text-align: center; margin-top: 15px; line-height: 16pt"><b>Feel</b><br/>Young people observe and list the issues in their community that bother them.</div>
         </div>
         <div class="fidsbox">
           <img src="/dfcusa/app/webroot/images/imagine_arrow.png" style="width: 150px;">
-          <div style="text-align: center; margin-top: 27px"><b>Imagine</b><br/>They interact with folks in their community to identify points of intervention and solutions.</div>
+          <div style="text-align: center; margin-top: 27px; line-height: 16pt"><b>Imagine</b><br/>They interact with folks in their community to identify points of intervention and solutions.</div>
         </div>
         <div class="fidsbox">
           <img src="/dfcusa/app/webroot/images/do_arrow.png" style="width: 150px;">
-          <div style="text-align: center; margin-top: 15px"><b>Do</b><br/>They develop and implement an action plan, keeping in mind resources, budget and time.</div>
+          <div style="text-align: center; margin-top: 15px; line-height: 16pt"><b>Do</b><br/>They develop and implement an action plan, keeping in mind resources, budget and time.</div>
         </div>
         <div class="fidsbox">
           <img src="/dfcusa/app/webroot/images/share_arrow.png" style="width: 150px;">
-          <div style="text-align: center; margin-top: 27px"><b>Share</b><br/>They share their story of change and inspire others to get involved or do their own project.</div>
+          <div style="text-align: center; margin-top: 27px; line-height: 16pt"><b>Share</b><br/>They share their story of change and inspire others to get involved or do their own project.</div>
         </div>
       </div>
     </div>
   </div>
 </div>
 
-<div class="insidepage" style="background-color: #f1f1f1; margin-top: 0px; padding-top: 25px;">
+<div class="insidepage" style="background-color: #f1f1f1; margin-top: 0px; padding-top: 55px;">
   <div class="contents">
-    <div style="height: 530px">
+    <div style="height: 700px">
       <h1>The Do Good Be Good Program</h1>
       <p class="normaltext">Working with Design for Change is easy. We offer everything from free activities to comprehensive program management.</p>
       <div class="featurebox">
@@ -92,9 +92,9 @@
   </div>
 </div>
 
-<div class="insidepage block2" style="margin-top: 0px; padding-top: 45px; height: 450px">
+<div class="insidepage block2" style="margin-top: 0px; padding-top: 55px; height: 450px">
   <div class="contents">
-    <div style="height: 530px">
+    <div style="height: 550px">
       <h1>The Global Challenge</h1>
       <p class="normaltext">Every year, teams submit their projects in video form to be judged by a panel of experts (by May 15, 2016). The winning team is awarded an all expenses trip to the The DFC Global Conference that brings together teams from across the world to share and celebrate their projects, and most importantly, inspire others! This two day event is filled with presenters, interactive workshops, music, fun and games!</p>
       <br/>
@@ -108,7 +108,7 @@
   </div>
 </div>
 
-<div class="insidepage hide" style="background-color: #f1f1f1; margin-top: 0px; padding-top: 25px;">
+<div class="insidepage hide" style="background-color: #f1f1f1; margin-top: 0px; padding-top: 55px;">
   <div class="contents">
     <div style="height: 530px">
       <h1>The Do Good Be Good Program</h1>
@@ -156,9 +156,9 @@
   </div>
 </div>
 
-<div class="insidepage block7" style="margin-top: 0px; padding-top: 25px">
+<div class="insidepage block7" style="margin-top: 0px; padding-top: 55px">
   <div class="contents">
-    <div style="height: 900px">
+    <div style="height: 920px">
       <h1>Winning Stories of Change</h1>
       <br/><br/><br/><br/><br/>
       <table width="600px" height="100%" style="margin-left: auto; margin-right: auto">
