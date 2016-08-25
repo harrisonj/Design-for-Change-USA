@@ -28,9 +28,7 @@
           <div class="ft_logo"><a href="#"><img src="/images/inner_logo.png" width="126" alt="logo"></a></div>
           <div class="ft_nav">
               <ul>
-                  <li><a href="/pages/start/volunteer">Volunteer</a></li>
-                  <li><a href="/pages/who/press">Press</a></li>
-                  <li><a href="/pages/who/contactus">Contact Us</a></li>
+                  <li><a href="/pages/aboutus#contactus">Contact Us</a></li>
                   <li class="br"><a href="http://www.dfcworld.com" target="_new">DFC World</a></li>
               </ul>
               <div class="clear"></div>
