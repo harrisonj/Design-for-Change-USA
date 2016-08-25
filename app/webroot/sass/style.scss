@@ -1575,9 +1575,9 @@ footer {
 }
 
 .profileSection {
-  margin-bottom: 40px;
+  height: 120px;
   b {
-    font-size: 12pt;
+    font-size: 10pt;
   }
   img {
     width: 100px;
@@ -1587,10 +1587,12 @@ footer {
   }
   .normaltext {
     margin-left: 110px !important;
+    font-size: 10pt !important;
+    line-height: 15pt;
     a {
       margin-top: 5px;
       margin-bottom: 5px;
-      color: #3366cc;
+      color: #fff;
     }
   }
 }

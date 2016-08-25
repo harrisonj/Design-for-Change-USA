@@ -86,7 +86,13 @@
   </div>
 </div>
 
-<div class="insidepage block2" style="margin-top: 0px; padding-top: 25px; height: 450px">
+<div class="insidepage block7" style="background-color: #ce305a; margin-top: 0px; height: 50px; padding-top: 25px">
+  <div class="contents">
+    <p class="normaltext"><center><a href="/dfcusa/pages/aboutus#contactus" style="color: #fff; font-size: 15pt"><b>Interested in learning more about the program?</b></a></center></p>
+  </div>
+</div>
+
+<div class="insidepage block2" style="margin-top: 0px; padding-top: 45px; height: 450px">
   <div class="contents">
     <div style="height: 530px">
       <h1>The Global Challenge</h1>

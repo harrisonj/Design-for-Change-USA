@@ -3,7 +3,7 @@
     <div style="height: 470px;">
       <h1>2016 Jury Selection</h1>
       <div style="float: left; width: 50%;">
-        <p class="normaltext">The judges have selected the <b>"Supporting Refugees in Our Community"</b> project by students from the <a href="http://www.exploris.org/" target="_new">Exploris School</a> in Raleigh, NC to represent DFC USA at the annual DFC Global Conference “Be The Change” in Beijing, China in December 2016!</p>
+        <p class="normaltext">The judges selected the <b>"Supporting Refugees in Our Community"</b> project by students from the <a href="http://www.exploris.org/" target="_new">Exploris School</a> in Raleigh, NC to represent DFC USA at the annual DFC Global Conference “Be The Change” in Beijing, China in December 2016!</p>
       </div>
       <div class="box_style_1" style="margin-right: 25px; height: 355px">
         <h4><a href="#">2016 Winner</a></h4>
@@ -53,7 +53,7 @@
     <div style="height: 490px;">
       <h1>2015 Jury Selection</h1>
       <div style="float: left; width: 50%;">
-        <p class="normaltext">The judges have selected the <b>"Winthrop School City Year Starfish Program"</b> of Dorchester, MA to represent DFC USA at the annual DFC Global Conference “Be The Change” in Monterrey, Mexico in September 2015!</p>
+        <p class="normaltext">The judges selected the <b>"Winthrop School City Year Starfish Program"</b> of Dorchester, MA to represent DFC USA at the annual DFC Global Conference “Be The Change” in Monterrey, Mexico in September 2015!</p>
       </div>
       <div class="box_style_1" style="margin-right: 25px; height: 355px">
         <h4><a href="#">2015 Winner</a></h4>
@@ -103,7 +103,7 @@
     <div style="height: 490px;">
       <h1>2014 Jury Selection</h1>
       <div style="float: left; width: 50%;">
-        <p class="normaltext">The judges have selected the <b>"Charles Rice Learning Center"</b> of Dallas, TX to represent DFC USA at the annual DFC Global Conference “Be The Change” in Ahmedabad, India in September 2014!</p>
+        <p class="normaltext">The judges selected the <b>"Charles Rice Learning Center"</b> of Dallas, TX to represent DFC USA at the annual DFC Global Conference “Be The Change” in Ahmedabad, India in September 2014!</p>
       </div>
       <div class="box_style_1" style="margin-right: 25px; height: 355px">
         <h4><a href="#">2014 Winner</a></h4>
@@ -153,7 +153,7 @@
     <div style="height: 380px;">
       <h1>2013 Jury Selection</h1>
       <div style="float: left; width: 50%;">
-        <p class="normaltext">The judges have selected the <b>"Crazy Horse School"</b> of Pine Ridge, SD to represent DFC USA at the annual DFC Global Conference “Be The Change” in Ahmedabad, India in September 2013!</p>
+        <p class="normaltext">The judges selected the <b>"Crazy Horse School"</b> of Pine Ridge, SD to represent DFC USA at the annual DFC Global Conference “Be The Change” in Ahmedabad, India in September 2013!</p>
 
       </div>
       <div class="box_style_1" style="margin-right: 25px; height: 355px">

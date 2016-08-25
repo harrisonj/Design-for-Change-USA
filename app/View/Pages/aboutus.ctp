@@ -1,7 +1,5 @@
-<?php echo $this->element('who'); ?>
-
-<div class="insidepage">
-  <div class="contents" style="height: 500px; border-bottom: 1px solid #f1f1f1;">
+<div class="insidepage" style="margin-top: 65px">
+  <div class="contents" style="height: 550px">
     <div class="box_style_1" style="float: right; margin-top: 60px; margin-left: 40px">
       <h4><a href="#">Kiran Sethi - Kids, Take Charge</a></h4>
       <div class="media" style="height: 220px">
@@ -19,4 +17,83 @@
 
   </div>
 </div>
+
+<div class="insidepage block7" style="padding-top: 45px; margin-top: 0px">
+  <div class="contents">
+    <div style="height: 750px">
+      <h1>Our Team</h1>
+      <p class="normaltext">We are Design for Change USA, a nonprofit organization based in Cambridge, MA -- the U.S. partner of the worldwide Design for Change network.</p>
+      <br/>
+      <div style="margin: auto; width: 100%;">
+        <div class="profileSection" style="margin-bottom: 70px">
+          <img width="95" alt="" src="/images/team/sanjli.png">
+          <div class="normaltext">
+            <b>Sanjli Gidwaney - Director</b><br>
+            <a href="mailto:sanjli@designforchange.us" style="color: #fff">sanjli@designforchange.us</a><br>
+            Sanjli recently graduated from the Harvard Graduate School of Education, with a focus on curriculum design and non-profit management. Sanjli manages a national team of designers, educators and technologists and has forged partnerships with notable organizations such as Teach for America and Strong Women Strong Girls and Ashoka, Harvard’s Good Work Team and Stanford Design School. She has also collaborated with research groups at MIT’s Media Lab, industrial design firms and various NGOs to develop and conduct several hands on creativity workshops for children around the world including India, Kenya and the Dominican Republic. She believes in a pedagogy embedded in experiential learning and cross-curricular approaches. 
+          </div>
+        </div>
+
+        <h1>Our Advisors</h1>
+
+        <table>
+          <tr valign="top">
+            <td width="50%">
+              <div class="profileSection">
+                <img alt="" src="/images/team/johncollins.png">
+                <div class="normaltext">
+                  <b>John Collins</b><br>
+                  <i>Formerly Faculty Director, Special Studies<br/>Harvard Graduate School of Education</i><br/>
+                </div>
+              </div>
+
+              <div class="profileSection">
+                <img alt="" src="/images/team/christianlong.png">
+                <div class="normaltext">
+                  <b>Christian Long</b><br>
+                  <i>Co-Founder<br/>Wonder: A Learning and Design Expedition</i><br/>
+                </div>
+              </div>
+
+              <div class="profileSection">
+                <img alt="" src="/images/team/adampisoni.png">
+                <div class="normaltext">
+                  <b>Adam Pisoni</b><br>
+                  <i>Founder<br/>Abl Schools, Yammer (Microsoft)</i><br/>
+                </div>
+              </div>
+            </td>
+            <td>
+              <div class="profileSection">
+                <img alt="" src="/images/team/mark.png">
+                <div class="normaltext">
+                  <b>Mark Silberberg</b><br>
+                  <i>Director of Learning & Innovation<br/>Little Red School House & Elisabeth Irwin High School (NYC)</i><br/>
+                </div>
+              </div>
+
+              <div class="profileSection">
+                <img alt="" src="/images/team/erin.png">
+                <div class="normaltext">
+                  <b>Erin Threlfall</b><br>
+                  <i>Director of Service Learning<br/>United Nations International School (New York)</i><br/>
+                </div>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="insidepage block2" style="padding-top: 45px; margin-top: 0px">
+    <div class="contents">
+      <h1><a name="contactus" style="color: #fff">Contact Us</a></h1>
+      <p class="normaltext">Please fill out this form and we'll get back to you as soon as possible.</p>
+      <script type="text/javascript" src="http://www.formstack.com/forms/js.php?1247059-87vPeOVIxy-v3"></script><noscript><a href="http://www.formstack.com/forms/?1247059-87vPeOVIxy" title="Online Form">Online Form - Design for Change - Contact Us</a></noscript><div style="text-align:right; font-size:x-small;"></div>
+    </div>
+  </div>
+
+
 <div class="clear"></div>
