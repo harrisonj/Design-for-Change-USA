@@ -96,7 +96,7 @@
   <div class="contents">
     <div style="height: 550px">
       <h1>The Global Challenge</h1>
-      <p class="normaltext">Every year, teams submit their projects in video form to be judged by a panel of experts (by May 15, 2016). The winning team is awarded an all expenses trip to the The DFC Global Conference that brings together teams from across the world to share and celebrate their projects, and most importantly, inspire others! This two day event is filled with presenters, interactive workshops, music, fun and games!</p>
+      <p class="normaltext">Every year, teams submit their projects in video form to be judged by a panel of experts. The winning team is awarded an all expenses trip to the The DFC Global Conference that brings together teams from across the world to share and celebrate their projects, and most importantly, inspire others! This two day event is filled with presenters, interactive workshops, music, fun and games!</p>
       <br/>
       <div class="imagegrid">
         <img src="/dfcusa/app/webroot/pics/btc/pic-btc7.jpg" width="300" height="200">
