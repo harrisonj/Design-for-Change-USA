@@ -1,4 +1,4 @@
-<div class="insidepage" style="margin-top: 65px">
+<div class="insidepage" style="margin-top: 80px">
   <div class="contents" style="height: 550px">
     <div class="box_style_1" style="float: right; margin-top: 60px; margin-left: 40px">
       <h4><a href="#">Kiran Sethi - Kids, Take Charge</a></h4>

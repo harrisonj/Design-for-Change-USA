@@ -1,5 +1,5 @@
 
-<div class="insidepage" style="margin-top: 65px">
+<div class="insidepage" style="margin-top: 80px">
   <div class="contents">
     <div style="height: 365px;">
       <h1>How It Works</h1>
