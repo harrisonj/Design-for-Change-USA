@@ -52,6 +52,15 @@
   </div>
 </div>
 
+<div class="insidepage block7" style="background-color: #fff; margin-top: 0px; height: 50px; padding-top: 25px">
+  <div class="contents">
+    <p class="normaltext">
+      <img src="/images/partners/hgse.png" alt="logo" height="55" style="float: left; margin-top: -10px; margin-right: 15px">
+      <a href="/dfcusa/pages/impact" style="color: #666; font-size: 10pt; float: left">The Harvard Graduate School of Education has studied Design for Change and shown tremendous impact. Learn more...</a>
+    </p>
+  </div>
+</div>
+
 <div class="insidepage" style="background-color: #f1f1f1; margin-top: 0px; padding-top: 55px;">
   <div class="contents">
     <div style="height: 700px">
