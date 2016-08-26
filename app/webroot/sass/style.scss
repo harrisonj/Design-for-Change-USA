@@ -1118,16 +1118,21 @@ footer {
           width: 120px;
         }
         &.who {
-          width: 100px;
+          width: 75px;
+          padding-right: 40px;
         }
         &.start {
           width: 100px;
         }
         &.stories {
-          width: 150px;
+          width: 140px;
         }
         &.active {
           font-weight: bold;
+        }
+        &.login {
+          width: 75px;
+          padding-right: 40px;
         }
         span! {}
       }
@@ -1956,12 +1961,13 @@ footer {
 }
 
 .pricingbox {
-  width: 300px;
+  width: 320px;
   height: 370px;
   border: 1px solid #1dd7b2;
   background-color: #fff;
   float: left;
-  margin: 35px;
+  margin: 12px;
+  margin-top: 35px;
   position: relative;
   h2 {
     font-size: 16pt;
@@ -1977,6 +1983,7 @@ footer {
     li {
       width: 240px;
       font-size: 10pt !important;
+      color: #666 !important;
       line-height: 18px;
       margin-bottom: 5px !important;
     }
@@ -1990,23 +1997,27 @@ footer {
     font-size: 13pt;
     color: #1dd7b2;
   }
-  .button-outline {
-    border: none;
-    background: none;
-    color: #1dd7b2;
-    border: 2px solid #1dd7b2;
-    padding: 5px 10px;
-    text-decoration: none;
-    transition: .5s ease;
-    -moz-transition: .5s ease;
-    -webkit-transition: .5s ease;
-    -o-transition: .5s ease;
-    display: inline-block;
-    cursor: pointer;
-    outline: none;
-    font-weight: 700;
-    text-transform: uppercase;
-    margin-bottom: 20px;
-    -webkit-font-smoothing: antialiased;
+}
+
+.button-outline {
+  border: none;
+  background: none;
+  color: #1dd7b2;
+  border: 2px solid #1dd7b2;
+  padding: 5px 10px;
+  text-decoration: none;
+  transition: .5s ease;
+  -moz-transition: .5s ease;
+  -webkit-transition: .5s ease;
+  -o-transition: .5s ease;
+  display: inline-block;
+  cursor: pointer;
+  outline: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  -webkit-font-smoothing: antialiased;
+  &.white {
+    background-color: #fff;
   }
 }

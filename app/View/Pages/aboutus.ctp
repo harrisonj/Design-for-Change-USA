@@ -87,13 +87,28 @@
   </div>
 </div>
 
-  <div class="insidepage block2" style="padding-top: 45px; margin-top: 0px">
-    <div class="contents">
-      <h1><a name="contactus" style="color: #fff">Contact Us</a></h1>
-      <p class="normaltext">Please fill out this form and we'll get back to you as soon as possible.</p>
-      <script type="text/javascript" src="http://www.formstack.com/forms/js.php?1247059-87vPeOVIxy-v3"></script><noscript><a href="http://www.formstack.com/forms/?1247059-87vPeOVIxy" title="Online Form">Online Form - Design for Change - Contact Us</a></noscript><div style="text-align:right; font-size:x-small;"></div>
+<div class="insidepage block2" style="padding-top: 45px; margin-top: 0px; height: 1050px">
+  <div class="contents">
+    <h1><a name="contactus" style="color: #fff">Contact Us</a></h1>
+    <p class="normaltext">Please fill out this form and we'll get back to you as soon as possible.</p>
+    <script type="text/javascript" src="http://www.formstack.com/forms/js.php?1247059-87vPeOVIxy-v3"></script><noscript><a href="http://www.formstack.com/forms/?1247059-87vPeOVIxy" title="Online Form">Online Form - Design for Change - Contact Us</a></noscript><div style="text-align:right; font-size:x-small;"></div>
+  </div>
+</div>
+
+<div class="insidepage block7" style="padding-top: 45px; margin-top: 0px">
+  <div class="contents">
+    <div style="height: 600px">
+      <h1>Working With Design for Change</h1>
+      <p class="normaltext"><i>Making the world a better place is within reach for all of us. All we need is the right spirit and the right resources (both of which we can help with).</i></p>
+      <Br/><Br/>
+      <p class="normaltext"><b>We Help Shape Better Change Makers</b><br/>Empathy is at the heart of the DFC experience. We encourage our participants to understand another perspective and design for change. We help young people connect great ideas with hard work and recognize the power they have to build their character.</p>
+      <Br/><Br/>
+      <p class="normaltext"><b>We Are Your Partner</b><br/>The DFC team helps educators and mentors be prepared to promote design thinking and service learning in their schools and organizations. Whether it’s getting others on board, or reminding teachers that they ARE making a difference, we provide evidence that this works and it makes a difference.</p>
+      <Br/><Br/>
+      <p class="normaltext"><b>We Give Time Back</b><br/>We know that teachers and mentors are already doing more with less so our goal isn’t to add more things - or make them more complex - but rather find new and simpler ways of creating better Change Makers.  Our focus on easy to adopt frameworks and integrating Design Thinking into existing curriculum will help get more out of what our partners are already doing.</p>
     </div>
   </div>
+</div>
 
 
 <div class="clear"></div>

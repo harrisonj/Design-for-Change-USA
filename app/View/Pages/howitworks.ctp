@@ -65,7 +65,7 @@
           <li>Each activity is 30 or 60 minutes</li>
           <li>Teach 21st century skills like empathy, creativity, collaboration, critical thinking and more</li>
         </ul>
-        <img src="/dfcusa/app/webroot/images/portal.png" class="portalscreen" width="300">
+        <img src="/dfcusa/app/webroot/images/videopreview.png" class="bookcover" width="250" style="margin-left: 30px">
         <ul class="normallist">
           <span class="title">Resources</span>
           <li>Web platform that helps mentors through each step</li>
@@ -104,54 +104,6 @@
         <img src="/dfcusa/app/webroot/pics/btc/pic-btc6.jpg" width="300" height="200">
       </div>
       <div class="clear"></div>
-    </div>
-  </div>
-</div>
-
-<div class="insidepage hide" style="background-color: #f1f1f1; margin-top: 0px; padding-top: 55px;">
-  <div class="contents">
-    <div style="height: 530px">
-      <h1>The Do Good Be Good Program</h1>
-      <p class="normaltext">Working with Design for Change is easy. We offer everything from free activities to comprehensive program management.</p>
-      <div class="pricingbox">
-        <h2>Team</h2>
-        <ul class="normallist">
-          <li>All Activities</li>
-          <li>Web Tools</li>
-          <li>E-mail and Chat Assistance </li>
-          <li>Monthly Public Webinar</li>
-        </ul>
-        <p class="price">
-          <a href="#" class="button-outline">Sign Up</a><br/>
-          Free
-        </p>
-      </div>
-      <div class="pricingbox">
-        <h2>Team +</h2>
-        <ul class="normallist">
-          <li>All Activities</li>
-          <li>Web Tools</li>
-          <li>E-mail and Chat Assistance </li>
-          <li><i>Remote Training Workshops</i></li>
-        </ul>
-        <p class="price">
-          <a href="#" class="button-outline">Contact Us</a><br/>
-          $100 / month
-        </p>
-      </div>
-      <div class="pricingbox">
-        <h2>Network Partner</h2>
-        <ul class="normallist">
-          <li><i>Customized Activities</i></li>
-          <li><i>Co-branded Web Tools and Activities</i></li>
-          <li><i>Customized Onsite Training and Adoption Plans</i></li>
-          <li><i>Private Monthly Webinar and Phone Support</i></li>
-        </ul>
-        <p class="price">
-          <a href="#" class="button-outline">Contact Us</a><br/>
-          $1,000 / month
-        </p>
-      </div>
     </div>
   </div>
 </div>

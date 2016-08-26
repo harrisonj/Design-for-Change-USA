@@ -1,10 +1,10 @@
 <div class="insidepage" style="margin-top: 80px">
   <div class="contents">
     <h1>Winning Stories of Change</h1>
-    <div style="height: 820px; margin-top: 50px">
-      <table>
+    <div style="height: 840px; margin-top: 50px">
+      <table width="100%">
         <tr>
-          <td style="height: 455px" align="left" width="430">
+          <td style="height: 455px" align="center">
             <div class="box_style_1" style="height: 355px; float: none">
               <h4><a href="#">2016 Winner</a></h4>
               <div class="media" style="height: 220px">
@@ -14,7 +14,7 @@
               <div style="float: right; margin-top: 20px; width: 200px">"Supporting Refugees in Our Community"<Br/>By Exploris School, Raleigh, NC</div>
             </div>
           </td>
-          <td align="left">
+          <td align="center">
             <div class="box_style_1" style="height: 355px; float: none">
               <h4><a href="#">2015 Winner</a></h4>
               <div class="media" style="height: 220px">
@@ -26,7 +26,7 @@
           </td>
         </tr>
         <tr>
-          <td align="left">
+          <td align="center">
             <div class="box_style_1" style="height: 355px; float: none">
               <h4><a href="#">2014 Winner</a></h4>
               <div class="media" style="height: 220px">
@@ -36,7 +36,7 @@
               <div style="float: right; margin-top: 20px; width: 200px">"Trap Houses"<Br/>By Charles Rice Learning Center (ACU), Dallas, TX</div>
             </div>
           </td>
-          <td align="left">
+          <td align="center">
             <div class="box_style_1" style="height: 355px; float: none">
               <h4><a href="#">2013 Winner</a></h4>
               <div class="media" style="height: 220px">
@@ -50,9 +50,9 @@
       </table>
     </div>
     <h1>2016 Runner Ups</h1>
-    <table style="margin-top: 75px">
+    <table style="margin-top: 75px" width="100%">
       <tr>
-        <td>
+        <td align="center">
           <div class="box_style_1 small" style="margin-right: 25px">
             <div class="media" style="height: 185px">
               <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/4DEONb-BpgU" webkitallowfullscreen="" width="270" height="178"></iframe>
@@ -60,7 +60,7 @@
             <b>LREI</b><br/><i>Choosing to Participate</i><br/>New York, NY
           </div>
         </td>
-        <td>
+        <td align="center">
           <div class="box_style_1 small" style="margin-right: 25px">
             <div class="media" style="height: 185px">
               <a href="/dfcusa/app/webroot/projects/The Perseverance and Grit Squad ppt 3.ppt" target="_new"><img src="/dfcusa/app/webroot/projects/washingtonelementary.png" width="270" height="178"></a>
@@ -68,7 +68,7 @@
             <b>Washington Elemetary</b><br/><i>The Perseverance and Grit Squad</i><br/>Sandpoint, ID 
           </div>
         </td>
-        <td>
+        <td align="center">
           <div class="box_style_1 small" style="margin-right: 25px">
             <div class="media" style="height: 185px">
               <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/sno8H4zM8M8" webkitallowfullscreen="" width="270" height="178"></iframe>
@@ -79,9 +79,9 @@
       </tr>
     </table>
     <h1>2015 Runner Ups</h1>
-    <table style="margin-top: 75px">
+    <table style="margin-top: 75px" width="100%">
       <tr>
-        <td>
+        <td align="center">
           <div class="box_style_1 small" style="margin-right: 25px">
             <div class="media" style="height: 185px">
               <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/2Kon6bVpFvo" webkitallowfullscreen="" width="270" height="178"></iframe>
@@ -89,7 +89,7 @@
             <b>Charles Rice Elementary</b><br/><i>Apology Notes</i><br/>Dallas, TX
           </div>
         </td>
-        <td>
+        <td align="center">
           <div class="box_style_1 small" style="margin-right: 25px">
             <div class="media" style="height: 185px">
               <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/127951335" webkitallowfullscreen="" width="270" height="178"></iframe>
@@ -97,7 +97,7 @@
             <b>LREI</b><br/><i>Child Life in American Pediatric Systems</i><br/>New York, NY
           </div>
         </td>
-        <td>
+        <td align="center">
           <div class="box_style_1 small" style="margin-right: 25px">
             <div class="media" style="height: 185px">
               <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/EUyr8rdivVk" webkitallowfullscreen="" width="270" height="178"></iframe>
@@ -108,9 +108,9 @@
       </tr>
     </table>
     <h1>2014 Runner Ups</h1>
-    <table style="margin-top: 75px">
+    <table style="margin-top: 75px" width="100%">
       <tr>
-        <td>
+        <td align="center">
           <div class="box_style_1 small" style="margin-right: 25px">
             <div class="media" style="height: 185px">
               <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/XZj5HGo6bXw" webkitallowfullscreen="" width="270" height="178"></iframe>
@@ -118,7 +118,7 @@
             <b>St. Anthony</b><br/><i>ABChange</i><br/>Dallas, TX
           </div>
         </td>
-        <td>
+        <td align="center">
           <div class="box_style_1 small" style="margin-right: 25px">
             <div class="media" style="height: 185px">
               <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/xsvPlTwnsYQ" webkitallowfullscreen="" width="270" height="178"></iframe>
@@ -126,7 +126,7 @@
             <b>Boston Community Leadership Academy</b><br/><i>Expect Respect</i><br/>Boston, MA
           </div>
         </td>
-        <td>
+        <td align="center">
           <div class="box_style_1 small" style="margin-right: 25px">
             <div class="media" style="height: 185px">
               <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/s7mOv4J2F2I" webkitallowfullscreen="" width="270" height="178"></iframe>
