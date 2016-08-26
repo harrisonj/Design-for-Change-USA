@@ -4,9 +4,9 @@
     <div style="height: 840px; margin-top: 50px">
       <table width="100%">
         <tr>
-          <td style="height: 455px" align="center">
+          <td style="height: 434px" align="right">
             <div class="box_style_1" style="height: 355px; float: none">
-              <h4><a href="#">2016 Winner</a></h4>
+              <h4 style="text-align: left"><a href="#">2016 Winner</a></h4>
               <div class="media" style="height: 220px">
                 <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/70YnAcqvq3E" webkitallowfullscreen="" width="350" height="225"></iframe>
               </div>
@@ -14,9 +14,9 @@
               <div style="float: right; margin-top: 20px; width: 200px">"Supporting Refugees in Our Community"<Br/>By Exploris School, Raleigh, NC</div>
             </div>
           </td>
-          <td align="center">
+          <td align="left">
             <div class="box_style_1" style="height: 355px; float: none">
-              <h4><a href="#">2015 Winner</a></h4>
+              <h4 style="text-align: left"><a href="#">2015 Winner</a></h4>
               <div class="media" style="height: 220px">
                 <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/QbrHVZ7yJ4w" webkitallowfullscreen="" width="350" height="225"></iframe>
               </div>
@@ -26,9 +26,9 @@
           </td>
         </tr>
         <tr>
-          <td align="center">
+          <td align="right">
             <div class="box_style_1" style="height: 355px; float: none">
-              <h4><a href="#">2014 Winner</a></h4>
+              <h4 style="text-align: left"><a href="#">2014 Winner</a></h4>
               <div class="media" style="height: 220px">
                 <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/jyEuqLSVMH0" webkitallowfullscreen="" width="350" height="225"></iframe>
               </div>
@@ -36,9 +36,9 @@
               <div style="float: right; margin-top: 20px; width: 200px">"Trap Houses"<Br/>By Charles Rice Learning Center (ACU), Dallas, TX</div>
             </div>
           </td>
-          <td align="center">
+          <td align="left">
             <div class="box_style_1" style="height: 355px; float: none">
-              <h4><a href="#">2013 Winner</a></h4>
+              <h4 style="text-align: left"><a href="#">2013 Winner</a></h4>
               <div class="media" style="height: 220px">
                 <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/jyEuqLSVMH0" webkitallowfullscreen="" width="350" height="225"></iframe>
               </div>
