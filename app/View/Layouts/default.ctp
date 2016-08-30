@@ -58,7 +58,7 @@
 
 </head>
 
-<body style="background-color: #FFF">
+<body>
 
 <!-- wrapper starts -->
   <div class="wrapper <?php if (($_SERVER['REQUEST_URI'] != '/') && (strpos($_SERVER['REQUEST_URI'], '/pages/home') == false)) { ?>inside<?php } ?>">
