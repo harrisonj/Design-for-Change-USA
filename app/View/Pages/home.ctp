@@ -13,8 +13,8 @@
 </section>
 <!-- Banner ends -->
 
-<div class="projectHeader hide" style="height: 100px">
-    <b><a href="/dfcusa/pages/stories/2016results" style="font-size: 19pt">Announcing the winner of DFC USA 2016!</a><br/><div class="small"><a href="/dfcusa/pages/stories/2016results" style="font-size: 14pt"><b>"Supporting Refugees in Our Community"</b> by The Exploris School in Raleigh, North Carolina.<Br/><i style="font-size: 10pt">Click to see their video...</i></a></div></b>
+<div class="projectHeader hide">
+    <b><a class="announcement" href="/dfcusa/pages/stories/2016results">Announcing the winner of DFC USA 2016!</a><br/><div class="small"><a href="/dfcusa/pages/stories/2016results"><b>"Supporting Refugees in Our Community"</b> by The Exploris School in Raleigh, North Carolina.<Br/><i>Click to see their video...</i></a></div></b>
 </div>
 
 <div class="main_content">
@@ -24,13 +24,13 @@
       <div class="partners">
         <div class="endorsed">Endorsed By...</div>
         <ul>
-            <li style="width: 370px;"><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/hgse.png" alt="logo" height="55"></a></li>
-            <li><a href="https://www.teachforamerica.org" target="_new" style="padding-top: 10px"><img src="/images/partners/tfa.png" alt="logo" height="30"></a></li>
-            <li class="short"><a href="https://www.youthventure.org/" target="_new"><img src="/images/partners/youthventures.png" alt="logo" height="60"></a></li>
-            <li class="short"><a href="http://www.cityyear.org/" target="_new"><img src="/images/partners/cityyear.png" alt="logo" height="60"></a></li>
-            <li><a href="http://www.ideo.com" target="_new" style="padding-top: 15px"><img src="/images/partners/ideo.png" alt="logo" height="30"></a></li>
+            <li><a href="http://www.goodworkproject.org/" target="_new"><img src="/images/partners/hgse.png" alt="logo" height="55"></a></li>
+            <li><a href="https://www.teachforamerica.org" target="_new"><img src="/images/partners/tfa.png" alt="logo" height="30"></a></li>
+            <li><a href="https://www.youthventure.org/" target="_new"><img src="/images/partners/youthventures.png" alt="logo" height="60"></a></li>
+            <li><a href="http://www.cityyear.org/" target="_new"><img src="/images/partners/cityyear.png" alt="logo" height="60"></a></li>
+            <li><a href="http://www.ideo.com" target="_new"><img src="/images/partners/ideo.png" alt="logo" height="30"></a></li>
         </ul>
-        <h3 class="inner_change" style="padding-bottom: 10px; display: none">
+        <h3 class="inner_change hide">
           Are you interested in partnerning with Design for Change USA or starting your own DFC Chapter in your commmunity? <a href="/dfcusa/pages/about/partners">Learn How.</a>
         </h3>
         <div class="clear"></div>

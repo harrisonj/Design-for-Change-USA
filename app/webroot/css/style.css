@@ -726,17 +726,15 @@ nav {
     padding: 20px 0 18px 0px;
     display: inline-block; }
     .partners ul li {
-      float: left;
       display: inline-block;
-      margin: 0 0px 0 0;
-      width: 200px;
-      text-align: center; }
-      .partners ul li.short {
-        width: 145px; }
+      margin: 0;
+      min-width: 200px;
+      text-align: center;
+      vertical-align: middle; }
       .partners ul li a {
         display: block; }
-      .partners ul li img {
-        padding: auto; }
+  .partners h3 {
+    padding-bottom: 10px; }
 
 /* ---------------------------------------------------------*/
 /* ------------------ FOOTER HERE --------------------------*/
@@ -913,7 +911,7 @@ footer {
           width: 120px; }
         .inner_navigation ul li a.who {
           width: 75px;
-          padding-right: 40px; }
+          padding-right: 15px; }
         .inner_navigation ul li a.start {
           width: 100px; }
         .inner_navigation ul li a.stories {
@@ -1044,6 +1042,8 @@ footer {
       margin: 0 0 0 0;
       letter-spacing: 0.5px;
       line-height: 31px; }
+      .inner1_design .we_are p a {
+        color: blue; }
 
 .inner_block2 {
   width: 100%;
@@ -1515,6 +1515,12 @@ footer {
 .projectHeader {
   height: 15px;
   background-color: #fff; }
+  .projectHeader .announcement {
+    font-size: 19pt; }
+  .projectHeader .small a {
+    font-size: 14pt; }
+  .projectHeader .small i {
+    font-size: 10pt; }
 
 #sub-header {
   color: #fff;
