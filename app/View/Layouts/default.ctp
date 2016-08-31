@@ -60,7 +60,7 @@
 
 </head>
 
-<body>
+<body class="<?php echo $this->params[pass][0]; ?>">
 
 <!-- wrapper starts -->
   <div class="wrapper <?php if (($_SERVER['REQUEST_URI'] != '/') && (strpos($_SERVER['REQUEST_URI'], '/pages/home') == false)) { ?>inside<?php } ?>">
