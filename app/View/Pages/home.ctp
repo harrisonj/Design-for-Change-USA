@@ -105,16 +105,22 @@
 					<div class="inner_tools">
 						<ul>
 							<li>
-								<h3>training</h3>
-								<p>In person or online training for teachers and mentors on the DFC approach so they can get start projects with their students in just hours.</p>
+								<div class="tools_content">
+									<h3>training</h3>
+									<p>In person or online training for teachers and mentors on the DFC approach so they can get start projects with their students in just hours.</p>
+								</div>
 							</li>
 							<li>
-								<h3>curriculum</h3>
-								<p>Dozens of easy to use activities for different age groups, each 30 or 60 minutes long and focused on specific 21st century skills.</a></p>
+								<div class="tools_content">
+									<h3>curriculum</h3>
+									<p>Dozens of easy to use activities for different age groups, each 30 or 60 minutes long and focused on specific 21st century skills.</a></p>
+								</div>
 							</li>
-							<li class="last">
-								<h3>support</h3>
-								<p>Easy to use web portal including project management tools, case studies with impact analyses, webinars and a handy toolkit to get started easily!</p>
+							<li>
+								<div class="tools_content">
+									<h3>support</h3>
+									<p>Easy to use web portal including project management tools, case studies with impact analyses, webinars and a handy toolkit to get started easily!</p>
+								</div>
 							</li>
 						</ul>
 						<div class="clear"></div>
