@@ -11,7 +11,7 @@
 		<div class="box_style_1">
 			<h4><a href="#">Kiran Sethi - Kids, Take Charge</a></h4>
 			<div class="media">
-				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html" webkitallowfullscreen="" width="350" height="225"></iframe>
+				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html" webkitallowfullscreen=""></iframe>
 			</div>
 		</div>
 	</div>
@@ -33,7 +33,7 @@
 
 		<h1>Our Advisors</h1>
 
-		<table>
+		<table class="profile-list">
 			<tr valign="top">
 				<td width="50%">
 					<div class="profileSection">

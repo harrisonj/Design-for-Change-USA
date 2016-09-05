@@ -2129,7 +2129,6 @@ footer {
 
 .featurebox {
 	width: 100%;
-	height: 250px;
 	float: left;
 	margin-top: 35px;
 	position: relative;
@@ -2171,14 +2170,20 @@ footer {
 	}
 }
 
+.pricing-container {
+	text-align: center;
+	.pricing-spacer {
+		padding: 35px 12px 12px;
+		display: inline-block;
+		vertical-align: top;
+	}
+}
+
 .pricingbox {
-	width: 320px;
+	max-width: 320px;
 	height: 370px;
 	border: 1px solid #1dd7b2;
 	background-color: #fff;
-	float: left;
-	margin: 12px;
-	margin-top: 35px;
 	position: relative;
 	h2 {
 		font-size: 16pt;
@@ -2192,7 +2197,7 @@ footer {
 		padding-left: 20px;
 		padding-top: 0px;
 		li {
-			width: 240px;
+			max-width: 240px;
 			font-size: 10pt !important;
 			color: #666 !important;
 			line-height: 18px;
@@ -2337,12 +2342,19 @@ button.hamburger {
 	display: none;
 }
 
+.footer_bot {
+	height: initial;
+}
+
 @media only screen and (max-width: 1024px){
 	.partners ul li {
 		margin: 5px 0;
 	}
 	.feel ul li {
 		width: 200px;
+	}
+	.inner1_design {
+		padding-bottom: 50px;
 	}
 	.inner_tools ul li {
 		width: 200px;
@@ -2355,10 +2367,44 @@ button.hamburger {
 			padding: 14px 20px; 
 		}
 	}
+	.insidepage.no_spacing .box_style_1 {
+		margin-top: 10px;
+	}
+	.howitworks .box-container .fidsbox,
+	.stories .box-container .fidsbox,
+	.aboutus .box-container .fidsbox {
+		width: 25%;
+		box-sizing: border-box;
+		display: block;
+		float: left;
+		margin: 0;
+	}
+	.featurebox {
+		height: auto;
+	}
+	.pricing-container .pricing-spacer {
+		width: 33.33%;
+		box-sizing: border-box;
+		display: block;
+		float: left;
+	}
+	.pricingbox .normallist {
+		margin: 10px 0 20px;
+		padding-left: 0;
+		height: 440px;
+	}
+	.pricingbox .normallist li {
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.howitworks .insidepage .winning-stories .box_style_2 iframe, .stories .insidepage .winning-stories .box_style_2 iframe, .aboutus .insidepage .winning-stories .box_style_2 iframe {
+		min-height: initial;
+	}
 }
 
 @media only screen and (max-width: 980px) {
-	.container {
+	.container,
+	.insidepage .contents {
 		margin-left: 48px;
 		margin-right: 48px;
 	}
@@ -2397,6 +2443,17 @@ button.hamburger {
 	.footer_top .label {
 		float: none;
 	}
+	.insidepage.no_spacing .box_style_1 {
+		box-sizing: border-box;
+	}
+	.howitworks .insidepage .winning-stories .box_style_2 p, .stories .insidepage .winning-stories .box_style_2 p, .aboutus .insidepage .winning-stories .box_style_2 p {
+		max-width: 100%;
+	}
+	.howitworks .insidepage .winning-stories .story_logo, .stories .insidepage .winning-stories .story_logo, .aboutus .insidepage .winning-stories .story_logo {
+		float: none;
+		margin: 20px auto 0;
+		text-align: center;
+	}
 }
 
 
@@ -2404,8 +2461,8 @@ button.hamburger {
 	button.hamburger {
 		display: inline-block;
 		position: absolute;
-		right: 10px;
-		top: 10px;
+		right: 0px;
+		top: 0px;
 		z-index: 20;
 	}
 	.inner_navigation ul {
@@ -2423,5 +2480,231 @@ button.hamburger {
 				width: initial;
 			}
 		}
+	}
+	.testimonial .quote {
+		width: 100%;
+		box-sizing: border-box;
+	}
+	.howitworks .left_content, .stories .left_content, .aboutus .left_content {
+		width: 100%;
+	}
+	.insidepage.no_spacing .box_style_1 {
+		float: none;
+		margin: 10px auto 0;
+		display: block;
+		overflow: hidden;
+	}
+	.howitworks .box-container .fidsbox, .stories .box-container .fidsbox, .aboutus .box-container .fidsbox {
+		width: 50%;
+		max-width: initial;
+	}
+}
+
+@media only screen and (max-width: 640px){
+	.inner_logo {
+		top: 26px;
+		left: 26px;
+	}
+	.inner_logo > a {
+		width: 120px;
+		display: block;
+	}
+	.inner_logo img {
+		width: 100%;
+		height: auto;
+	}
+	.inner1_design img {
+		width: 40%;
+		height: auto;
+	}
+	.inner1_design .we_are {
+		width: 60%;
+	}
+
+	.inner_tools ul li {
+		width: 100%;
+	}
+	.featurebox .bookcover {
+		width: 100%;
+		height: auto;
+	}
+	.featurebox .normallist {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.howitworks .insidepage .winning-stories .story-item, .stories .insidepage .winning-stories .story-item, .aboutus .insidepage .winning-stories .story-item {
+		width: 100%;
+	}
+	.left_content .normallist {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.featurebox .portalscreen {
+		width: 50%;
+		float: none;
+		display: block;
+		margin: 0 auto;
+	}
+	.featurebox .normallist {
+		float: none;
+		display: block;
+		width: 100%;
+	}
+	.featurebox .normallist .button-outline {
+		margin-top: 15px;
+	}
+	.pricing-container .pricing-spacer {
+		width: 100%;
+	}
+	.pricingbox,
+	.pricingbox .normallist {
+		height: auto;
+	}
+	.pricingbox,
+	.pricingbox .normallist li {
+		max-width: initial;
+	}
+	.pricingbox .price {
+		position: relative;
+		bottom: initial;
+	}
+	.product-list td {
+		width: 100%;
+		display: block;
+		text-align: center;
+		box-sizing: border-box;
+		.normaltext {
+			margin-bottom: 30px;
+			border-bottom: 1px solid;
+			padding-bottom: 30px;
+		}
+	}
+}
+
+@media only screen and (max-width: 480px){
+	.inner1_design .we_are {
+		width: 100%;
+	}
+	.inner1_design img {
+		width: 50%;
+		float: none;
+		display: block;
+		margin: 0 auto;
+		padding-top: 25px;
+	}
+	.slideshow {
+		width: 100%;
+		box-sizing: border-box;
+		img {
+			width: 100%;
+			height: auto;
+		}
+	}
+	.testimonials {
+		height: 400px;
+	}
+	.insidepage.no_spacing .box_style_1 {
+		width: 100%;
+		height: auto;
+		iframe {
+			width: 100%;
+		}
+	}
+	.imagegrid img {
+		width: 100%;
+		height: auto;
+	}
+	.howitworks .insidepage .winning-stories .story-item, .stories .insidepage .winning-stories .story-item, .aboutus .insidepage .winning-stories .story-item {
+		padding: 0;
+		margin-bottom: 15px;
+	}
+	.howitworks .insidepage .winning-stories .box_style_2, .stories .insidepage .winning-stories .box_style_2, .aboutus .insidepage .winning-stories .box_style_2 {
+		padding: 15px 15px 5px;
+	}
+	.howitworks .insidepage.small .partner_logo, .stories .insidepage.small .partner_logo, .aboutus .insidepage.small .partner_logo {
+		width: 100%;
+		height: auto;
+	}
+	.howitworks .insidepage .winning-stories.past .story-item, .stories .insidepage .winning-stories.past .story-item, .aboutus .insidepage .winning-stories.past .story-item {
+		width: 100%;
+	}
+	.profile-list td {
+		display: block;
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 360px){
+	.feel ul li {
+		width: 100%;
+	}
+	.testimonial .quote .headshot img {
+		display: block;
+		width: 50%;
+		margin: 0 auto;
+	}
+	.testimonials {
+		height: 600px;
+	}
+	.conect {
+		ul {
+			text-align: center;
+			li:first-child {
+				width: 100%;
+				text-align: center;
+				margin: 0;
+			}
+			li {
+				float: none;
+				p {
+					padding: 0 0 12px;
+				}
+			}
+		}
+	}
+	.label form {
+		text-align: center;
+	}
+	.label form p {
+		width: 100%;
+		text-align: center;
+		padding: 0 0 12px;
+	}
+	.label form input {
+		margin-top: 12px;
+	}
+	.label form .submit {
+		margin-top: 12px;
+	}
+	.footer_bot {
+		text-align: center;
+		overflow: hidden;
+	}
+	.ft_logo {
+		width: 50%;
+		margin: 0 auto;
+		padding: 0;
+		display: block;
+		margin-top: 20px;
+		float: none;
+		img {
+			width: 100%;
+			height: auto;
+		}
+	}
+	.ft_nav {
+		float: none;
+		padding: 0;
+		margin: 12px 0 30px;
+		width: 100%;
+		ul {
+			float: none;
+		}
+	}
+	.howitworks .box-container .fidsbox, .stories .box-container .fidsbox, .aboutus .box-container .fidsbox {
+		width: 100%;
+	}
+	.insidepage .contents h1 {
+		font-size: 32px;
 	}
 }

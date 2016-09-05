@@ -36,7 +36,7 @@
 		<a name="store"></a>
 		<h1>DFC Store</h1>
 		<p class="normaltext">Our curriculum is also available in print form. You can purchase it below.</p>
-		<table style="margin-top: 30px">
+		<table class="product-list" style="margin-top: 30px">
 			<tr valign="top">
 				<td width="25%">
 					<div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Workbook Curriculum" data-product_handle="design-for-change-workbook-curriculum" data-has_image="true" data-display_size="compact" data-redirect_to="checkout" data-buy_button_text="Buy now" data-button_background_color="7db461" data-button_text_color="ffffff" data-product_modal="false"></div>
@@ -86,46 +86,54 @@
 		<a name="tiers"></a>
 		<h1>The Do Good Be Good Program Tiers</h1>
 		<p class="normaltext">We have three ways to engage DFC that fit different budgets and organization needs.</p>
-		<div class="pricingbox">
-			<h2>Team</h2>
-			<ul class="normallist">
-				<li>All Activities</li>
-				<li>Web Tools</li>
-				<li>E-mail and Chat Assistance </li>
-				<li>Monthly Public Webinar</li>
-			</ul>
-			<p class="price">
-				<a href="http://portal.designforchange.us" target="_new" class="button-outline">Sign Up</a><br/>
-				Free
-			</p>
-		</div>
-		<div class="pricingbox">
-			<h2>Team +</h2>
-			<ul class="normallist">
-				<li>All Activities</li>
-				<li>Web Tools</li>
-				<li>E-mail and Chat Assistance </li>
-				<li><i>Remote Training Workshops</i></li>
-				<li><i>Discounted Curriculum Books</i></li>
-			</ul>
-			<p class="price">
-				<a href="/dfcusa/pages/aboutus#contactus" class="button-outline">Contact Us</a><br/>
-				$100 / month
-			</p>
-		</div>
-		<div class="pricingbox">
-			<h2>Network Partner</h2>
-			<ul class="normallist">
-				<li><i>Customized Activities</i></li>
-				<li><i>Co-branded Web Tools and Activities</i></li>
-				<li><i>Customized Onsite Training and Adoption Plans</i></li>
-				<li><i>Private Monthly Webinar and Support</i></li>
-				<li><i>Discounted Curriculum Books</i></li>
-			</ul>
-			<p class="price">
-				<a href="/dfcusa/pages/aboutus#contactus" class="button-outline">Contact Us</a><br/>
-				<i>Let's talk!</i>
-			</p>
+		<div class="pricing-container">
+			<div class="pricing-spacer">
+				<div class="pricingbox">
+					<h2>Team</h2>
+					<ul class="normallist">
+						<li>All Activities</li>
+						<li>Web Tools</li>
+						<li>E-mail and Chat Assistance </li>
+						<li>Monthly Public Webinar</li>
+					</ul>
+					<p class="price">
+						<a href="http://portal.designforchange.us" target="_new" class="button-outline">Sign Up</a><br/>
+						Free
+					</p>
+				</div>
+			</div>
+			<div class="pricing-spacer">
+				<div class="pricingbox">
+					<h2>Team +</h2>
+					<ul class="normallist">
+						<li>All Activities</li>
+						<li>Web Tools</li>
+						<li>E-mail and Chat Assistance </li>
+						<li><i>Remote Training Workshops</i></li>
+						<li><i>Discounted Curriculum Books</i></li>
+					</ul>
+					<p class="price">
+						<a href="/dfcusa/pages/aboutus#contactus" class="button-outline">Contact Us</a><br/>
+						$100 / month
+					</p>
+				</div>
+			</div>
+			<div class="pricing-spacer">
+				<div class="pricingbox">
+					<h2>Network Partner</h2>
+					<ul class="normallist">
+						<li><i>Customized Activities</i></li>
+						<li><i>Co-branded Web Tools and Activities</i></li>
+						<li><i>Customized Onsite Training and Adoption Plans</i></li>
+						<li><i>Private Monthly Webinar and Support</i></li>
+						<li><i>Discounted Curriculum Books</i></li>
+					</ul>
+					<p class="price">
+						<a href="/dfcusa/pages/aboutus#contactus" class="button-outline">Contact Us</a><br/>
+						<i>Let's talk!</i>
+					</p>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>

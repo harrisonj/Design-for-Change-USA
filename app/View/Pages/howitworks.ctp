@@ -13,7 +13,7 @@
 		<div class="box_style_1">
 			<h4><a href="#">Global Movement</a></h4>
 			<div class="media">
-				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/124807943" webkitallowfullscreen="" width="350" height="225"></iframe>
+				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/124807943" webkitallowfullscreen="" ></iframe>
 			</div>
 		</div>
 	</div>
@@ -48,7 +48,7 @@
 <div class="insidepage block7 small">
 	<div class="contents">
 		<p class="normaltext">
-			<img class="partner_logo" src="/images/partners/hgse.png" alt="logo" height="55">
+			<img class="partner_logo" src="/images/partners/hgse.png" alt="logo">
 			<a href="/dfcusa/pages/impact">The Harvard Graduate School of Education has studied Design for Change and shown tremendous impact. Learn more...</a>
 		</p>
 	</div>
@@ -59,14 +59,14 @@
 		<h1>The Do Good Be Good Program</h1>
 		<p class="normaltext">Working with Design for Change is easy. We offer everything from free activities to comprehensive program management.</p>
 		<div class="featurebox">
-			<img src="/dfcusa/app/webroot/images/curriculum_cover.png" class="bookcover" height="200">
+			<img src="/dfcusa/app/webroot/images/curriculum_cover.png" class="bookcover">
 			<ul class="normallist">
 				<span class="title">Activities</span>
 				<li>Over 50 activities designed by experts</li>
 				<li>Each activity is 30 or 60 minutes</li>
 				<li>Teach 21st century skills like empathy, creativity, collaboration, critical thinking and more</li>
 			</ul>
-			<img src="/dfcusa/app/webroot/images/videopreview.png" class="bookcover" width="250">
+			<img src="/dfcusa/app/webroot/images/videopreview.png" class="bookcover">
 			<ul class="normallist">
 				<span class="title">Resources</span>
 				<li>Web platform that helps mentors through each step</li>
@@ -75,7 +75,7 @@
 			</ul>
 		</div>
 		<div class="featurebox">
-			<img src="/dfcusa/app/webroot/images/postitnotes.jpg" class="bookcover" height="200">
+			<img src="/dfcusa/app/webroot/images/postitnotes.jpg" class="bookcover">
 			<ul class="normallist">
 				<span class="title">Training & Support</span>
 				<li>3 or 5 hour custom interactive workshops that teach design thinking and the DFC methodology</li>
@@ -100,9 +100,9 @@
 		<p class="normaltext">Every year, teams submit their projects in video form to be judged by a panel of experts. The winning team is awarded an all expenses trip to the The DFC Global Conference that brings together teams from across the world to share and celebrate their projects, and most importantly, inspire others! This two day event is filled with presenters, interactive workshops, music, fun and games!</p>
 		<br/>
 		<div class="imagegrid">
-			<img src="/dfcusa/app/webroot/pics/btc/pic-btc7.jpg" width="300" height="200">
-			<img src="/dfcusa/app/webroot/pics/btc/pic-btc4.jpg" width="300" height="200">
-			<img src="/dfcusa/app/webroot/pics/btc/pic-btc6.jpg" width="300" height="200">
+			<img src="/dfcusa/app/webroot/pics/btc/pic-btc7.jpg">
+			<img src="/dfcusa/app/webroot/pics/btc/pic-btc4.jpg">
+			<img src="/dfcusa/app/webroot/pics/btc/pic-btc6.jpg">
 		</div>
 		<div class="clear"></div>
 	</div>
