@@ -193,7 +193,6 @@ header {
 	z-index: 999;
 	top: 16px;
 	left: -2px;
-	a! {}
 }
 
 /* ---------------------------------------------------------*/
@@ -1211,7 +1210,6 @@ footer {
 	float: left;
 	display: inline-block;
 	padding: 24px 0 0 0;
-	a! {}
 }
 
 .ft_nav {
@@ -1303,7 +1301,7 @@ footer {
 	z-index: 999;
 	top: 13px;
 	left: 30px;
-	a! {}
+	a {}
 }
 
 .inner_nav {
@@ -1355,7 +1353,6 @@ footer {
 					width: 75px;
 					padding-right: 40px;
 				}
-				span! {}
 			}
 		}
 	}
@@ -2346,7 +2343,7 @@ button.hamburger {
 	height: initial;
 }
 
-@media only screen and (max-width: 1024px){
+@media only screen and (max-width: 1025px){
 	.partners ul li {
 		margin: 5px 0;
 	}
@@ -2381,6 +2378,13 @@ button.hamburger {
 	}
 	.featurebox {
 		height: auto;
+		.bookcover {
+			clear: both;
+			margin-top: 20px;
+		}
+	}
+	.pricingbox {
+		height: auto;
 	}
 	.pricing-container .pricing-spacer {
 		width: 33.33%;
@@ -2390,8 +2394,8 @@ button.hamburger {
 	}
 	.pricingbox .normallist {
 		margin: 10px 0 20px;
-		padding-left: 0;
-		height: 440px;
+		padding: 0 20px;
+		height: auto;
 	}
 	.pricingbox .normallist li {
 		margin-left: 15px;
@@ -2399,6 +2403,19 @@ button.hamburger {
 	}
 	.howitworks .insidepage .winning-stories .box_style_2 iframe, .stories .insidepage .winning-stories .box_style_2 iframe, .aboutus .insidepage .winning-stories .box_style_2 iframe {
 		min-height: initial;
+	}
+	.pricingbox .price {
+		position: relative;
+		bottom: initial;
+		left: initial;
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	.box_style_1 {
+		margin-top: 0;
+		iframe {
+			width: 100%;
+		}
 	}
 }
 
@@ -2497,6 +2514,10 @@ button.hamburger {
 	.howitworks .box-container .fidsbox, .stories .box-container .fidsbox, .aboutus .box-container .fidsbox {
 		width: 50%;
 		max-width: initial;
+	}
+	.insidepage .featurebox:last-child .bookcover {
+		width: 100%;
+		height: auto;	
 	}
 }
 
@@ -2635,6 +2656,26 @@ button.hamburger {
 }
 
 @media only screen and (max-width: 360px){
+	.container {
+		margin-left: 25px;
+		margin-right: 25px;
+	}
+	.inner_young h2 {
+		font-size: 36px;
+	}
+	.inner_young .yellow_button {
+		width: auto;
+		margin: 0 auto;
+	}
+	.partners ul li img {
+		width: 50%;
+		height: auto;
+	}
+	.testimonial .quote blockquote {
+		width: 100%;
+		float: left;
+		padding: 0;
+	}
 	.feel ul li {
 		width: 100%;
 	}
