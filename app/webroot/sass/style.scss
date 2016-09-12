@@ -1087,10 +1087,6 @@ insidepage {
 
 .logos {
 	width: 100%;
-	.container {
-		margin-left: 0;
-		margin-right: 0;
-	}
 }
 
 .partners {
@@ -1949,8 +1945,9 @@ footer {
 }
 
 .testimonial {
-	height: 250px;
 	width: 100%;
+	position: relative !important;
+	height: 100% !important;
 	.quote {
 		width: 700px;
 		margin: 0 auto;
@@ -2604,6 +2601,9 @@ button.hamburger {
 			padding-bottom: 30px;
 		}
 	}
+	.insidepage .featurebox:last-child .bookcover {
+		margin-bottom: 20px;
+	}
 }
 
 @media only screen and (max-width: 480px){
@@ -2624,9 +2624,6 @@ button.hamburger {
 			width: 100%;
 			height: auto;
 		}
-	}
-	.testimonials {
-		height: 400px;
 	}
 	.insidepage.no_spacing .box_style_1 {
 		width: 100%;
@@ -2659,7 +2656,7 @@ button.hamburger {
 	}
 }
 
-@media only screen and (max-width: 360px){
+@media only screen and (max-width: 380px){
 	.container {
 		margin-left: 25px;
 		margin-right: 25px;
@@ -2687,9 +2684,6 @@ button.hamburger {
 		display: block;
 		width: 50%;
 		margin: 0 auto;
-	}
-	.testimonials {
-		height: 600px;
 	}
 	.conect {
 		ul {
@@ -2720,6 +2714,12 @@ button.hamburger {
 	}
 	.label form .submit {
 		margin-top: 12px;
+	}
+	.footer_top .container {
+		text-align: center;
+		.conect {
+			padding: 30px 0;
+		}
 	}
 	.footer_bot {
 		text-align: center;
