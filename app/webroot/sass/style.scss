@@ -357,7 +357,7 @@ insidepage {
 				color: #666;
 				font-size: 13px;
 				line-height: 20px;
-				padding: 15px 25px 5px;
+				padding: 15px 25px 15px;
 				overflow: hidden;
 				h4 {
 					border-bottom: 1px solid #eaeff3;
@@ -373,9 +373,10 @@ insidepage {
 				iframe {
 					width: 100%;
 					min-height: 225px;
+					margin-bottom: 20px;
 				}
 				p {
-					margin-top: 20px;
+					margin-top: 0px;
 					float: right;
 					max-width: 200px;
 					text-align: center;
@@ -400,6 +401,10 @@ insidepage {
 						max-height: 225px;
 						display: block;
 						overflow: hidden;
+						margin-bottom: 10px;
+					}
+					.media iframe {
+						margin-bottom: 10px;
 					}
 				}
 			}
@@ -446,7 +451,7 @@ insidepage {
 		margin-bottom: 80px;
 	}
 	.insidepage {
-		padding-bottom: 50px;
+		padding-bottom: 25px;
 	}
 }
 

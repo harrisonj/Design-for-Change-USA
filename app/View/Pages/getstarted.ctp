@@ -25,6 +25,7 @@
 				<li>Create and manage projects through each step in the process</li>
 				<li>Dozens of activities that stretch across multiple skillsets</li>
 				<li>Submit projects for the Design for Change Challenge</li>
+				<Br/></Br/>
 				<a href="http://portal.designforchange.us" target="_new" class="button-outline white">Get Started</a>
 			</ul>
 		</div>
@@ -39,9 +40,9 @@
 		<table class="product-list" style="margin-top: 30px">
 			<tr valign="top">
 				<td width="25%">
-					<div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Workbook Curriculum" data-product_handle="design-for-change-workbook-curriculum" data-has_image="true" data-display_size="compact" data-redirect_to="checkout" data-buy_button_text="Buy now" data-button_background_color="7db461" data-button_text_color="ffffff" data-product_modal="false"></div>
+					<div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Workbook Curriculum" data-product_handle="design-for-change-workbook-curriculum" data-has_image="true" data-display_size="compact" data-redirect_to="cart" data-buy_button_text="Add to cart" data-buy_button_out_of_stock_text="Out of Stock" data-buy_button_product_unavailable_text="Unavailable" data-button_background_color="7db461" data-button_text_color="ffffff" data-product_modal="false" data-product_title_color="000000" data-next_page_button_text="Next page"></div>
 					<script type="text/javascript">
-						document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
+					document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
 					</script>
 					<noscript><a href="https://design-for-change-usa.myshopify.com/cart/7968840389:1" target="_blank">Buy Design for Change Workbook Curriculum</a></noscript>
 					<h3>Design for Change Workbook Curriculum</h3>
@@ -52,7 +53,7 @@
 				</td>   
 				<td width="5%"></td>    
 				<td width="25%">
-					<div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Global Story Book" data-product_handle="design-for-change-global-story-book" data-has_image="true" data-display_size="compact" data-redirect_to="checkout" data-buy_button_text="Buy now" data-button_background_color="7db461" data-button_text_color="ffffff"></div>
+					<div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Global Story Book" data-product_handle="design-for-change-global-story-book" data-has_image="true" data-display_size="compact" data-redirect_to="cart" data-buy_button_text="Add to cart" data-button_background_color="7db461" data-button_text_color="ffffff"></div>
 					<script type="text/javascript">
 						document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
 					</script>
@@ -65,7 +66,7 @@
 				</td>
 				<td width="5%"></td>
 				<td width="25%">
-					<div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Teacher&#39;s Guide" data-product_handle="design-for-change-teachers-guide" data-has_image="true" data-display_size="compact" data-redirect_to="checkout" data-buy_button_text="Buy now" data-buy_button_out_of_stock_text="Out of Stock" data-buy_button_product_unavailable_text="Unavailable" data-button_background_color="7db461" data-button_text_color="ffffff" data-product_modal="false" data-product_title_color="000000" data-next_page_button_text="Next page"></div>
+					<div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Teacher&#39;s Guide" data-product_handle="design-for-change-teachers-guide" data-has_image="true" data-display_size="compact" data-redirect_to="cart" data-buy_button_text="Add to cart" data-buy_button_out_of_stock_text="Out of Stock" data-buy_button_product_unavailable_text="Unavailable" data-button_background_color="7db461" data-button_text_color="ffffff" data-product_modal="false" data-product_title_color="000000" data-next_page_button_text="Next page"></div>
 					<script type="text/javascript">
 						document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
 					</script>

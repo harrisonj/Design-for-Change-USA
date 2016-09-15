@@ -13,7 +13,7 @@
 		<div class="box_style_1">
 			<h4><a href="#">Global Movement</a></h4>
 			<div class="media">
-				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/124807943" webkitallowfullscreen="" ></iframe>
+				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/124807943" webkitallowfullscreen="" width="350" height="230"></iframe>
 			</div>
 		</div>
 	</div>
