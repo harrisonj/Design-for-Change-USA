@@ -12,11 +12,6 @@
 		</div>
 	</section>
 	<!-- Banner ends -->
-
-	<div class="projectHeader hide">
-		<b><a class="announcement" href="/dfcusa/pages/stories/2016results">Announcing the winner of DFC USA 2016!</a><br/><div class="small"><a href="/dfcusa/pages/stories/2016results"><b>"Supporting Refugees in Our Community"</b> by The Exploris School in Raleigh, North Carolina.<Br/><i>Click to see their video...</i></a></div></b>
-	</div>
-
 	<div class="main_content">
 
 		<section class="logos">
@@ -37,6 +32,19 @@
 				</div>
 			</div>
 		</section>
+
+		<div class="highlightBanner">
+			<div class="contents">
+				<center>
+					<div class="highlightText">
+						<div style="width: 800px">
+							<b>Help us send the winning team from Raleigh, NC to Beijing in December!</b>
+							<a class="action_button blue" href="/pages/donate">Donate Now</a>
+						</div>
+					</div>
+				</center>
+			</div>
+		</div>
 
 		<section class="block1">
 			<div class="container">
