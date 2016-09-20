@@ -1669,10 +1669,13 @@ footer {
   margin-right: auto;
   float: center; }
 
+.testimonials {
+  height: 250px; }
+
 .testimonial {
   width: 100%;
   position: relative !important;
-  height: 100% !important; }
+  height: 120px; }
   .testimonial .quote {
     width: 700px;
     margin: 0 auto;

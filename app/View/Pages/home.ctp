@@ -205,7 +205,8 @@
 			});
 
 			$('.testimonials').cycle({
-				fx: 'fade',
+				fx: 'turnDown',
+				speed: 300,
 				timeout: 10000
 			});
 		});
