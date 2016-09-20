@@ -38,7 +38,7 @@
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/nzplMZM1nUA" webkitallowfullscreen=""></iframe>
 					</div>
-					<a href="http://www.teachforameria.org/" target="_new"><img src="/images/partners/tfa.png" width="120" alt="logo"></a>
+					<a href="http://www.teachforameria.org/" target="_new"><img src="/images/partners/tfa.png" width="120" alt="logo" style="margin-top: 15px"></a>
 					<p>"Crazy Horse School"<br/>By The Crazy Horse School (TFA), Pine Ridge, SD</p>
 				</div>
 			</div>

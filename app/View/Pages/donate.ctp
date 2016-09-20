@@ -1,7 +1,6 @@
 <section class="inner_dontate">
 	<div class="container">
 		<div class="callout_box">
-			<h4><a href="#">2016 Winner</a></h4>
 			<div class="media">
 				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/70YnAcqvq3E" webkitallowfullscreen=""></iframe>
 			</div>
@@ -28,15 +27,11 @@
 
 	<div class="insidepage block2 donateContent">
 		<div class="contents">
+			<h1>Their Story</h1>
 			Students from the Exploris School in Raleigh, North Carolina used the Design for Change methodology to connect with the refugee community living in nearby neighborhoods who expressed their challenges in assimilating to American life.
 			<br/><br/>Many of these refugees were used to a diet filled with fruits and vegetables, but now found themselves living in an American food desert. The highly processed foods they did have access to were very hard on their bodies. As such, Exploris students partnered with a local farmer, to plant, harvest and distribute over 125 pounds of fresh vegetables to over 40 refugee families living close in their community.
 			<br/><br/>Their project was a huge success as they continue to be in touch with the families to ensure they are able to live a healthy life. <br/><a href="https://www.youtube.com/embed/70YnAcqvq3E" target="_new">See a video of their project here.</a>
-		</div>
-	</div>
-
-	<div class="insidepage block7 donateContent">
-		<div class="contents">
-			The Exploris team will attend the annual DFC Global Conference, <a href="http://www.dfcworld.com/" target="_new">Be The Change</a>, where they share their projects, celebrate their success and inspire each other. This year, the conference will be held in Beijing, China on December 9-11th, 2016.
+			<br/><br/>The Exploris team will attend the annual DFC Global Conference, <a href="http://www.dfcworld.com/" target="_new">Be The Change</a>, where they share their projects, celebrate their success and inspire each other. This year, the conference will be held in Beijing, China on December 9-11th, 2016.
 		</div>
 	</div>
 
@@ -44,7 +39,7 @@
 		<div class="contents">
 			<h1>It is a life changing experience</h1>
 			<br/>
-			<p class="normaltext" style="float: left; width: 40%">
+			<p class="normaltext" style="float: left; width: 40%; font-size: 13pt">
 				"It ain't about us, it ain’t about the selfishness that people have in them, it's not about that - it's about what they care about, if they care, if they love, it's going to go global... we're all equal"
 				<Br/><Br/>-- Wakan, previous DFC USA winner and Be The Change conference attendee
 			</p>
