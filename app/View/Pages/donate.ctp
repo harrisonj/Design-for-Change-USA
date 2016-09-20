@@ -16,28 +16,36 @@
 				<div class="donate_button" data-amount="500">$500</div>
 			</div>
 			<div class="yellow_button">Donate Now</div>
-			<div class="subheader">Design for Change USA is a 501(c)(3) organization.</div>
+			<div class="subheader">Design for Change USA is a 501(c)(3) organization.<br/><br/>Our goal is $8,500. If you can help us achieve that with a substantial commitment,<br/>please <a href="mailto:sanjli@designforchange.us" style="color: #fff; text-decoration: underline">contact us.</a></div>
 		</div>
 	</section>
-	<!-- Banner ends -->
-
-	<div class="projectHeader hide">
-		<b><a class="announcement" href="/dfcusa/pages/stories/2016results">Announcing the winner of DFC USA 2016!</a><br/><div class="small"><a href="/dfcusa/pages/stories/2016results"><b>"Supporting Refugees in Our Community"</b> by The Exploris School in Raleigh, North Carolina.<Br/><i>Click to see their video...</i></a></div></b>
-	</div>
 
 	<div class="insidepage block2 donateContent">
 		<div class="contents">
-			<h1>Their Story</h1>
-			Students from the Exploris School in Raleigh, North Carolina used the Design for Change methodology to connect with the refugee community living in nearby neighborhoods who expressed their challenges in assimilating to American life.
-			<br/><br/>Many of these refugees were used to a diet filled with fruits and vegetables, but now find themselves living in an American food desert. The highly processed foods they did have access to were very hard on their bodies. As such, Exploris students partnered with a local farmer, to plant, harvest and distribute over 125 pounds of fresh vegetables to over 40 refugee families living in their community.
-			<br/><br/>Their project was a huge success as they continue to be in touch with the families to ensure they are able to live a healthy life. <br/><a href="https://www.youtube.com/embed/70YnAcqvq3E" target="_new">See a video of their project here.</a>
-			<br/><br/>The Exploris team will attend the annual DFC Global Conference, <a href="http://www.dfcworld.com/" target="_new">Be The Change</a>, where they share their projects, celebrate their success and inspire each other. This year, the conference will be held in Beijing, China on December 9-11th, 2016.
+			<h1 style="line-height: 45px">Students from Raleigh harvest 125 pounds of vegetables to help refugees</h1>
+			We are proud to announce the winners of Design for Change USA 2016 - 4th and 5th grade students from the Exploris School in North Carolina - for their incredible work to support the refugee community living in the city of Raleigh.
+ 			<br/><br/>
+			The Exploris team will attend the annual DFC Global Conference, <a href="http://www.dfcworld.com/" target="_new">Be The Change</a>, where they’ll share their project with DFC teams from over 40 countries, celebrate their success and inspire others. This year, the conference will be held in Beijing, China on December 9-11th, 2016.
+ 			<br/><br/>
+			Help support their journey! Make a donation today!
+		</div>
+	</div>
+
+	<div class="insidepage block7 donateContent">
+		<div class="contents">
+			Imagine fleeing your home, leaving behind everything you know, arriving in a foreign place and then being thrust into, of all places, a food dessert!
+ 			<br/><br/>
+			Working through the Design for Change framework: Feel, Imagine, Do, Share, Exploris students recognized an unmet need in their community – refugees having access to healthy food.
+			<br/><br/>
+			... so they did something about it!
+			<br/><br/>
+			Watch <a href="https://www.youtube.com/embed/70YnAcqvq3E" target="_new">THIS video</a> to see how Exploris students supported their new neighbors to ensure they live a happy and healthy life. 
 		</div>
 	</div>
 
 	<div class="insidepage">
 		<div class="contents">
-			<h1>It is a life changing experience</h1>
+			<h1>This trip is a life changing experience</h1>
 			<br/>
 			<p class="normaltext" style="float: left; width: 40%; font-size: 15pt">
 				"It ain't about us, it ain’t about the selfishness that people have in them, it's not about that - it's about what they care about, if they care, if they love, it's going to go global... we're all equal"
