@@ -11,7 +11,7 @@
 				<div class="clear"></div>
 			</div>
 			<div class="label">
-					<form class="searchbar" action="http://designforchange.us2.list-manage.com/subscribe/post?u=233ebb0aa3989a447582c85a1&amp;id=9d72463d1b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate="" _lpchecked="1">
+					<form class="searchbar" action="http://designforchange.us2.list-manage.com/subscribe/post?u=233ebb0aa3989a447582c85a1&amp;id=e163a23026" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate="" _lpchecked="1">
 						<p>Sign up for our Newsletter</p>
 						<input name="EMAIL" id="mce-EMAIL"  type="text">
 						<input name="" type="submit" class="submit" value="SUBSCRIBE">
