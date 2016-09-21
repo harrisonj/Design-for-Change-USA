@@ -66,7 +66,7 @@
 		});
 
 		$( "#progressbar" ).progressbar({
-      value: 37
+      value: 17
     });
 
 		$('.yellow_button').click(function() {
