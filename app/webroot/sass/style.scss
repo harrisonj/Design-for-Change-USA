@@ -2952,3 +2952,18 @@ button.hamburger {
 		}
 	}
 }
+
+#progressbar {
+	position: absolute;
+	top: 210px;
+	width: 525px;
+	background-color: #dc4276;
+	height: 35px;
+	.progress-label {
+		position: absolute;
+		width: 100%;
+		font-size: 12pt;
+		text-align: center;
+		line-height: 35px;
+	}
+}

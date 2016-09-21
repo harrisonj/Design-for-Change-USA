@@ -9,14 +9,14 @@
 		</div>
 		<div class="innder_donate_header">
 			<h2>Help Send the winners of DFC 2016 to Beijing This December</h2>
-			<p>Select an amount</p>
+			<p><div id="progressbar"><div class="progress-label">We've raised $2,000 of our goal of $8,500!</div></div></p>
 			<div class="buttons">
 				<div class="donate_button" data-amount="50">$50</div>
 				<div class="donate_button" data-amount="100">$100</div>
 				<div class="donate_button" data-amount="500">$500</div>
 			</div>
 			<div class="yellow_button">Donate Now</div>
-			<div class="subheader">Design for Change USA is a 501(c)(3) organization.<br/><br/>Our goal is $8,500. If you can help us achieve that with a substantial commitment,<br/>please <a href="mailto:sanjli@designforchange.us" style="color: #fff; text-decoration: underline">contact us.</a></div>
+			<div class="subheader">Design for Change USA is a 501(c)(3) organization.<br/><br/>If you can help us achieve that with a substantial commitment, please <a href="mailto:sanjli@designforchange.us" style="color: #fff; text-decoration: underline">contact us.</a></div>
 		</div>
 	</section>
 
@@ -64,6 +64,10 @@
 			$('.donate_button').not(this).removeClass('buttonDown');
 			$(this).toggleClass('buttonDown');
 		});
+
+		$( "#progressbar" ).progressbar({
+      value: 37
+    });
 
 		$('.yellow_button').click(function() {
 			location.href = 'https://www.classy.org/checkout/donation?eid=95660&amount=' + $('.donate_button.buttonDown').attr('data-amount');
