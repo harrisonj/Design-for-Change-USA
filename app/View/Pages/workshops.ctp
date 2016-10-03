@@ -21,7 +21,7 @@
 						<li>
 							<div class="tools_content">
 								<h3>Mentors</h3>
-								<p class="short">After School mentors, facilitators, college students, parents and school faculty.</a></p>
+								<p class="short">After School mentors, administrators, curriculum directors, facilitators, college students and parents.</a></p>
 							</div>
 						</li>
 						<li>
@@ -73,7 +73,7 @@
 					<h3>Onsite Full Day Training</h3>
 					<br/>  
 					<p class="normaltext" style="line-height: 15pt; font-size: 10pt">
-						We'll spend time before hand understanding your specific needs and customize a full day workshop that goes deeper into design thinking principles and the Do Good Be Good Program.<br/><br/><b>This workshop is 6 hours.</b>
+						We'll spend time beforehand understanding your specific needs and customize a full day workshop that goes deeper into design thinking principles and the Do Good Be Good Program.<br/><br/><b>This workshop is 6 hours.</b>
 						<br/><br/>
 						<div class="button-outline white">$2,000</div>
 					</p>
@@ -83,7 +83,7 @@
 					<h3>Onsite Half Day Training</h3>
 					<br/>  
 					<p class="normaltext" style="line-height: 15pt; font-size: 10pt">
-						Our half day workshop includes a series of interactive excercises that help demonstrate the value of design thinking and help participants become familiar with the DFC methodology.<Br/><br/><b>This workshop is 3.5 hours.</b>
+						Our half day workshop includes a series of interactive excercises that demonstrate the value of design thinking and help participants become familiar with the DFC methodology.<Br/><br/><b>This workshop is 3.5 hours.</b>
 						<br/><br/>
 						<div class="button-outline white">$1,000</div>
 					</p>
