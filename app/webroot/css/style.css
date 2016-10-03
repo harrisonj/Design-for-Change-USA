@@ -1149,7 +1149,7 @@ footer {
         .inner_navigation ul li a.what {
           width: 120px; }
         .inner_navigation ul li a.who {
-          width: 75px;
+          width: 100px;
           padding-right: 15px; }
         .inner_navigation ul li a.start {
           width: 100px; }
@@ -1157,6 +1157,8 @@ footer {
           width: 140px; }
         .inner_navigation ul li a.active {
           font-weight: bold; }
+        .inner_navigation ul li a.workshops {
+          width: 130px; }
         .inner_navigation ul li a.login {
           width: 75px;
           padding-right: 40px; }
@@ -1364,6 +1366,8 @@ footer {
         padding: 14px 35px;
         line-height: 22px;
         height: 153px; }
+        .inner_tools ul li p.short {
+          height: 100px; }
 
 .block2 .inner_empower .inner_tools {
   padding-top: 10px; }
@@ -2394,6 +2398,52 @@ button.hamburger {
     position: absolute;
     right: 0px;
     top: 50px; }
+
+.inner_training {
+  background: url(../images/training_img.png) no-repeat center top;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  height: 300px; }
+  .inner_training .callout_box {
+    position: absolute;
+    right: 0px;
+    top: 50px; }
+  .inner_training .subline {
+    position: absolute;
+    top: 220px;
+    color: #fff;
+    left: 0px; }
+
+.inner_training_header {
+  display: block;
+  position: relative; }
+  .inner_training_header h2 {
+    position: absolute;
+    left: 0px;
+    top: 80px;
+    width: 650px;
+    font-size: 40px;
+    color: #e6b820;
+    font-weight: 800;
+    line-height: 45px;
+    text-align: left;
+    letter-spacing: 0.5px; }
+    .inner_training_header h2 span {
+      color: #ffffff; }
+  .inner_training_header p {
+    position: absolute;
+    top: 280px;
+    font-size: 17px;
+    color: #ffffff;
+    text-align: right;
+    padding: 0 12px 0 12px;
+    word-spacing: 1px;
+    background: #dc4276;
+    line-height: 34px;
+    display: inline-block;
+    float: top;
+    margin: 10px 0 28px 0; }
 
 .callout_box {
   width: 400px;

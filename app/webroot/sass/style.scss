@@ -1343,7 +1343,7 @@ footer {
 					width: 120px;
 				}
 				&.who {
-					width: 75px;
+					width: 100px;
 					padding-right: 15px;
 				}
 				&.start {
@@ -1354,6 +1354,9 @@ footer {
 				}
 				&.active {
 					font-weight: bold;
+				}
+				&.workshops {
+					width: 130px;
 				}
 				&.login {
 					width: 75px;
@@ -1598,6 +1601,9 @@ footer {
 				padding: 14px 35px;
 				line-height: 22px;
 				height: 153px;
+				&.short {
+					height: 100px;
+				}
 			}
 		}
 	}
@@ -2802,6 +2808,59 @@ button.hamburger {
 		position: absolute;
 		right: 0px;
 		top: 50px;
+	}
+}
+
+.inner_training {
+	background: url(../images/training_img.png) no-repeat center top;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+	height: 300px;
+	.callout_box {
+		position: absolute;
+		right: 0px;
+		top: 50px;
+	}
+	.subline {
+		position: absolute;
+		top: 220px;
+		color: #fff;
+		left: 0px;
+	}	
+}
+
+.inner_training_header {
+	display: block;
+	position: relative;
+	h2 {
+		position: absolute;
+		left: 0px;
+		top: 80px;
+		width: 650px;
+		font-size: 40px;
+		color: #e6b820;
+		font-weight: 800;
+		line-height: 45px;
+		text-align: left;
+		letter-spacing: 0.5px;
+		span {
+			color: #ffffff;
+		}
+	}
+	p {
+		position: absolute;
+		top: 280px;
+		font-size: 17px;
+		color: #ffffff;
+		text-align: right;
+		padding: 0 12px 0 12px;
+		word-spacing: 1px;
+		background: #dc4276;
+		line-height: 34px;
+		display: inline-block;
+		float: top;
+		margin: 10px 0 28px 0;
 	}
 }
 
