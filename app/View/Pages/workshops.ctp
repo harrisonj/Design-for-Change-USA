@@ -105,9 +105,9 @@
 
 	<div class="insidepage block2">
 		<div class="contents">
-			<h1><a style="color: #fff">Schedule A Training</a></h1>
+			<h1><a style="color: #fff">Request a Workshop</a></h1>
 			<p class="normaltext">Please fill out this form and we'll get back to you as soon as possible.</p>
-			<script type="text/javascript" src="http://www.formstack.com/forms/js.php?1247059-87vPeOVIxy-v3&field22908176=Schedule%20training"></script><noscript><a href="http://www.formstack.com/forms/?1247059-87vPeOVIxy" title="Online Form">Online Form - Design for Change - Contact Us</a></noscript><div style="text-align:right; font-size:x-small;"></div>
+			<script type="text/javascript" src="http://www.formstack.com/forms/js.php?1247059-87vPeOVIxy-v3&field22908176=Request%20workshop"></script><noscript><a href="http://www.formstack.com/forms/?1247059-87vPeOVIxy" title="Online Form">Online Form - Design for Change - Contact Us</a></noscript><div style="text-align:right; font-size:x-small;"></div>
 		</div>
 	</div>
 </div>
