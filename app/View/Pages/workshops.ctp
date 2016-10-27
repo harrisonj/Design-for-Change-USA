@@ -67,7 +67,7 @@
 	<div class="contents">
 		<a name="store"></a>
 		<h1>Workshop Options</h1>
-		<table class="product-list" style="margin-top: 30px">
+		<table class="product-list" style="margin-top: 30px; margin-bottom: 50px">
 			<tr valign="top">
 				<td width="25%">
 					<h3>Onsite Full Day Training</h3>
@@ -76,6 +76,7 @@
 						We'll spend time beforehand understanding your specific needs and customize a full day workshop that goes deeper into design thinking principles and the Do Good Be Good Program.<br/><br/><b>This workshop is 6 hours.</b>
 						<br/><br/>
 						<div class="button-outline white">$2,000</div>
+						<p><i>For up to 20 participants.<br/>Each additional participant is $200.</i></p>
 					</p>
 				</td>   
 				<td width="5%"></td>    
@@ -86,6 +87,7 @@
 						Our half day workshop includes a series of interactive excercises that demonstrate the value of design thinking and help participants become familiar with the DFC methodology.<Br/><br/><b>This workshop is 3.5 hours.</b>
 						<br/><br/>
 						<div class="button-outline white">$1,000</div>
+						<p><i>For up to 10 participants.<br/>Each additional participant is $100.</i></p>
 					</p>
 				</td>
 				<td width="5%"></td>
@@ -96,6 +98,7 @@
 						Our remote webinar covers design thinking and Design for Change basics and gives participants all the tools they need to begin their Design for Change projects right away.<br/><br><b>This remote webinar lasts 90 minutes.</b></p>
 						<br/>
 						<div class="button-outline white">$200</div>
+						<p><i>For up to 50 participants.</i></p>
 					</p>
 				</td>
 			</tr>
