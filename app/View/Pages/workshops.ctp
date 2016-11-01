@@ -87,7 +87,7 @@
 						Our half day workshop includes a series of interactive excercises that demonstrate the value of design thinking and help participants become familiar with the DFC methodology.<Br/><br/><b>This workshop is 3.5 hours.</b>
 						<br/><br/>
 						<div class="button-outline white">$1,000</div>
-						<p><i>For up to 10 participants.<br/>Each additional participant is $100.</i></p>
+						<p><i>For up to 20 participants.<br/>Each additional participant is $100.</i></p>
 					</p>
 				</td>
 				<td width="5%"></td>
