@@ -40,12 +40,11 @@
 		<table class="product-list" style="margin-top: 30px">
 			<tr valign="top">
 				<td width="25%">
-					<div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Workbook Curriculum" data-product_handle="design-for-change-workbook-curriculum" data-has_image="true" data-display_size="compact" data-redirect_to="cart" data-buy_button_text="Add to cart" data-buy_button_out_of_stock_text="Out of Stock" data-buy_button_product_unavailable_text="Unavailable" data-button_background_color="7db461" data-button_text_color="ffffff" data-product_modal="false" data-product_title_color="000000" data-next_page_button_text="Next page"></div>
-					<script type="text/javascript">
-					document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
-					</script>
-					<noscript><a href="https://design-for-change-usa.myshopify.com/cart/7968840389:1" target="_blank">Buy Design for Change Workbook Curriculum</a></noscript>
+					<img src="/dfcusa/app/webroot/images/curriculum_cover_new.png" height="150"/>
+					<br/><br/>
 					<h3>Design for Change Workbook Curriculum</h3>
+					<br/>
+					<a href="http://www.blurb.com/bookstore/invited/6523540/82b89279c32a67dba941e0672179bbe6e6d7efdb" target="_new" class="button-outline">Buy Now</a>&nbsp;&nbsp;&nbsp;&nbsp;$20.00
 					<br/>					  
 					<p class="normaltext" style="line-height: 15pt; font-size: 10pt">
 						Design for Change offers a 30 hour workbook style curriculum jointly designed by the DFC Global Team, Harvard Graduate School of Education, Stanford Design School and IDEO. We encourage each student to have a copy so they can follow along the Design for Change process.
@@ -53,25 +52,22 @@
 				</td>   
 				<td width="5%"></td>    
 				<td width="25%">
-					<div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Global Story Book" data-product_handle="design-for-change-global-story-book" data-has_image="true" data-display_size="compact" data-redirect_to="cart" data-buy_button_text="Add to cart" data-button_background_color="7db461" data-button_text_color="ffffff"></div>
-					<script type="text/javascript">
-						document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
-					</script>
-					<noscript><a href="https://design-for-change-usa.myshopify.com/cart/7783947333:1" target="_blank">Buy Design for Change Global Story Book</a></noscript>
+					<img src="/dfcusa/app/webroot/images/curriculum_cover.png" height="150"/>
+					<br/><br/>
 					<h3>Design for Change Global Story Book</h3>
-					<br/>            
+					<br/>
+					<a href="#" class="button-outline">Sold Out!</a>
 					<p class="normaltext" style="line-height: 15pt; font-size: 10pt">
 						This short book contains incredible stories of change from all around the world by DFC Change makers. It serves as a great point of inspiration for your students/young people who might feel stuck and not know how to move forward with their project.
 					</p>
 				</td>
 				<td width="5%"></td>
 				<td width="25%">
-					<div data-embed_type="product" data-shop="design-for-change-usa.myshopify.com" data-product_name="Design for Change Teacher&#39;s Guide" data-product_handle="design-for-change-teachers-guide" data-has_image="true" data-display_size="compact" data-redirect_to="cart" data-buy_button_text="Add to cart" data-buy_button_out_of_stock_text="Out of Stock" data-buy_button_product_unavailable_text="Unavailable" data-button_background_color="7db461" data-button_text_color="ffffff" data-product_modal="false" data-product_title_color="000000" data-next_page_button_text="Next page"></div>
-					<script type="text/javascript">
-						document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
-					</script>
-					<noscript><a href="https://design-for-change-usa.myshopify.com/cart/9959492997:1" target="_blank">Buy Design for Change Teacher&#39;s Guide</a></noscript>
+					<img src="/dfcusa/app/webroot/images/teachersguide_small.png" height="150"/>
+					<br/><br/>
 					<h3>Design for Change Teacher's<br/>Guide</h3>
+					<br/>
+					<a href="http://www.blurb.com/bookstore/invited/6523603/1a20534013ff19ec364cebac2929fb455783cd36" target="_new" class="button-outline">Buy Now</a>&nbsp;&nbsp;&nbsp;&nbsp;$26.00
 					<br/>
 					<p class="normaltext" style="line-height: 15pt; font-size: 10pt">
 						The teacher's guide is the ultimate companion to the Design for Change Curriculum. This guide walks you through on how to effectively use the Design for Change curriculum with your youth, along with tips and additional activities.
