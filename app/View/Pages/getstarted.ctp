@@ -32,7 +32,7 @@
 	</div>
 </div>
 
-<div class="insidepage"">
+<div class="insidepage">
 	<div class="contents">
 		<a name="store"></a>
 		<h1>DFC Store</h1>
@@ -75,6 +75,7 @@
 				</td>
 			</tr>
 		</table>
+		<br/><br/><br/>
 	</div>
 </div>
 
