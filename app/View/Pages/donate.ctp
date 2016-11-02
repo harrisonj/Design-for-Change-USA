@@ -9,7 +9,7 @@
 		</div>
 		<div class="innder_donate_header">
 			<h2>Help Send the winners of DFC 2016 to Beijing This December</h2>
-			<p><div id="progressbar"><div class="progress-label">We've raised $4,200 of our goal of $14,500!</div></div></p>
+			<p><div id="progressbar"><div class="progress-label">We've raised $7,000 of our goal of $14,500!</div></div></p>
 			<div class="buttons">
 				<div class="donate_button" data-amount="50">$50</div>
 				<div class="donate_button" data-amount="100">$100</div>
@@ -66,7 +66,7 @@
 		});
 
 		$( "#progressbar" ).progressbar({
-      value: 28
+      value: 48
     });
 
 		$('.yellow_button').click(function() {
