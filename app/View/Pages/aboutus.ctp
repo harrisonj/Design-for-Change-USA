@@ -62,6 +62,14 @@
 				</td>
 				<td>
 					<div class="profileSection">
+						<img alt="" src="/images/team/ned.png">
+						<div class="normaltext">
+							<b>Ned Rimer</b><br>
+							<i>Co-founder<br/>Citizen Schools</i><br/>
+						</div>
+					</div>
+					
+					<div class="profileSection">
 						<img alt="" src="/images/team/mark.png">
 						<div class="normaltext">
 							<b>Mark Silberberg</b><br>

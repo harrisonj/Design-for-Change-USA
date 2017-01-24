@@ -33,8 +33,8 @@
 			</div>
 		</section>
 
-		<div class="highlightBanner">
-			<div class="contents">
+		<div class="highlightBanner" style="min-height: 10px; height: 10px; padding-top: 2px">
+			<div class="contents hide">
 				<center>
 					<div class="highlightText">
 						<div style="width: 800px">
