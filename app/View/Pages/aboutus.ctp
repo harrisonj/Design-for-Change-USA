@@ -90,6 +90,12 @@
 	</div>
 </div>
 
+<div class="insidepage block2" style="height: 0px; padding-top: 20px; padding-bottom: 50px; background-color: #f1f1f1">
+	<div class="contents">
+		<span style="font-size: 15pt"><a href="/pages/careers">We're hiring! Checkout our open positions...</a></span>
+	</div>
+</div>
+
 <div class="insidepage block2">
 	<div class="contents">
 		<h1><a name="contactus">Contact Us</a></h1>

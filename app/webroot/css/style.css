@@ -1145,12 +1145,12 @@ footer {
         position: relative;
         padding: 32px 20px 10px 0; }
         .inner_navigation ul li a.home {
-          width: 100px; }
+          width: 90px; }
         .inner_navigation ul li a.what {
-          width: 150px; }
+          width: 140px; }
         .inner_navigation ul li a.who {
           width: 100px;
-          padding-right: 15px; }
+          padding-right: 35px; }
         .inner_navigation ul li a.start {
           width: 100px; }
         .inner_navigation ul li a.stories {
@@ -1158,7 +1158,7 @@ footer {
         .inner_navigation ul li a.active {
           font-weight: bold; }
         .inner_navigation ul li a.workshops {
-          width: 130px; }
+          width: 120px; }
         .inner_navigation ul li a.login {
           width: 75px;
           padding-right: 40px; }
