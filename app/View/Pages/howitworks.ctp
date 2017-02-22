@@ -97,13 +97,18 @@
 <div class="insidepage block2">
 	<div class="contents">
 		<h1>The Global Challenge</h1>
-		<p class="normaltext">Every year, teams submit their projects in video form to be judged by a panel of experts. The winning team is awarded an all expenses trip to the The DFC Global Conference that brings together teams from across the world to share and celebrate their projects, and most importantly, inspire others! This two day event is filled with presenters, interactive workshops, music, fun and games!</p>
+		<p class="normaltext">Every year, teams submit their projects in video form to be judged by a panel of experts. The winning team is awarded an all expenses trip to the The DFC Global Conference that brings together teams from across the world to share and celebrate their projects, and most importantly, inspire others!</p>
 		<br/>
-		<div class="imagegrid">
-			<img src="/dfcusa/app/webroot/pics/btc/pic-btc7.jpg">
-			<img src="/dfcusa/app/webroot/pics/btc/pic-btc4.jpg">
-			<img src="/dfcusa/app/webroot/pics/btc/pic-btc6.jpg">
+		<div style="float: left;">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/shfF0BrXq4E" frameborder="0" allowfullscreen></iframe>
 		</div>
+		<div style="float: left; margin-left: 20px; text-align: left">
+			<img src="/dfcusa/app/webroot/pics/btc/pic-btc4.jpg">
+			<img src="/dfcusa/app/webroot/pics/btc/pic-btc6.jpg" style="margin-left: 10px">
+			<br/><br/>
+			<p class="normaltext" style="width: 600px">This two day event is filled with presenters, interactive workshops, music, fun and games! It is a life changing experience for everybody.</p>
+		</div>
+
 		<div class="clear"></div>
 	</div>
 </div>
@@ -146,7 +151,7 @@
 				<div class="box_style_2">
 					<h4><a href="#">2013 Winner</a></h4>
 					<div class="media">
-						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/jyEuqLSVMH0" webkitallowfullscreen=""></iframe>
+						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/m4v4TTXwmTA" webkitallowfullscreen=""></iframe>
 					</div>
 					<a class="story_logo" href="http://www.teachforameria.org/" target="_blank"><img src="/images/partners/tfa.png" width="120" alt="logo"></a>
 					<p>"Crazy Horse School"<br/>By The Crazy Horse School (TFA), Pine Ridge, SD</p>
