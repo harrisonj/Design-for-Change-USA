@@ -75,8 +75,8 @@
 					<p class="normaltext" style="line-height: 15pt; font-size: 10pt">
 						We'll spend time beforehand understanding your specific needs and customize a full day workshop that goes deeper into design thinking principles and the Do Good Be Good Program.<br/><br/><b>This workshop is 6 hours.</b>
 						<br/><br/>
-						<div class="button-outline white">$2,000</div>
-						<p><i>For up to 20 participants.<br/>Each additional participant is $200.</i></p>
+						<div class="button-outline white">$3,000</div>
+						<p><i>For up to 20 participants.<br/>Each additional participant is $300.</i></p>
 					</p>
 				</td>   
 				<td width="5%"></td>    
@@ -86,8 +86,8 @@
 					<p class="normaltext" style="line-height: 15pt; font-size: 10pt">
 						Our half day workshop includes a series of interactive excercises that demonstrate the value of design thinking and help participants become familiar with the DFC methodology.<Br/><br/><b>This workshop is 3.5 hours.</b>
 						<br/><br/>
-						<div class="button-outline white">$1,000</div>
-						<p><i>For up to 20 participants.<br/>Each additional participant is $100.</i></p>
+						<div class="button-outline white">$2,000</div>
+						<p><i>For up to 20 participants.<br/>Each additional participant is $200.</i></p>
 					</p>
 				</td>
 				<td width="5%"></td>
