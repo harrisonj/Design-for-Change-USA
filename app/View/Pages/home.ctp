@@ -33,13 +33,13 @@
 			</div>
 		</section>
 
-		<div class="highlightBanner" style="min-height: 10px; height: 10px; padding-top: 2px">
-			<div class="contents hide">
+		<div class="highlightBanner" style="min-height: 10px; height: 70px; padding-top: 20px">
+			<div class="contents">
 				<center>
 					<div class="highlightText">
 						<div style="width: 800px">
-							<b>Help us send the winning team from Raleigh, NC to Beijing in December!</b>
-							<a class="action_button blue" href="/pages/donate">Donate Now</a>
+							<b>The 2017 deadline, May 15th, is fast approaching. <br/>This year, you can submit presentations instead of videos.</b>
+							<a class="action_button blue" href="http://portal.designforchange.us/dfcusa-pm/pages/login">Submit Now</a>
 						</div>
 					</div>
 				</center>
