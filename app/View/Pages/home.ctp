@@ -38,7 +38,7 @@
 				<center>
 					<div class="highlightText">
 						<div style="width: 800px">
-							<b>The 2017 deadline, May 15th, is fast approaching. <br/>This year, you can submit presentations instead of videos.</b>
+							<b>The 2017 deadline, May 15th, is fast approaching. <br/>Ready to submit your project? It just takes a few minutes.</b>
 							<a class="action_button blue" href="http://portal.designforchange.us/dfcusa-pm/pages/login">Submit Now</a>
 						</div>
 					</div>
