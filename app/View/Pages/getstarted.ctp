@@ -112,13 +112,13 @@
 					</ul>
 					<p class="price">
 						<a href="/dfcusa/pages/aboutus#contactus" class="button-outline">Contact Us</a><br/>
-						$100 / month
+						$750
 					</p>
 				</div>
 			</div>
 			<div class="pricing-spacer">
 				<div class="pricingbox">
-					<h2>Network Partner</h2>
+					<h2>organization</h2>
 					<ul class="normallist">
 						<li><i>Customized Activities</i></li>
 						<li><i>Co-branded Web Tools and Activities</i></li>
@@ -140,9 +140,8 @@
 	<div class="contents">
 		<a name="toolkit"></a>
 		<h1>Our Chapter Toolkit</h1>
-		<p class="normaltext">Are you a college/university student, interested in starting a Design for Change local chapter and mentoring young change makers in your community? Sign up for a free Chapter Toolkit including step by step instructions on setting up your chapter, expert designed curriculum content and access to the DFC Web Portal.
-			<a href="/dfcusa/pages/aboutus#contactus" class="button-outline white" style="margin-left: 10px; font-size: 10pt; height: 25px; line-height: 18pt">Get The Toolkit</a><br/>
-		</p>
+		<p class="normaltext">Are you a college/university student, interested in starting a Design for Change local chapter and mentoring young change makers in your community? Sign up for a free Chapter Toolkit including step by step instructions on setting up your chapter, expert designed curriculum content and access to the DFC Web Portal.</p>
+		<a href="/dfcusa/pages/aboutus#contactus" class="button-outline white" style="margin-left: 0px; margin-top: 20px; font-size: 10pt; height: 25px; line-height: 18pt">Get The Toolkit</a><br/>
 		<div class="clear"></div>
 	</div>
 </div>

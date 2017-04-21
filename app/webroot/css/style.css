@@ -233,51 +233,61 @@ insidepage {
 
 .howitworks .projectHeader,
 .stories .projectHeader,
+.judging .projectHeader,
 .aboutus .projectHeader {
   margin-bottom: 80px; }
 .howitworks .insidepage,
 .stories .insidepage,
+.judging .insidepage,
 .aboutus .insidepage {
   padding-top: 55px;
   margin-top: 0; }
   .howitworks .insidepage.no_spacing,
   .stories .insidepage.no_spacing,
+  .judging .insidepage.no_spacing,
   .aboutus .insidepage.no_spacing {
     padding-top: 0; }
   .howitworks .insidepage.small,
   .stories .insidepage.small,
+  .judging .insidepage.small,
   .aboutus .insidepage.small {
     padding-top: 25px;
     background-color: #fff; }
     .howitworks .insidepage.small .partner_logo,
     .stories .insidepage.small .partner_logo,
+    .judging .insidepage.small .partner_logo,
     .aboutus .insidepage.small .partner_logo {
       float: left;
       margin-top: -10px;
       margin-right: 15px; }
     .howitworks .insidepage.small a,
     .stories .insidepage.small a,
+    .judging .insidepage.small a,
     .aboutus .insidepage.small a {
       color: #666;
       font-size: 10pt;
       line-height: 17pt; }
   .howitworks .insidepage.lightgrey,
   .stories .insidepage.lightgrey,
+  .judging .insidepage.lightgrey,
   .aboutus .insidepage.lightgrey {
     background-color: #f1f1f1; }
   .howitworks .insidepage.red,
   .stories .insidepage.red,
+  .judging .insidepage.red,
   .aboutus .insidepage.red {
     background-color: #ce305a;
     padding-bottom: 25px; }
     .howitworks .insidepage.red a,
     .stories .insidepage.red a,
+    .judging .insidepage.red a,
     .aboutus .insidepage.red a {
       color: #fff;
       font-size: 15pt;
       float: none; }
   .howitworks .insidepage .winning-stories,
   .stories .insidepage .winning-stories,
+  .judging .insidepage .winning-stories,
   .aboutus .insidepage .winning-stories {
     max-width: 846px;
     width: 100%;
@@ -285,6 +295,7 @@ insidepage {
     overflow: hidden; }
     .howitworks .insidepage .winning-stories .story-item,
     .stories .insidepage .winning-stories .story-item,
+    .judging .insidepage .winning-stories .story-item,
     .aboutus .insidepage .winning-stories .story-item {
       width: 50%;
       float: left;
@@ -294,6 +305,7 @@ insidepage {
       padding: 12px; }
     .howitworks .insidepage .winning-stories .box_style_2,
     .stories .insidepage .winning-stories .box_style_2,
+    .judging .insidepage .winning-stories .box_style_2,
     .aboutus .insidepage .winning-stories .box_style_2 {
       background-color: #fff;
       border: 5px solid #fbfbfc;
@@ -307,6 +319,7 @@ insidepage {
       height: 380px; }
       .howitworks .insidepage .winning-stories .box_style_2 h4,
       .stories .insidepage .winning-stories .box_style_2 h4,
+      .judging .insidepage .winning-stories .box_style_2 h4,
       .aboutus .insidepage .winning-stories .box_style_2 h4 {
         border-bottom: 1px solid #eaeff3;
         margin-bottom: 15px;
@@ -315,17 +328,20 @@ insidepage {
         text-align: center; }
         .howitworks .insidepage .winning-stories .box_style_2 h4 a,
         .stories .insidepage .winning-stories .box_style_2 h4 a,
+        .judging .insidepage .winning-stories .box_style_2 h4 a,
         .aboutus .insidepage .winning-stories .box_style_2 h4 a {
           color: #488dc6;
           font-size: 18px; }
       .howitworks .insidepage .winning-stories .box_style_2 iframe,
       .stories .insidepage .winning-stories .box_style_2 iframe,
+      .judging .insidepage .winning-stories .box_style_2 iframe,
       .aboutus .insidepage .winning-stories .box_style_2 iframe {
         width: 100%;
         min-height: 225px;
         margin-bottom: 20px; }
       .howitworks .insidepage .winning-stories .box_style_2 p,
       .stories .insidepage .winning-stories .box_style_2 p,
+      .judging .insidepage .winning-stories .box_style_2 p,
       .aboutus .insidepage .winning-stories .box_style_2 p {
         margin-top: 0px;
         float: right;
@@ -333,6 +349,7 @@ insidepage {
         text-align: left; }
     .howitworks .insidepage .winning-stories .story_logo,
     .stories .insidepage .winning-stories .story_logo,
+    .judging .insidepage .winning-stories .story_logo,
     .aboutus .insidepage .winning-stories .story_logo {
       float: left;
       display: block;
@@ -340,20 +357,24 @@ insidepage {
       margin-top: 10px; }
     .howitworks .insidepage .winning-stories.past,
     .stories .insidepage .winning-stories.past,
+    .judging .insidepage .winning-stories.past,
     .aboutus .insidepage .winning-stories.past {
       max-width: 1200px; }
       .howitworks .insidepage .winning-stories.past .story-item,
       .stories .insidepage .winning-stories.past .story-item,
+      .judging .insidepage .winning-stories.past .story-item,
       .aboutus .insidepage .winning-stories.past .story-item {
         width: 33.33%; }
       .howitworks .insidepage .winning-stories.past .box_style_2.small,
       .stories .insidepage .winning-stories.past .box_style_2.small,
+      .judging .insidepage .winning-stories.past .box_style_2.small,
       .aboutus .insidepage .winning-stories.past .box_style_2.small {
         border: 0 none;
         box-shadow: 0 0 0 0;
         padding: 0; }
         .howitworks .insidepage .winning-stories.past .box_style_2.small .media a,
         .stories .insidepage .winning-stories.past .box_style_2.small .media a,
+        .judging .insidepage .winning-stories.past .box_style_2.small .media a,
         .aboutus .insidepage .winning-stories.past .box_style_2.small .media a {
           max-height: 225px;
           display: block;
@@ -361,10 +382,12 @@ insidepage {
           margin-bottom: 10px; }
         .howitworks .insidepage .winning-stories.past .box_style_2.small .media iframe,
         .stories .insidepage .winning-stories.past .box_style_2.small .media iframe,
+        .judging .insidepage .winning-stories.past .box_style_2.small .media iframe,
         .aboutus .insidepage .winning-stories.past .box_style_2.small .media iframe {
           margin-bottom: 10px; }
   .howitworks .insidepage .more-stories,
   .stories .insidepage .more-stories,
+  .judging .insidepage .more-stories,
   .aboutus .insidepage .more-stories {
     color: #fff;
     margin: 0 auto 10px;
@@ -372,31 +395,37 @@ insidepage {
     text-align: center; }
 .howitworks .left_content,
 .stories .left_content,
+.judging .left_content,
 .aboutus .left_content {
   float: left;
   width: 58%; }
 .howitworks .box-container,
 .stories .box-container,
+.judging .box-container,
 .aboutus .box-container {
   text-align: center;
   vertical-align: baseline; }
   .howitworks .box-container .fidsbox,
   .stories .box-container .fidsbox,
+  .judging .box-container .fidsbox,
   .aboutus .box-container .fidsbox {
     display: inline-block;
     max-width: 220px; }
     .howitworks .box-container .fidsbox img,
     .stories .box-container .fidsbox img,
+    .judging .box-container .fidsbox img,
     .aboutus .box-container .fidsbox img {
       max-height: 150px; }
     .howitworks .box-container .fidsbox p,
     .stories .box-container .fidsbox p,
+    .judging .box-container .fidsbox p,
     .aboutus .box-container .fidsbox p {
       text-align: center;
       margin-top: 15px;
       line-height: 16pt; }
 .howitworks .featurebox:last-child ul,
 .stories .featurebox:last-child ul,
+.judging .featurebox:last-child ul,
 .aboutus .featurebox:last-child ul {
   max-width: 500px;
   width: 100%; }

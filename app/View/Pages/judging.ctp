@@ -1,0 +1,142 @@
+<div class="insidepage no_spacing" style="padding: 10px">
+	<div class="contents">
+		<h1>Submitting Your Project</h1>
+		<p class="normaltext">
+			The Design for Change USA deadline is fast approaching and we can't wait to see the wonderful changes your students are bringing to the world! 
+			<br/>
+			As part of the Feel, Imagine, Do, Share process, don't forget about the critical video component of your project. 
+			<br/>
+		</p>
+		<br/>
+		<p class="normaltext">
+			<b>Five people from the winning team will receive a fully funded trip to the DFC Global Conference in Spain, November 2017. </b>
+		</p>
+		<br/><br/><br/><br/><br/><br/>
+		<div class="box_style_1" style="float: left; width: 400px; height: 240px">
+			<h4><a href="#">Video Requirements</a></h4>
+			<div class="media">
+				<ul style="list-style-type: disc; margin-left: 20px">
+					<li>Short video or PPT about student project</li>
+					<li>Must be one video/project</li>
+					<li>No longer than 3-5 minutes</li>
+					<li>File Format: Video, PPT</li>
+					<li>Structure: Film must be broken out into Feel, Imagine, Do, Share headings</li>
+					<li>Projects to be submitted using DFC USA Web Portal</li>
+					<li>Professional videos are not required</li>
+					<li>For inspiration, visit: success stories</li>
+			</div>
+		</div>
+		<div class="box_style_1" style="float: left; width: 400px; height: 240px; margin-left: 25px">
+			<h4><a href="#">Footage to Include</a></h4>
+			<div class="media">
+				<ul style="list-style-type: disc; margin-left: 20px">
+					<li>Interviews with stakeholder groups</li>
+					<li>Students brainstorming and working together</li>
+					<li>Students talking about success and failures</li>
+					<li>Project implementation and sharing e.g., assemblies, community showcases, meetings, protests</li>
+					<li>Student reflections on how they feel about their project</li>
+					<li>Bloopers!!!</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="insidepage block7 small red">
+	<div class="contents">
+		<center>
+			<p class="normaltext"><a href="/dfcusa/app/webroot/files/Design for Change - Judging Rubric 2017.pdf" target="_new"><b>Download the 2017 judging rubric here.	</b></a></p>
+		</center>
+	</div>
+</div>
+
+<div class="insidepage block7">
+	<div class="contents">
+		<h1>Our 2017 Judges</h1>
+		<p class="normaltext">We are Design for Change USA, a nonprofit organization based in Cambridge, MA -- the U.S. partner of the worldwide Design for Change network.</p>
+		<br />
+		<div class="profileSection full-width">
+			<img alt="" src="/images/judges/adora.png" style="width: 180px; height: 180px">
+			<div class="normaltext">
+				<h2>Adora Svitak - Featured Judge</h2><br>
+				Adora Svitak is a third-year undergraduate at UC Berkeley, majoring in Development Studies and minoring in South Asian Studies. She is involved in writing and editing in several organizations, including Berkeley Political Review and Social Science Matrix. In the past, she has conducted research on corporate social responsibility programs at Tata Communications in New Delhi and written content for TED&#39;s education division (TED-Ed). Working at TED-Ed was a continuation of her longtime involvement in the TED community, which began when she was just twelve years old with the 2010 talk &quot;What Adults Can Learn From Kids.&quot; Adora is a passionate believer in the potential of young people to make positive changes in the world and hopes to continue advocating for youth throughout her life.
+			</div>
+		</div>
+
+	<h1>Judging Panel</h1>
+
+	<table class="profile-list">
+		<tr valign="top">
+			<td width="100%" style="padding-bottom: 30px;">
+				<div class="profileSection">
+					<img alt="" src="/images/judges/alaina.png">
+					<div class="normaltext">
+						<b>Alaina Bearden</b><br>
+						<i>Alaina Bearden is the founder and CEO of The Greater Learning, an educational foundation that works with teachers, schools, and families in order to provide the best possible learning options for students. She is also a faculty instructor for Revolution Prep where she specializes in college access and academic success for students with learning differences. Ms. Bearden earned her EdM at Harvard Graduate School of Education. She taught in Haiti, Honduras, Boston and Alabama and specializes in project-based learning. She is particularly passionate about the steps it takes to help a community rebuild after trauma and disaster and believes that student design is a key contributor to making a positive difference in the world. She is thrilled and honored to be a part of the DFC!</i><br/>
+					</div>
+				</div>
+			</td>
+		</tr>
+
+		<tr valign="top">
+			<td width="100%" style="padding-bottom: 30px;">
+				<div class="profileSection">
+					<img alt="" src="/images/judges/stacey.png">
+					<div class="normaltext">
+						<b>Stacey Herr</b><br>
+						<i>I have taught in public education for thirteen years receiving my Bachelor’s degree from University of Wisconsin-Madison and my Master’s degree from University of Arizona.  I’ve worked as a special education teacher and also volunteered working with students with special needs in Mexico.  Currently, I work as an Instructional Coach working with teachers to incorporate Project Based Learning and 6 Standards of Effective Pedagogy into their classroom as well as create and implement professional development to staff members.  In my spare time, I love to travel and have traveled to five continents (North America, South America, Africa, Asia, and Europe).</i><br/>
+					</div>
+				</div>
+			</td>
+		</tr>
+
+		<tr valign="top">
+			<td width="100%" style="padding-bottom: 30px;">
+				<div class="profileSection">
+					<img alt="" src="/images/judges/arvind.png">
+					<div class="normaltext">
+						<b>Arvind Lodaya</b><br>
+						<i>Arvind Lodaya has interwoven business, activism and academics into his nearly three-decade long career. He was co-founder and Creative Director at Ogilvy’s design consultancy for five years, and Faculty &amp; Dean at Srishti Institute of Art, Design &amp; Technology for eight years. He has lived in Bombay, Ahmedabad and Bangalore, has taught/lectured at design, art, business and tech schools around the world, and co-founded nonprofits as well as an impact entrepreneurship academy. Currently, he consults with and mentors innovative tech startups and venture funds, particularly those with social impact, and gives workshops on breakthrough design, innovation and social entrepreneurship.</i><br/>
+					</div>
+				</div>
+			</td>
+		</tr>
+
+		<tr valign="top">
+			<td width="100%" style="padding-bottom: 30px;">
+				<div class="profileSection">
+					<img alt="" src="/images/judges/ryan.png">
+					<div class="normaltext">
+						<b>Ryan Mulloy</b><br>
+						<i>Ryan believes in putting people first. So much so, he put the big agency world behind him to help build Carter Edwards &amp; Company, a service design firm with the mission of putting people at the heart of every business. Ryan’s now using his deep roots in human-centered design and his relationships with Fortune 100 companies to bring Design Thinking to the board room. Because when this goes well, he believes businesses can better balance growth, performance, and doing the right thing for our communities. Previous to Carter Edwards &amp; Company, Ryan a leader for one of the largest Experience Design teams in the country with SapientNitro Boston. His responsibilities there included delivering on highly complex technology experiences, but also creating their non-profit team and working with local start-ups to foster a Boston a community of design, technology and innovation.”</i><br/>
+					</div>
+				</div>
+			</td>
+		</tr>
+
+		<tr valign="top">
+			<td width="100%" style="padding-bottom: 30px;">
+				<div class="profileSection">
+					<img alt="" src="/images/judges/brian.png">
+					<div class="normaltext">
+						<b>Brian Patel</b><br>
+						<i>I am currently a practicing Emergency Medicine Physician at Sturdy Memorial Hospital in Attleboro, MA. I have been at Sturdy Memorial Hospital since completing my residency training at Rhode Island Hospital in 2005. Currently, I am the Chief of the Emergency Department and Associate Chief Quality Officer for the hospital. I am also the medical director for 7 local EMS departments.  My roles include overseeing the daily functioning of a busy community Emergency Department and ensuring that patients receive timely high quality and safe medical care. I am also responsible for assisting with overseeing the processes to ensure that the hospital as a whole maintains high quality in all areas of its service.</i><br/>
+					</div>
+				</div>
+			</td>
+		</tr>
+
+		<tr valign="top">
+			<td width="100%" style="padding-bottom: 30px;">
+				<div class="profileSection">
+					<img alt="" src="/images/judges/tara.png">
+					<div class="normaltext">
+						<b>Tara Seibel</b><br>
+						<i>Tara Seibel is an educator committed to praxis and culturally sustaining frameworks to position students in the place of power in the school system and to foster critical consciousness. Over the past decade, her work has included teaching high school science in North Carolina, coaching math and science teachers in Colorado, managing an instructional development team in South Dakota, and training teachers in Nicaragua. The pattern through her work has been her aim to refine both curriculum and pedagogy to be rigorous, relational and responsive.</i><br/>
+					</div>
+				</div>
+			</td>
+		</tr>
+	</table>
+	</div>
+</div>

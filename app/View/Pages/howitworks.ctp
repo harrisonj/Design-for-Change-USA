@@ -59,29 +59,33 @@
 		<h1>The Do Good Be Good Program</h1>
 		<p class="normaltext">Working with Design for Change is easy. We offer everything from free activities to comprehensive program management.</p>
 		<div class="featurebox">
-			<img src="/dfcusa/app/webroot/images/curriculum_cover.png" class="bookcover" style="height: 200px">
-			<ul class="normallist">
-				<span class="title">Activities</span>
-				<li>Over 50 activities designed by experts</li>
-				<li>Each activity is 30 or 60 minutes</li>
-				<li>Teach 21st century skills like empathy, creativity, collaboration, critical thinking and more</li>
-			</ul>
-			<img src="/dfcusa/app/webroot/images/videopreview.png" class="bookcover" style="float: right; margin-top: 50px">
-			<ul class="normallist" style="margin-top: 50px">
-				<span class="title">Resources</span>
-				<li>Web platform that helps mentors through each step</li>
-				<li>Interactive tutorials and videos and project management</li>
-				<li>Action plans customized to the organization’s needs</li>
-			</ul>
-		</div>
-		<div class="featurebox">
-			<img src="/dfcusa/app/webroot/images/postitnotes.jpg" class="bookcover" style="width: 500px">
-			<ul class="normallist">
-				<span class="title">Training & Support</span>
-				<li>3 or 5 hour custom interactive workshops that teach design thinking and the DFC methodology</li>
-				<li>Onsite training and remote webinars</li>
-				<li>E-mail, phone and live chat support</li>
-			</ul>
+			<div style="height: 250px">
+				<img src="/dfcusa/app/webroot/images/curriculum_cover.png" class="bookcover" style="height: 210px">
+				<ul class="normallist">
+					<span class="title">Activities</span>
+					<li>Over 50 activities designed by experts</li>
+					<li>Each activity is 30 or 60 minutes</li>
+					<li>Teach 21st century skills like empathy, creativity, collaboration, critical thinking and more</li>
+				</ul>
+			</div>
+			<div style="height: 250px">
+				<img src="/dfcusa/app/webroot/images/videopreview.png" class="bookcover" style="height: 200px;">
+				<ul class="normallist">
+					<span class="title">Resources</span>
+					<li>Web platform that helps mentors through each step</li>
+					<li>Interactive tutorials and videos and project management</li>
+					<li>Action plans customized to the organization’s needs</li>
+				</ul>
+			</div>
+			<div>
+				<img src="/dfcusa/app/webroot/images/postitnotes.jpg" class="bookcover" style="width: 400px">
+				<ul class="normallist">
+					<span class="title">Training & Support</span>
+					<li>3 or 5 hour custom interactive workshops that teach design thinking and the DFC methodology</li>
+					<li>Onsite training and remote webinars</li>
+					<li>E-mail, phone and live chat support</li>
+				</ul>
+			</div>
 		</div>
 	</div>
 </div>
@@ -110,6 +114,14 @@
 		</div>
 
 		<div class="clear"></div>
+	</div>
+</div>
+
+<div class="insidepage block7 small red">
+	<div class="contents">
+		<center>
+			<p class="normaltext"><a href="/dfcusa/pages/judging"><b>Learn about the submission and judging process.</b></a></p>
+		</center>
 	</div>
 </div>
 
