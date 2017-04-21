@@ -6,6 +6,10 @@
 			<br/>
 			As part of the Feel, Imagine, Do, Share process, don't forget about the critical video component of your project. 
 			<br/>
+			<ul style="list-style-type: disc; margin-left: 20px; margin-top: 15px">
+				<li><b>Deadline:</b> May 15th, 2017</li>
+				<li><b>Winners Announced:</b> May 30th, 2017</li>
+			</ul>
 		</p>
 		<br/>
 		<p class="normaltext">
