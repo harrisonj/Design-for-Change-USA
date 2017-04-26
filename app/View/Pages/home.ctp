@@ -33,12 +33,12 @@
 			</div>
 		</section>
 
-		<div class="highlightBanner" style="min-height: 10px; height: 70px; padding-top: 20px">
+		<div class="highlightBanner" style="min-height: 10px; height: 90px; padding-top: 30px">
 			<div class="contents">
 				<center>
 					<div class="highlightText">
 						<div style="width: 90%">
-							<b>The 2017 deadline, May 15th, is fast approaching. <br/>Read important information about how to submit your project and about the DFC Jury Panel.</b>
+							<b>The 2017 deadline, <span style="font-size: 18pt">May 15th</span>, is fast approaching. <br/>Read important information about how to submit your project and about the DFC Jury Panel.</b>
 							<a class="action_button blue" href="/pages/judging" style="font-size: 15pt">Learn More</a>
 						</div>
 					</div>
