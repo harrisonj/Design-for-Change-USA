@@ -37,9 +37,9 @@
 			<div class="contents">
 				<center>
 					<div class="highlightText">
-						<div style="width: 800px">
-							<b>The 2017 deadline, May 15th, is fast approaching. <br/>Ready to submit your project? It just takes a few minutes.</b>
-							<a class="action_button blue" href="http://portal.designforchange.us/dfcusa-pm/pages/login">Submit Now</a>
+						<div style="width: 90%">
+							<b>The 2017 deadline, May 15th, is fast approaching. <br/>Read important information about how to submit your project and about the DFC Jury Panel.</b>
+							<a class="action_button blue" href="/pages/judging">Learn More</a>
 						</div>
 					</div>
 				</center>
