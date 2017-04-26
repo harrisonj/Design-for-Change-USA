@@ -39,7 +39,7 @@
 					<div class="highlightText">
 						<div style="width: 90%">
 							<b>The 2017 deadline, May 15th, is fast approaching. <br/>Read important information about how to submit your project and about the DFC Jury Panel.</b>
-							<a class="action_button blue" href="/pages/judging">Learn More</a>
+							<a class="action_button blue" href="/pages/judging" style="font-size: 15pt">Learn More</a>
 						</div>
 					</div>
 				</center>
