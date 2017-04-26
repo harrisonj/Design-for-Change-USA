@@ -1,6 +1,7 @@
 <div class="insidepage no_spacing" style="padding: 10px">
 	<div class="contents">
-		<h1>Submitting Your Project</h1>
+		<h1>Submitting Your Project
+		<a class="action_button red" href="http://portal.designforchange.us/dfcusa-pm/pages/login" style="font-size: 15pt; width: 200px; height: 25px; line-height: 25px; float: right">Submit Now</a></h1>
 		<p class="normaltext">
 			The Design for Change USA deadline is fast approaching and we can't wait to see the wonderful changes your students are bringing to the world! 
 			<br/>
@@ -11,9 +12,6 @@
 				<li><b>Winners Announced:</b> May 30th, 2017</li>
 			</ul>
 		</p>
-		<br/><br/>
-		<a class="action_button blue" href="http://portal.designforchange.us/dfcusa-pm/pages/login" style="font-size: 15pt;">Submit Now</a>
-		<br/><br/><br/>
 		<p class="normaltext">
 			<b>Five people from the winning team will receive a fully funded trip to the DFC Global Conference in Spain, November 2017. </b>
 		</p>
