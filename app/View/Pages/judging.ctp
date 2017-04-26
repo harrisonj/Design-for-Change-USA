@@ -49,7 +49,7 @@
 <div class="insidepage block7 small red">
 	<div class="contents">
 		<center>
-			<p class="normaltext"><a href="/dfcusa/app/webroot/files/Design for Change - Judging Rubric 2017.pdf" target="_new"><b>Download the 2017 judging rubric here.	</b></a></p>
+			<p class="normaltext"><a href="/dfcusa/app/webroot/files/Design for Change - Judging Rubric 2017.pdf" target="_new"><b>Download the 2017 judging rubric. <a class="action_button blue" href="/dfcusa/app/webroot/files/Design for Change - Judging Rubric 2017.pdf" style="font-size: 15pt">Download</a></b></a></p>
 		</center>
 	</div>
 </div>
