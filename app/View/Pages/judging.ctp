@@ -97,6 +97,18 @@
 		<tr valign="top">
 			<td width="100%" style="padding-bottom: 30px;">
 				<div class="profileSection">
+					<img alt="" src="/images/judges/roma.png">
+					<div class="normaltext">
+						<b>Roma Kalani</b><br>
+						<i>Roma Kalani is a multidisciplinary artist from Mumbai, India and an interdisciplinary STEAM educator. Her creative fields of practice include digital illustrations, graphic designing, humanitarian photography, heat embossing and gold foiling. She has academic foundations in computer science and art direction, and her work experience is diverse, ranging from being a business analyst to a visual storyteller. She was the co-curator of the first-ever global TEDCity2.0 conference in Mumbai, India in 2012. She was a Fellow with Teach for India from 2014 to 2016. Her design proposals have been represented at Microsoft’s Imagine Cup and IBM’s The Great Mind Challenge (TGMC) in 2009 and 2010. Presently, she is a graduate student of Education at Harvard University, exploring the interaction of the arts in learning environments. In her free time, when she is not creating art or studying education, she spends time creating more art.</i><br/>
+					</div>
+				</div>
+			</td>
+		</tr>
+
+		<tr valign="top">
+			<td width="100%" style="padding-bottom: 30px;">
+				<div class="profileSection">
 					<img alt="" src="/images/judges/arvind.png">
 					<div class="normaltext">
 						<b>Arvind Lodaya</b><br>
