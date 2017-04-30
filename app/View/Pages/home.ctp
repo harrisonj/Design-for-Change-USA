@@ -138,7 +138,7 @@
 
 		<section class="block7">
 			<div class="testimonials">
-				<div class="testimonial hide">
+<!-- 				<div class="testimonial hide">
 					<div class="quote">
 						<div class="headshot">
 							<img src="/app/webroot/images/testimonials/howardg.png"/>
@@ -149,7 +149,7 @@
 							<br/><br/><i>- Howard Gardner<br/>Harvard Graduate School of Education</i>
 						</blockquote>
 					</div>
-				</div>
+				</div> -->
 
 				<div class="testimonial">
 					<div class="quote">
