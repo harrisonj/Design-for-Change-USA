@@ -138,7 +138,7 @@
 
 		<section class="block7">
 			<div class="testimonials">
-				<div class="testimonial">
+				<div class="testimonial hide">
 					<div class="quote">
 						<div class="headshot">
 							<img src="/app/webroot/images/testimonials/howardg.png"/>
