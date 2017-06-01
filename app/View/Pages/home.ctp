@@ -37,7 +37,7 @@
 				<center>
 					<div class="highlightText">
 						<div style="width: 90%">
-							<b>Announcing the Design for Change 2017 Winners!!!</b>
+							<b>Announcing the Design for Change 2017 Winning Team!!!</b>
 							<br/><b>Washington Elementary from Sandpoint, ID</b> and their project to address youth suicide in their community...							
 							<a class="action_button blue" href="/pages/stories" style="font-size: 15pt">Learn More</a>
 						</div>
