@@ -4,6 +4,16 @@
 		<div class="winning-stories">
 			<div class="story-item">
 				<div class="box_style_2">
+					<h4><a href="#">2017 Winner</a></h4>
+					<div class="media">
+						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/zo9hSH4LArI" webkitallowfullscreen="true"></iframe>
+					</div>
+					<a href="http://www.exploris.org/" target="_new"><img src="/images/partners/washington_elementary.png" width="80" alt="logo"></a>
+					<p>"H.O.P.E : Have Only Positive Expectations "<br/>By Washington Elementary, Sandpoint, ID</p>
+				</div>
+			</div>
+			<div class="story-item">
+				<div class="box_style_2">
 					<h4><a href="#">2016 Winner</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/70YnAcqvq3E" webkitallowfullscreen=""></iframe>
@@ -32,7 +42,7 @@
 					<p>"Trap Houses"<br/>By Charles Rice Learning Center (ACU), Dallas, TX</p>
 				</div>
 			</div>
-			<div class="story-item">
+			<div class="story-item" style="float: center">
 				<div class="box_style_2">
 					<h4><a href="#">2013 Winner</a></h4>
 					<div class="media">
@@ -45,7 +55,38 @@
 		</div>
 	</div>
 </div>
-<div class="insidepage">
+<div class="insidepage no_spacing">
+	<div class="contents">
+		<h1>2017 Runner Ups</h1>
+		<div class="winning-stories past">
+			<div class="story-item">
+				<div class="box_style_2 small">
+					<div class="media">
+						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/EM-NNfb6tWc" webkitallowfullscreen=""></iframe>
+					</div>
+					<b>Holy Names Academy</b><br/><i>I'm Not For Sale</i><br/>Seattle, WA
+				</div>
+			</div>
+			<div class="story-item">
+				<div class="box_style_2 small">
+					<div class="media">
+						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/FR748t72coM" webkitallowfullscreen=""></iframe>
+					</div>
+					<b>Exploris School</b><br/><i>Drum Majors for Justice</i><br/>Raleigh, NC
+				</div>
+			</div>
+			<div class="story-item">
+				<div class="box_style_2 small">
+					<div class="media">
+						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/3SmdYTpILvs" webkitallowfullscreen=""></iframe>
+					</div>
+					<b>MICA Center for Social Design + Lakeland Elementary Middle School</b><br/><i>Dear Lakeland</i><br/>Baltimore, MD
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="insidepage no_spacing">
 	<div class="contents">
 		<h1>2016 Runner Ups</h1>
 		<div class="winning-stories past">
@@ -76,7 +117,7 @@
 		</div>
 	</div>
 </div>
-<div class="insidepage">
+<div class="insidepage no_spacing">
 	<div class="contents">
 		<h1>2015 Runner Ups</h1>
 		<div class="winning-stories past">
@@ -107,7 +148,7 @@
 		</div>
 	</div>
 </div>
-<div class="insidepage">
+<div class="insidepage no_spacing">
 	<div class="contents">
 		<h1>2014 Runner Ups</h1>
 		<div class="winning-stories past">

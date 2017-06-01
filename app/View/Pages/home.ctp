@@ -32,13 +32,14 @@
 			</div>
 		</section>
 
-		<div class="highlightBanner" style="min-height: 10px; height: 90px; padding-top: 30px">
+		<div class="highlightBanner" style="min-height: 10px; height: 80px; padding-top: 30px">
 			<div class="contents">
 				<center>
 					<div class="highlightText">
 						<div style="width: 90%">
-							<b>The 2017 deadline, <span style="font-size: 18pt">May 15th</span>, is fast approaching. <br/>Read important information about how to submit your project and about the DFC Jury Panel.</b>
-							<a class="action_button blue" href="/pages/judging" style="font-size: 15pt">Learn More</a>
+							<b>Announcing the Design for Change 2017 Winners!!!</b>
+							<br/><b>Washington Elementary from Sandpoint, ID</b> and their project to address youth suicide in their community...							
+							<a class="action_button blue" href="/pages/stories" style="font-size: 15pt">Learn More</a>
 						</div>
 					</div>
 				</center>
