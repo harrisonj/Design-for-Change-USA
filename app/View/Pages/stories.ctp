@@ -42,7 +42,7 @@
 					<p>"Trap Houses"<br/>By Charles Rice Learning Center (ACU), Dallas, TX</p>
 				</div>
 			</div>
-			<div class="story-item" style="float: center">
+			<div class="story-item">
 				<div class="box_style_2">
 					<h4><a href="#">2013 Winning Team</a></h4>
 					<div class="media">
