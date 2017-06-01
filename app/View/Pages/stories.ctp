@@ -2,19 +2,19 @@
 	<div class="contents">
 		<h1>Winning Stories of Change</h1>
 		<div class="winning-stories">
-			<div class="story-item">
-				<div class="box_style_2">
-					<h4><a href="#">2017 Winner</a></h4>
-					<div class="media">
-						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/zo9hSH4LArI" webkitallowfullscreen="true"></iframe>
+			<div class="story-item" style="width: 100%; height: 520px">
+				<div class="box_style_2" style="height: 450px">
+					<h4><a href="#">2017 Winning Team</a></h4>
+					<div class="media" style="height: 320px">
+						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/zo9hSH4LArI" webkitallowfullscreen="true" height="300"></iframe>
 					</div>
-					<a href="http://www.exploris.org/" target="_new"><img src="/images/partners/washington_elementary.png" width="80" alt="logo"></a>
-					<p>"H.O.P.E : Have Only Positive Expectations "<br/>By Washington Elementary, Sandpoint, ID</p>
+					<a href="http://wa.lposd.org/" target="_new"><img src="/images/partners/washington_elementary.png" width="80" alt="logo" style="float: left; margin-right: 20px"></a>
+					<p style="float: left; max-width: 300px">"H.O.P.E : Have Only Positive Expectations "<br/>By Washington Elementary, Sandpoint, ID</p>
 				</div>
 			</div>
 			<div class="story-item">
 				<div class="box_style_2">
-					<h4><a href="#">2016 Winner</a></h4>
+					<h4><a href="#">2016 Winning Team</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/70YnAcqvq3E" webkitallowfullscreen=""></iframe>
 					</div>
@@ -24,7 +24,7 @@
 			</div>
 			<div class="story-item">
 				<div class="box_style_2">
-					<h4><a href="#">2015 Winner</a></h4>
+					<h4><a href="#">2015 Winning Team</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/QbrHVZ7yJ4w" webkitallowfullscreen=""></iframe>
 					</div>
@@ -34,7 +34,7 @@
 			</div>
 			<div class="story-item">
 				<div class="box_style_2">
-					<h4><a href="#">2014 Winner</a></h4>
+					<h4><a href="#">2014 Winning Team</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/jyEuqLSVMH0" webkitallowfullscreen=""></iframe>
 					</div>
@@ -44,7 +44,7 @@
 			</div>
 			<div class="story-item" style="float: center">
 				<div class="box_style_2">
-					<h4><a href="#">2013 Winner</a></h4>
+					<h4><a href="#">2013 Winning Team</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/m4v4TTXwmTA" webkitallowfullscreen=""></iframe>
 					</div>
