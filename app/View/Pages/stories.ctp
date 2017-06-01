@@ -55,7 +55,7 @@
 		</div>
 	</div>
 </div>
-<div class="insidepage no_spacing">
+<div class="insidepage no_spacing" style="padding-bottom: 0px; padding-top: 0px">
 	<div class="contents">
 		<h1>2017 Runner Ups</h1>
 		<div class="winning-stories past">
@@ -86,7 +86,7 @@
 		</div>
 	</div>
 </div>
-<div class="insidepage no_spacing">
+<div class="insidepage no_spacing" style="padding-bottom: 0px; padding-top: 0px">
 	<div class="contents">
 		<h1>2016 Runner Ups</h1>
 		<div class="winning-stories past">
@@ -117,7 +117,7 @@
 		</div>
 	</div>
 </div>
-<div class="insidepage no_spacing">
+<div class="insidepage no_spacing" style="padding-bottom: 0px; padding-top: 0px">
 	<div class="contents">
 		<h1>2015 Runner Ups</h1>
 		<div class="winning-stories past">
@@ -148,7 +148,7 @@
 		</div>
 	</div>
 </div>
-<div class="insidepage no_spacing">
+<div class="insidepage no_spacing" style="padding-bottom: 0px; padding-top: 0px">
 	<div class="contents">
 		<h1>2014 Runner Ups</h1>
 		<div class="winning-stories past">
