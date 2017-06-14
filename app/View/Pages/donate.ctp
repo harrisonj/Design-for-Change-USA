@@ -25,23 +25,23 @@
 			<h1 style="line-height: 45px">Students from Sandpoint, Idaho address the suicide crisis in their community</h1>
 			We are proud to announce the winners of DFC USA 2017 - students from Washington, Elementary in Sandpoint, Idaho for their project H.O.P.E (Have Only Positive Expectation), a project to address teen suicides in their community. Watch their amazing story <a href="https://www.youtube.com/watch?v=zo9hSH4LArI" target="_new">here</a>.
  			<br/><br/>
- 			Each year, DFC hosts a global conference inviting student change makers from over 50+ countries to share their ideas for a better world, and to celebrate what it means to "be the change!" Teams submit projects that are evaluated by industry experts. Several student teams submit to the DFC Challenge, but only one is selected from EACH country to attend the global conference, this year, in Madrid Spain (Nov 2017).
+ 			Each year, DFC hosts a global conference inviting student change makers from over 45+ countries to share their ideas for a better world, and to celebrate what it means to "be the change!" Teams submit projects that are evaluated by industry experts. Several student teams submit to the DFC Challenge, but only one is selected from EACH country to attend the global conference, this year, in Madrid Spain (Nov 2017).
  			<br/><br/>
-			Help support their journey! Make a donation today!
+			<p style="font-size: 15pt">Help support their journey! Make a donation today!</p>
 		</div>
 	</div>
 
 
 	<div class="insidepage">
 		<div class="contents">
-			<h1>This trip is a life changing experience</h1>
+			<h1>This trip is a once in a lifetime experience</h1>
 			<br/>
-			<p class="normaltext" style="float: left; width: 40%; font-size: 15pt">
-				"It ain't about us, it ain’t about the selfishness that people have in them, it's not about that - it's about what they care about, if they care, if they love, it's going to go global... we're all equal"
-				<Br/><Br/>-- Wakan, previous DFC USA winner and Be The Change conference attendee
-			</p>
-			<p class="normaltext" style="float: right; width: 50%">
+			<p class="normaltext" style="float: left; width: 30%">
 				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/MkVYu-ZvDR8" webkitallowfullscreen="" width="500" height="300"></iframe>
+			</p>
+			<p class="normaltext" style="float: right; width: 55%; font-size: 12pt">
+				"It ain't about us, it ain’t about the selfishness that people have in them, it's not about that - it's about what they care about, if they care, if they love, it's going to go global... <br/>we're all equal"
+				<Br/><Br/>-- Wakan, previous DFC USA winner and Be The Change conference attendee
 			</p>
 			<div class="clear"></div>
 		</div>
