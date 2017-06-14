@@ -11,8 +11,8 @@
 			<h2 style="padding-top: 15px">Help Send the winners of DFC 2017 to Madrid, Spain This November</h2>
 			<p><div id="progressbar"><div class="progress-label">We've raised $1,000 of our goal of $22,000!</div></div></p>
 			<div class="buttons">
-				<div class="donate_button" data-amount="50">$50</div>
 				<div class="donate_button" data-amount="100">$100</div>
+				<div class="donate_button" data-amount="250">$250</div>
 				<div class="donate_button" data-amount="500">$500</div>
 			</div>
 			<div class="yellow_button">Donate Now</div>
