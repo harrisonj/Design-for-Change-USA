@@ -4,11 +4,11 @@
 			<div class="media">
 				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/zo9hSH4LArI" webkitallowfullscreen=""></iframe>
 			</div>
-			<a href="http://www.exploris.org/" target="_new"><img src="/images/partners/washington_elementary.png" width="120" alt="logo" style="float: left; margin-right: 20px"></a>
+			<a href="http://wa.lposd.org/" target="_new"><img src="/images/partners/washington_elementary.png" width="120" alt="logo" style="float: left; margin-right: 20px"></a>
 			<p style="float: left; max-width: 300px">"H.O.P.E : Have Only Positive Expectations"<br/>By Washington Elementary, Sandpoint, ID</p>
 		</div>
 		<div class="innder_donate_header">
-			<h2 style="padding-top: 5px">Help Send the winners of DFC 2017 to Madrid, Spain This November</h2>
+			<h2 style="padding-top: 15px">Help Send the winners of DFC 2017 to Madrid, Spain This November</h2>
 			<p><div id="progressbar"><div class="progress-label">We've raised $1,000 of our goal of $22,000!</div></div></p>
 			<div class="buttons">
 				<div class="donate_button" data-amount="50">$50</div>
