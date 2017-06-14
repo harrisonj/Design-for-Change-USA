@@ -59,7 +59,7 @@
     	});
 
 		$('.yellow_button').click(function() {
-			location.href = 'https://donorbox.org/design-for-change-usa-2017-winning-team';
+			location.href = 'https://donorbox.org/design-for-change-usa-2017-winning-team?amount=' + $('.donate_button.buttonDown').attr('data-amount');
 		});
 	});
 
