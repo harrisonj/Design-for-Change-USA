@@ -2,14 +2,14 @@
 	<div class="container">
 		<div class="callout_box">
 			<div class="media">
-				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/70YnAcqvq3E" webkitallowfullscreen=""></iframe>
+				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/zo9hSH4LArI" webkitallowfullscreen=""></iframe>
 			</div>
-			<a href="http://www.exploris.org/" target="_new"><img src="/images/partners/exploris_finallogo.png" width="120" alt="logo"></a>
-			<p>"Supporting Refugees in Our Community"<br/>By Exploris School, Raleigh, NC</p>
+			<a href="http://www.exploris.org/" target="_new"><img src="/images/partners/washington_elementary.png" width="120" alt="logo" style="float: left; margin-right: 20px"></a>
+			<p style="float: left; max-width: 300px">"H.O.P.E : Have Only Positive Expectations"<br/>By Washington Elementary, Sandpoint, ID</p>
 		</div>
 		<div class="innder_donate_header">
-			<h2>Help Send the winners of DFC 2016 to Beijing This December</h2>
-			<p><div id="progressbar"><div class="progress-label">We've raised $14,300 of our goal of $14,500!</div></div></p>
+			<h2 style="padding-top: 5px">Help Send the winners of DFC 2017 to Madrid, Spain This November</h2>
+			<p><div id="progressbar"><div class="progress-label">We've raised $1,000 of our goal of $22,000!</div></div></p>
 			<div class="buttons">
 				<div class="donate_button" data-amount="50">$50</div>
 				<div class="donate_button" data-amount="100">$100</div>
@@ -22,26 +22,15 @@
 
 	<div class="insidepage block2 donateContent">
 		<div class="contents">
-			<h1 style="line-height: 45px">Students from Raleigh harvest 125 pounds of vegetables to help refugees</h1>
-			We are proud to announce the winners of Design for Change USA 2016 - 4th and 5th grade students from the Exploris School in North Carolina - for their incredible work to support the refugee community living in the city of Raleigh.
+			<h1 style="line-height: 45px">Students from Sandpoint, Idaho address the suicide crisis in their community</h1>
+			We are proud to announce the winners of DFC USA 2017 - students from Washington, Elementary in Sandpoint, Idaho for their project H.O.P.E (Have Only Positive Expectation), a project to address teen suicides in their community. Watch their amazing story <a href="https://www.youtube.com/watch?v=zo9hSH4LArI" target="_new">here</a>.
  			<br/><br/>
-			The Exploris team will attend the annual DFC Global Conference, <a href="http://www.dfcworld.com/" target="_new">Be The Change</a>, where they’ll share their project with DFC teams from over 40 countries, celebrate their success and inspire others. This year, the conference will be held in Beijing, China on December 9-11th, 2016.
+ 			Each year, DFC hosts a global conference inviting student change makers from over 50+ countries to share their ideas for a better world, and to celebrate what it means to "be the change!" Teams submit projects that are evaluated by industry experts. Several student teams submit to the DFC Challenge, but only one is selected from EACH country to attend the global conference, this year, in Madrid Spain (Nov 2017).
  			<br/><br/>
 			Help support their journey! Make a donation today!
 		</div>
 	</div>
 
-	<div class="insidepage block7 donateContent">
-		<div class="contents">
-			Imagine fleeing your home, leaving behind everything you know, arriving in a foreign place and then being thrust into, of all places, a food dessert!
- 			<br/><br/>
-			Working through the Design for Change framework: Feel, Imagine, Do, Share, Exploris students recognized an unmet need in their community – refugees having access to healthy food.
-			<br/><br/>
-			... so they did something about it!
-			<br/><br/>
-			Watch <a href="https://www.youtube.com/embed/70YnAcqvq3E" target="_new">THIS video</a> to see how Exploris students supported their new neighbors to ensure they live a happy and healthy life. 
-		</div>
-	</div>
 
 	<div class="insidepage">
 		<div class="contents">
@@ -52,7 +41,7 @@
 				<Br/><Br/>-- Wakan, previous DFC USA winner and Be The Change conference attendee
 			</p>
 			<p class="normaltext" style="float: right; width: 50%">
-				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/rcqjQz-9DvQ" webkitallowfullscreen="" width="500" height="300"></iframe>
+				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/MkVYu-ZvDR8" webkitallowfullscreen="" width="500" height="300"></iframe>
 			</p>
 			<div class="clear"></div>
 		</div>
@@ -66,11 +55,11 @@
 		});
 
 		$( "#progressbar" ).progressbar({
-      value: 98
-    });
+      		value: 5
+    	});
 
 		$('.yellow_button').click(function() {
-			location.href = 'https://www.classy.org/checkout/donation?eid=95660&amount=' + $('.donate_button.buttonDown').attr('data-amount');
+			location.href = 'https://donorbox.org/design-for-change-usa-2017-winning-team';
 		});
 	});
 

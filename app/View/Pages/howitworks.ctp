@@ -104,11 +104,10 @@
 		<p class="normaltext">Every year, teams submit their projects in video form to be judged by a panel of experts. The winning team is awarded an all expenses trip to the The DFC Global Conference that brings together teams from across the world to share and celebrate their projects, and most importantly, inspire others!</p>
 		<br/>
 		<div style="float: left;">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/shfF0BrXq4E" frameborder="0" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/MkVYu-ZvDR8" frameborder="0" allowfullscreen></iframe>
 		</div>
 		<div style="float: left; margin-left: 20px; text-align: left">
-			<img src="/dfcusa/app/webroot/pics/btc/pic-btc4.jpg">
-			<img src="/dfcusa/app/webroot/pics/btc/pic-btc6.jpg" style="margin-left: 10px">
+			<iframe width="450" height="225" src="https://www.youtube.com/embed/shfF0BrXq4E" frameborder="0" allowfullscreen></iframe>
 			<br/><br/>
 			<p class="normaltext" style="width: 600px">This two day event is filled with presenters, interactive workshops, music, fun and games! It is a life changing experience for everybody.</p>
 		</div>
@@ -129,6 +128,16 @@
 	<div class="contents">
 		<h1>Winning Stories of Change</h1>
 		<div class="winning-stories">
+			<div class="story-item">
+				<div class="box_style_2">
+					<h4><a href="#">2017 Winner</a></h4>
+					<div class="media">
+						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/zo9hSH4LArI" webkitallowfullscreen=""></iframe>
+					</div>
+					<a href="http://wa.lposd.org/" target="_new"><img src="/images/partners/washington_elementary.png" width="80" alt="logo" style="float: left; margin-right: 30px"></a>
+					<p style="float: right; max-width: 225px">"H.O.P.E : Have Only Positive Expectations "<br/>By Washington Elementary, Sandpoint, ID</p>
+				</div>
+			</div>
 			<div class="story-item">
 				<div class="box_style_2">
 					<h4><a href="#">2016 Winner</a></h4>
@@ -157,16 +166,6 @@
 					</div>
 					<a class="story_logo" href="http://www.acu.edu/" target="_blank"><img src="/images/partners/acu.png" width="80" alt="logo"></a>
 					<p>"Trap Houses"<br/>By Charles Rice Learning Center (ACU), Dallas, TX</p>
-				</div>
-			</div>
-			<div class="story-item">
-				<div class="box_style_2">
-					<h4><a href="#">2013 Winner</a></h4>
-					<div class="media">
-						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/m4v4TTXwmTA" webkitallowfullscreen=""></iframe>
-					</div>
-					<a class="story_logo" href="http://www.teachforameria.org/" target="_blank"><img src="/images/partners/tfa.png" width="120" alt="logo"></a>
-					<p>"Crazy Horse School"<br/>By The Crazy Horse School (TFA), Pine Ridge, SD</p>
 				</div>
 			</div>
 		</div>
