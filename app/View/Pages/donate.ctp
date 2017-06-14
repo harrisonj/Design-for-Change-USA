@@ -36,10 +36,10 @@
 		<div class="contents">
 			<h1>This trip is a once in a lifetime experience</h1>
 			<br/>
-			<p class="normaltext" style="float: left; width: 30%">
+			<p class="normaltext" style="float: left; width: 550px">
 				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/MkVYu-ZvDR8" webkitallowfullscreen="" width="500" height="300"></iframe>
 			</p>
-			<p class="normaltext" style="float: right; width: 55%; font-size: 12pt">
+			<p class="normaltext" style="float: left; width: 500px; font-size: 12pt">
 				"It ain't about us, it ain’t about the selfishness that people have in them, it's not about that - it's about what they care about, if they care, if they love, it's going to go global... <br/>we're all equal"
 				<Br/><Br/>-- Wakan, previous DFC USA winner and Be The Change conference attendee
 			</p>
