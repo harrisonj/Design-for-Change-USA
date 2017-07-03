@@ -194,6 +194,11 @@
 		</section>
 	</div>
 
+	<div class="highlightBanner" style="min-height: 10px; height: 20px;"></div>
+
+	<div style="background-image: url(pics/15276226498_56d159e927_k.png); background-repeat: no-repeat; background-size: cover; width: 100%; height: 500px"></div>
+	<div class="highlightBanner" style="min-height: 10px; height: 20px;"></div>
+
 	<script>
 		$(document).ready(function() {
 			$('.inner_navigation').find('li').find('a').removeClass('active');
