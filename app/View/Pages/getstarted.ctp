@@ -1,5 +1,6 @@
 <div class="insidepage no_spacing">
 	<div class="contents">
+		<br/><br/>
 		<h1>Get Started</h1>
 		<p class="normaltext">Working with Design for Change is easy. We offer everything from free activities to comprehensive program management.</p>
 		<p class="normaltext">
@@ -10,6 +11,7 @@
 				<li><b><a href="#toolkit">Chapter Toolkit:</a></b> If you're a university / college student looking to do work in your community with young people, start your own chapter.</li>
 			</ol>
 		</p>
+		<br/>
 	</div>
 </div>
 

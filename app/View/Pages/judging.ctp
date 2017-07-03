@@ -3,18 +3,16 @@
 		<h1>Submitting Your Project
 		<a class="action_button red" href="http://portal.designforchange.us/dfcusa-pm/pages/login" style="font-size: 15pt; width: 200px; height: 25px; line-height: 25px; float: right">Submit Now</a></h1>
 		<p class="normaltext">
-			The Design for Change USA deadline is fast approaching and we can't wait to see the wonderful changes your students are bringing to the world! 
-			<br/>
-			As part of the Feel, Imagine, Do, Share process, don't forget about the critical video component of your project. 
+			Design for Change USA will select an Ambassador Team to attend the annual Be The Change conference. To be considered, please submit a video of your project. 
 			<br/>
 			<ul style="list-style-type: disc; margin-left: 20px; margin-top: 15px">
-				<li><b>Deadline:</b> May 15th, 2017</li>
-				<li><b>Winners Announced:</b> May 30th, 2017</li>
+				<li><b>Deadline:</b> May 15th, 2018</li>
+				<li><b>Ambassador Team Announced:</b> May 30th, 2018</li>
 			</ul>
 		</p>
 		<br/>
 		<p class="normaltext">
-			<b>Five people from the winning team will receive a fully funded trip to the DFC Global Conference in Spain, November 2017. </b>
+			<b>Five people from the Ambassador Team will receive a fully funded trip to the DFC Global Conference, typically in the fall/winter. </b>
 		</p>
 		<br/><br/><br/><br/><br/><br/>
 		<div class="box_style_1" style="float: left; width: 400px; height: 240px">

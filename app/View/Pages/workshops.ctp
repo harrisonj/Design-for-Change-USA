@@ -1,5 +1,6 @@
 <section class="inner_training">
 	<div class="container">
+		<br/>
 		<div class="inner_training_header">
 			<h2>Design for Change Professional Development Workshop</h2>
 			<div class="subline"><h3>An interactive training for educators</h3></div>
@@ -95,7 +96,7 @@
 					<h3>Remote Webinar</h3>
 					<br/>  
 					<p class="normaltext" style="line-height: 15pt; font-size: 10pt">
-						Our remote webinar covers design thinking and Design for Change basics and gives participants all the tools they need to begin their Design for Change projects right away.<br/><br><b>This remote webinar lasts 90 minutes.</b></p>
+						Our remote webinar covers design thinking and Design for Change basics and gives participants all the tools they need to begin their Design for Change projects right away.<br/><br><b>This remote webinar is 90 minutes.</b></p>
 						<br/>
 						<div class="button-outline white">$200</div>
 						<p><i>For up to 50 participants.</i></p>

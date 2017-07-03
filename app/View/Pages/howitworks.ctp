@@ -1,19 +1,20 @@
 <div class="insidepage no_spacing">
 	<div class="contents">
+		<br/><br/>
 		<h1>How It Works</h1>
 		<p class="normaltext">Design for Change is a <b>global</b> movement of young people who are changing the world!</p>
 		<div class="left_content">
 			<ul class="normallist">
 				<li><b>Who:</b> Any group of young people (K-12) with an adult mentor such as a teacher, parent, youth leader or coach.</li>
 				<li><b>How:</b> Teams dream up and lead social change projects in their own schools/communities using the DFC methodology.</li>
-				<li><b>What:</b> Teams implement their projects and submit a video documenting their success by the deadline: <b>May 15, 2017.</b></li>
-				<li><b>And Then:</b> Each team is evaluated by an expert panel of judges and a winning team is selected to attend the DFC Global Conference.</li>
+				<li><b>What:</b> Teams implement and submit their projects by the deadline: <b>May 15, 2018.</b></li>
+				<li><b>And Then:</b> An Ambassador Team is selected to represent the United States at the annual Design for Change Global Conference, held in a different city each year.</li>
 			</ul>
 		</div>
-		<div class="box_style_1">
+		<div class="box_style_1" style="width: 500px; height: 350px; margin-top: -100px">
 			<h4><a href="#">Global Movement</a></h4>
 			<div class="media">
-				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/124807943" webkitallowfullscreen="" width="350" height="230"></iframe>
+				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/124807943" webkitallowfullscreen="" width="500" height="285"></iframe>
 			</div>
 		</div>
 	</div>
@@ -22,7 +23,7 @@
 <div class="insidepage block7">
 	<div class="contents">
 		<h1>The Methodology</h1>
-		<p class="normaltext">Design Thinking is a process of creating new and innovative ideas to solve a problem. Design for Change takes young people through 4 stages:</p>
+		<p class="normaltext">Design Thinking is a process of creating new and innovative ideas to solve a problem. Design for Change takes young people through 4 steps:</p>
 		<br/>
 		<div class="box-container">
 			<div class="fidsbox">
@@ -61,7 +62,7 @@
 		<div class="featurebox">
 			<div style="height: 250px">
 				<img src="/dfcusa/app/webroot/images/curriculum_cover.png" class="bookcover" style="height: 210px">
-				<ul class="normallist">
+				<ul class="normallist" style="max-width: 800px">
 					<span class="title">Activities</span>
 					<li>Over 50 activities designed by experts</li>
 					<li>Each activity is 30 or 60 minutes</li>
@@ -70,7 +71,7 @@
 			</div>
 			<div style="height: 250px">
 				<img src="/dfcusa/app/webroot/images/videopreview.png" class="bookcover" style="height: 200px;">
-				<ul class="normallist">
+				<ul class="normallist" style="max-width: 800px">
 					<span class="title">Resources</span>
 					<li>Web platform that helps mentors through each step</li>
 					<li>Interactive tutorials and videos and project management</li>
@@ -79,9 +80,9 @@
 			</div>
 			<div>
 				<img src="/dfcusa/app/webroot/images/postitnotes.jpg" class="bookcover" style="width: 400px">
-				<ul class="normallist">
+				<ul class="normallist" style="max-width: 800px">
 					<span class="title">Training & Support</span>
-					<li>3 or 5 hour custom interactive workshops that teach design thinking and the DFC methodology</li>
+					<li>Half day and full day interactive workshops that teach design thinking and the DFC methodology</li>
 					<li>Onsite training and remote webinars</li>
 					<li>E-mail, phone and live chat support</li>
 				</ul>
@@ -101,17 +102,17 @@
 <div class="insidepage block2">
 	<div class="contents">
 		<h1>The Global Challenge</h1>
-		<p class="normaltext">Every year, teams submit their projects in video form to be judged by a panel of experts. The winning team is awarded an all expenses trip to the The DFC Global Conference that brings together teams from across the world to share and celebrate their projects, and most importantly, inspire others!</p>
+		<p class="normaltext">Every year, teams from around the world submit social change projects using the Design for Change framework. An Ambassador Team is selected to attend an all expenses trip to the The DFC Global Conference that brings together teams from across the world to share and celebrate their projects, and most importantly, inspire others!</p>
 		<br/>
 		<div style="float: left;">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/MkVYu-ZvDR8" frameborder="0" allowfullscreen></iframe>
 		</div>
 		<div style="float: left; margin-left: 20px; text-align: left">
-			<iframe width="450" height="225" src="https://www.youtube.com/embed/shfF0BrXq4E" frameborder="0" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/shfF0BrXq4E" frameborder="0" allowfullscreen></iframe>
 			<br/><br/>
-			<p class="normaltext" style="width: 600px">This two day event is filled with presenters, interactive workshops, music, fun and games! It is a life changing experience for everybody.</p>
 		</div>
-
+		<div class="clear"></div>
+		<p class="normaltext">This two day event is filled with presenters, interactive workshops, music, fun and games! It is a life changing experience for everybody.</p>
 		<div class="clear"></div>
 	</div>
 </div>
@@ -119,7 +120,7 @@
 <div class="insidepage block7 small red">
 	<div class="contents">
 		<center>
-			<p class="normaltext"><a href="/dfcusa/pages/judging"><b>Learn about the submission and judging process.</b></a></p>
+			<p class="normaltext"><a href="/dfcusa/pages/judging"><b>Learn about how the Ambassador Team is selected.</b></a></p>
 		</center>
 	</div>
 </div>
@@ -130,7 +131,7 @@
 		<div class="winning-stories">
 			<div class="story-item">
 				<div class="box_style_2">
-					<h4><a href="#">2017 Winner</a></h4>
+					<h4><a href="#">2017 Ambassador Team</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/zo9hSH4LArI" webkitallowfullscreen=""></iframe>
 					</div>
@@ -140,7 +141,7 @@
 			</div>
 			<div class="story-item">
 				<div class="box_style_2">
-					<h4><a href="#">2016 Winner</a></h4>
+					<h4><a href="#">2016 Ambassador Team</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/70YnAcqvq3E" webkitallowfullscreen=""></iframe>
 					</div>
@@ -150,7 +151,7 @@
 			</div>
 			<div class="story-item">
 				<div class="box_style_2">
-					<h4><a href="#">2015 Winner</a></h4>
+					<h4><a href="#">2015 Ambassador Team</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/QbrHVZ7yJ4w" webkitallowfullscreen=""></iframe>
 					</div>
@@ -160,7 +161,7 @@
 			</div>
 			<div class="story-item">
 				<div class="box_style_2">
-					<h4><a href="#">2014 Winner</a></h4>
+					<h4><a href="#">2014 Ambassador Team</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/jyEuqLSVMH0" webkitallowfullscreen=""></iframe>
 					</div>

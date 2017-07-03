@@ -1,10 +1,11 @@
 <div class="insidepage no_spacing">
 	<div class="contents">
-		<h1>Winning Stories of Change</h1>
+		<br/><br/>
+		<h1>Stories of Change</h1>
 		<div class="winning-stories">
 			<div class="story-item" style="width: 100%; height: 520px">
 				<div class="box_style_2" style="height: 450px">
-					<h4><a href="#">2017 Winning Team</a></h4>
+					<h4><a href="#">2017 Ambassador Team</a></h4>
 					<div class="media" style="height: 320px">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/zo9hSH4LArI" webkitallowfullscreen="true" height="300"></iframe>
 					</div>
@@ -14,7 +15,7 @@
 			</div>
 			<div class="story-item">
 				<div class="box_style_2">
-					<h4><a href="#">2016 Winning Team</a></h4>
+					<h4><a href="#">2016 Ambassador Team</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/70YnAcqvq3E" webkitallowfullscreen=""></iframe>
 					</div>
@@ -24,7 +25,7 @@
 			</div>
 			<div class="story-item">
 				<div class="box_style_2">
-					<h4><a href="#">2015 Winning Team</a></h4>
+					<h4><a href="#">2015 Ambassador Team</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/QbrHVZ7yJ4w" webkitallowfullscreen=""></iframe>
 					</div>
@@ -34,7 +35,7 @@
 			</div>
 			<div class="story-item">
 				<div class="box_style_2">
-					<h4><a href="#">2014 Winning Team</a></h4>
+					<h4><a href="#">2014 Ambassador Team</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/jyEuqLSVMH0" webkitallowfullscreen=""></iframe>
 					</div>
@@ -44,7 +45,7 @@
 			</div>
 			<div class="story-item">
 				<div class="box_style_2">
-					<h4><a href="#">2013 Winning Team</a></h4>
+					<h4><a href="#">2013 Ambassador Team</a></h4>
 					<div class="media">
 						<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://www.youtube.com/embed/m4v4TTXwmTA" webkitallowfullscreen=""></iframe>
 					</div>
