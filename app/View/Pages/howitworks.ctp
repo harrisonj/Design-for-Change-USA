@@ -11,10 +11,10 @@
 				<li><b>And Then:</b> An Ambassador Team is selected to represent the United States at the annual Design for Change Global Conference, held in a different city each year.</li>
 			</ul>
 		</div>
-		<div class="box_style_1" style="width: 500px; height: 350px; margin-top: -100px">
+		<div class="box_style_1" style="width: 400px; height: 350px; margin-top: -100px">
 			<h4><a href="#">Global Movement</a></h4>
 			<div class="media">
-				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/124807943" webkitallowfullscreen="" width="500" height="285"></iframe>
+				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/124807943" webkitallowfullscreen="" width="400" height="285"></iframe>
 			</div>
 		</div>
 	</div>

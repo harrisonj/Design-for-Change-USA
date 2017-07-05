@@ -9,10 +9,10 @@
 			<br/>
 			<p class="normaltext">Today, the DFC movement can be felt worldwide from Australia, to Israel, to the United States of America. </p>
 		</div>
-		<div class="box_style_1" style="width: 500px; height: 350px; margin-top: -40px">
+		<div class="box_style_1" style="width: 400px; height: 350px; margin-top: -100px">
 			<h4><a href="#">Kiran Sethi - Kids, Take Charge</a></h4>
 			<div class="media">
-				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html" webkitallowfullscreen="" width="500" height="285"></iframe>
+				<iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://embed-ssl.ted.com/talks/kiran_bir_sethi_teaches_kids_to_take_charge.html" webkitallowfullscreen="" width="400" height="285"></iframe>
 			</div>
 		</div>
 	</div>
