@@ -46,7 +46,7 @@
 					<br/><br/>
 					<h3>Design for Change Workbook Curriculum</h3>
 					<br/>
-					<a href="http://www.blurb.com/bookstore/invited/6523540/82b89279c32a67dba941e0672179bbe6e6d7efdb" target="_new" class="button-outline">Buy Now</a>&nbsp;&nbsp;&nbsp;&nbsp;$30.00
+					<a href="http://www.blurb.com/bookstore/invited/7065396/a03efacb2a7bf93d22db65df0f561b3e57de4646" target="_new" class="button-outline">Buy Now</a>&nbsp;&nbsp;&nbsp;&nbsp;$30.00
 					<br/>					  
 					<p class="normaltext" style="line-height: 15pt; font-size: 10pt">
 						Design for Change offers a 30 hour workbook style curriculum jointly designed by the DFC Global Team, Harvard Graduate School of Education, Stanford Design School and IDEO. We encourage each student to have a copy so they can follow along the Design for Change process.
@@ -69,7 +69,7 @@
 					<br/><br/>
 					<h3>Design for Change Teacher's<br/>Guide</h3>
 					<br/>
-					<a href="http://www.blurb.com/bookstore/invited/6523603/1a20534013ff19ec364cebac2929fb455783cd36" target="_new" class="button-outline">Buy Now</a>&nbsp;&nbsp;&nbsp;&nbsp;$36.00
+					<a href="http://www.blurb.com/bookstore/invited/7065428/7508ff7192e86f5dda3fd0eae0b608d22c40b380" target="_new" class="button-outline">Buy Now</a>&nbsp;&nbsp;&nbsp;&nbsp;$36.00
 					<br/>
 					<p class="normaltext" style="line-height: 15pt; font-size: 10pt">
 						The teacher's guide is the ultimate companion to the Design for Change Curriculum. This guide walks you through on how to effectively use the Design for Change curriculum with your youth, along with tips and additional activities.
