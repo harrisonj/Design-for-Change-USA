@@ -80,7 +80,7 @@
 			</div>
 			<div>
 				<img src="/dfcusa/app/webroot/images/postitnotes.jpg" class="bookcover" style="width: 400px">
-				<ul class="normallist" style="max-width: 800px">
+				<ul class="normallist" style="max-width: 700px">
 					<span class="title">Training & Support</span>
 					<li>Half day and full day interactive workshops that teach design thinking and the DFC methodology</li>
 					<li>Onsite training and remote webinars</li>
